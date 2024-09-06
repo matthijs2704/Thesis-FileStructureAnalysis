@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "filestructure-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Matthijs Logemann <matthijs@logemann.dev>"]
+readme = "README.md"
+
+packages = [
+    { include = "language_selection", from = "src" },
+    { include = "project_selection", from = "src" },
+    { include = "project_collection", from = "src" },
+    { include = "repository_analysis", from = "src" },
+    { include = "data_analysis", from = "src" },
+    { include = "commit_classification", from = "src" },
+    { include = "cluster_support", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+requests = "^2.31.0"
+pygithub = "^2.1.1"
+bs4 = "^0.0.1"
+calmjs-parse = "^1.3.0"
+fuzzywuzzy = "^0.18.0"
+pyrepositoryminer = { git = "https://github.com/matthijs2704/pyrepositoryminer.git" }
+pandas = "^2.2.1"
+treelib = "^1.7.0"
+asyncio = "^3.4.3"
+matplotlib = "^3.8.0"
+pyyaml = "^6.0.1"
+regex = "^2023.10.3"
+jupyter = "^1.0.0"
+transformers = "^4.34.1"
+scikit-learn = "^1.2.2"
+torch = "2.2.1"
+simpletransformers = "^0.64.3"
+fastparquet = "^2023.8.0"
+simple-slurm = "^0.2.6"
+python-dotenv = "^1.0.0"
+qcg-pilotjob = "^0.14.0"
+qcg-pilotjob-executor-api = "^0.14.0"
+kaleido = "0.2.1"
+werkzeug = "2.2.2"
+plotly = "^5.18.0"
+chardet = "^5.2.0"
+dask = "^2024.2.1"
+dask-expr = "^0.5.3"
+pyqt6 = "^6.6.1"
+upsetplot = "^0.9.0"
+xlsxwriter = "^3.2.0"
+openpyxl = "^3.1.3"
+statsmodels = "^0.14.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

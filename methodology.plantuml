@@ -1,0 +1,34 @@
+@startuml Methodology
+start
+partition "Project selection" {
+:Crawling top lists of Programming Languages;
+fork
+:Stack Overflow Developer\nSurvey 2023;
+fork again
+:PyPL;
+fork again
+:TIOBE;
+end fork
+-> Selected if in top 10 on all 3 lists;
+:Choose programming languages;
+}
+-> Top 10 programming langauges;
+partition "Project selection" {
+:Crawl GitHub using Search API;
+:Select top 1000 projects;
+note right: At least pushed to since 01-01-2020;
+:TODO: Filter projects;
+note right: This is a note;
+}
+-> X projects;
+partition "Data analysis" {
+:Generate dataset of file structure mutations;
+fork
+:Build file tree using mutations;
+fork again
+:Generate commit statistics;
+:Classify commit messages;
+end fork
+}
+stop
+@enduml

@@ -1,0 +1,1036 @@
+repo_id,commit_id,commit_time,message,parents,n_added,n_deleted,n_moved,n_renamed,n_struc_changes,total_files_per_level,max_file_depth,total_files,repo_id,bucket,commit_date,max_file_depth_diff
+bishopfox_sliver,21375a5eab6b3f262293d799a7e5616004aad40d,2019-05-10 12:41:49,"Merge branch 'master' into stagers
+","2ceb9845da5d877ac825add4868f188c91eaf53b,b48d3aedabbac2f34592b9133097ed3be9ff155b",3835,0,1,5,3841,"11,13,166,0,646,1385,905,480,197,95,30,56,1,2,5,3,10,14",18,4019,bishopfox_sliver,60,2019-05-10,15.0
+eclipse_kapua,a56d9021b3775fd25a69da944e9ab759ed361e39,2016-10-14 15:23:13,"First contribution
+",,1356,0,0,0,1356,"5,69,19,22,29,35,32,45,95,108,130,208,133,137,124,64,88,13,0,0",18,1356,eclipse_kapua,2,2016-10-14,18.0
+gliderlabs_registrator,e2677212c2d851e64581286e4c8e99ec9ba8fead,2015-02-18 17:53:03,"overhaul of build/release system, modeled after logspout overhaul
+",ee8720d50ab6677ca6e4932cfc1e03a040cbdbd6,4,215,0,0,219,"15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,15,gliderlabs_registrator,0,2015-02-18,-16.0
+dropbox_componentbox,9edec24093fe529f5db50a03bc4422c657179d4c,2022-03-03 13:41:16,"First commit
+",,356,0,0,0,356,"10,4,5,8,6,38,1,33,31,29,14,96,51,28,2,0,0",15,356,dropbox_componentbox,13,2022-03-03,15.0
+google_bindiff,02373971f615bb50acf8a8236a1c5b514a4769d0,2020-07-23 14:29:35,"Internal change
+
+PiperOrigin-RevId: 152491260
+Change-Id: I65c80c7e7027533f9ca84958d258afea91036692
+",862910ccbdbc80b5396a21c7e67f104b2a059226,1177,0,0,0,1177,"39,10,37,0,0,0,0,0,0,0,0,149,435,190,220,149,22,12",18,1263,google_bindiff,14,2020-07-23,15.0
+miguelmota_streamhut,dad2b6d7c2573c1620cee5f16bf80425fd082912,2014-11-03 09:10:41,"initial
+",,5555,0,0,0,5555,"9,1,165,200,510,458,846,516,983,447,569,253,254,139,188,16,1",17,5555,miguelmota_streamhut,58,2014-11-03,17.0
+newrelic_sidecar,729d82356e608dabf6bbae0bb926629a09336849,2015-12-04 04:58:31,"Vendor the world.
+",d66fbbc15ac93f5cd43cc1fd7447c362bff999b6,567,0,0,0,567,"12,25,1,0,0,0,184,132,125,69,19,10,2,0,0,10,13",17,602,newrelic_sidecar,15,2015-12-04,15.0
+dropbox_dbx_build_tools,062b7ced7133a905f0db351ab8cd4e3c5733b30f,2019-12-11 01:39:47,"Update from Dropbox.
+
+GitOrigin-RevId: 7aab909583470e1a1b512f5f9ee39ac661da5383
+",,4860,0,0,0,4860,"6,24,158,39,87,284,1714,1260,652,346,136,48,71,1,2,5,3,10,14",19,4860,dropbox_dbx_build_tools,74,2019-12-11,19.0
+eclipse_jkube,ec4d78fc942de89fde69cd33a24644074514fa88,2019-09-05 10:49:40,"Initial commit
+",,1083,0,0,0,1083,"2,11,22,14,3,148,140,103,69,74,112,147,77,35,74,30,21,1,0",18,1083,eclipse_jkube,49,2019-09-05,18.0
+modernizr_modernizr,fa31361b7b23dc688f0f649cd9e416289e6ced8c,2013-01-25 23:45:51,"Merge pull request #794 from SlexAxton/3pre
+
+Merge 3pre into master - feels good man","f5abc76971df265b256da81cbbaefd7493a63e41,7270c43d8b4ef4817e972989bdd556bbfaf21440",5967,23,83,2,6075,"13,106,196,97,251,161,599,431,503,2526,401,213,366,133,26,45,3,0,80",19,6150,modernizr_modernizr,41,2013-01-25,15.0
+modernizr_modernizr,ca825f185053f4e499a8d34c4722125279e55735,2013-02-24 00:11:20,"Merge pull request #828 from SlexAxton/master
+
+_Slightly_ more sane pull request to clean stuff up. Plus metadata start.","fe93b626d6719dc12d0d37cb32c03c878d6eab44,8813c25fb86b2b552bebd95503956c7eaa2f7a00",1,5876,0,0,5877,"14,107,151,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,277,modernizr_modernizr,41,2013-02-24,-15.0
+tkestack_gpu-manager,cb32733cb219e8f2db755525c2f2e8738dfe07e4,2019-11-05 10:56:30,"Init commit
+
+Signed-off-by: mYmNeo <thomassong2012@gmail.com>
+",,27408,0,0,0,27408,"8,13,17,182,1877,5215,8233,4441,2734,1461,1414,996,528,87,109,84,5,4",18,27408,tkestack_gpu-manager,54,2019-11-05,18.0
+eclipse-ee4j_jersey,12a057315292a624ceb31b58bd04eec3cb19a819,2018-04-25 15:50:03,"Initial Contribution
+
+Signed-off-by: Jan Supol <jan.supol@oracle.com>
+",,4925,0,0,0,4925,"6,22,232,138,110,48,78,145,268,592,885,688,1258,217,187,43,8",17,4925,eclipse-ee4j_jersey,71,2018-04-25,17.0
+effectivemade_labs-office-elevator,01cb7b5c767361271af6acc0fc07e4e88b1b4c3e,2022-12-04 10:52:13,"- Initial commit
+",,139,0,0,0,139,"1,22,4,10,3,8,15,6,6,4,8,42,5,5,0,0,0",14,139,effectivemade_labs-office-elevator,67,2022-12-04,14.0
+k8snetworkplumbingwg_multus-cni,de1c1c78e9eed844c5a2b9aca32dc6572752b20a,2019-06-24 07:50:30,"Migrate go modules from glide
+",df58b7432987f4ecf856af07b58954f2490d1213,2,17628,0,0,17630,"12,33,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,65,k8snetworkplumbingwg_multus-cni,55,2019-06-24,-15.0
+qist_tvbox,fcbdcfd1cb2fe73932cec1eb01f1e180c258bdf3,2022-08-24 00:55:19,"更新 '{""key"":""csp_XYQBiu_短视频"",""name"":""分享短视频(YXQ)"",""type"":3,""api"":""csp_XYQBiu"",""searchable"":1,""quickSearch"":1,""filterable"":0,""jar"":""https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar"",""ext"":""https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json""}0823.json'
+",1fe2b7b6242c95ef0f07f88ed2e32f552fd30448,0,0,2,0,2,"14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",17,24,qist_tvbox,0,2022-08-24,15.0
+qist_tvbox,d9cb84f70c851330cbb942111c2c2e4e966596bc,2022-08-24 01:01:19,"删除 '{""key"":""csp_XYQBiu_短视频"",""name"":""分享短视频(YXQ)"",""type"":3,""api"":""csp_XYQBiu"",""searchable"":1,""quickSearch"":1,""filterable"":0,""jar"":""https:/gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar"",""ext"":""https:/gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json""}0823.json'
+",fcbdcfd1cb2fe73932cec1eb01f1e180c258bdf3,0,2,0,0,2,"14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,23,qist_tvbox,0,2022-08-24,-15.0
+openfaas_faas-cli,c4ab2b973ba703266295198ca7a266d41d16a4c7,2017-06-23 11:34:09,"Add vendoring:
+",9981b7f622bc17df42469dbe67f2fa3e4c54c22d,7329,0,0,0,7329,"15,1,19,23,18,39,102,32,3,266,1639,1086,1036,1332,1097,502,134,22",18,7366,openfaas_faas-cli,11,2017-06-23,14.0
+zwl568633995_xposed-douyin,eff7849ffbdce4e571218cdb3a564435b213e7e7,2020-07-16 06:43:46,"x
+",,2708,0,0,0,2708,"8,19,1,10,2,1599,2,75,190,179,78,2,5,28,32,81,197,166,24,10",20,2708,zwl568633995_xposed-douyin,39,2020-07-16,20.0
+athenz_athenz,c590f80643105e37682d2fb5900b137aea8d74e3,2016-12-31 09:10:04,"Initial commit
+",,634,0,0,0,634,"4,12,22,67,2,72,65,1,19,161,81,81,41,6,0,0,0",14,634,athenz_athenz,55,2016-12-31,14.0
+forgeekscn_sftnow,c9ab0d5eeae290719948cc47acb90da65dc59410,2016-07-18 11:05:26,"first commit
+",,1375,0,0,0,1375,"8,7,42,231,226,259,253,25,0,0,1,74,40,109,31,0,32,11,9,9,4,4",22,1375,forgeekscn_sftnow,32,2016-07-18,22.0
+javaee_glassfish,10f9ad762f9fd07f4ccbaaa712a48d6715ae80cf,2007-11-08 20:34:55,"Moving the v2 trunk to the v2 directory.
+
+svn path=/trunk/; revision=17529
+",,25436,0,0,0,25436,"0,1,411,705,1577,2903,3424,3002,2696,2745,3161,2432,1385,806,160,28,0,0,0,0,0,0,0,0",16,25436,javaee_glassfish,64,2007-11-08,16.0
+kubernetes-csi_external-snapshotter,cc19fd383fa34c3fa7f7e2614d0f4872fe21a2c0,2018-08-14 00:20:37,"Merge pull request #6 from xing-yang/snapshot_apis
+
+Add Snapshot APIs","36b1de034172fdcbfcb8eea1617a7fc0dd9add05,3832c9d2b0c7a92ff2613a4e19d9b872850e0f49",17732,0,0,0,17732,"11,2,1,154,903,2884,4796,3167,1535,1304,1281,926,508,83,103,79,5,4",18,17746,kubernetes-csi_external-snapshotter,3,2018-08-14,15.0
+concretecms_concretecms,10236caea734eeb055cd0aa18f3178bf1c6f7c0b,2008-08-04 16:33:28,"initial import
+
+git-svn-id: http://svn.concrete5.org/svn/concrete5@1 b0551a0c-1e16-4222-a7d5-975db1aca215
+
+Former-commit-id: f65e81cd0d6e920df0ec228211e9f4208f10fdbd",,2435,0,0,0,2435,"0,0,18,15,231,535,445,398,413,188,114,66,8,4,0,0,0,0",14,2435,concretecms_concretecms,44,2008-08-04,14.0
+eclipse_vorto,24701d5566832a6409fe4fb1d4d07889453f7948,2015-07-08 03:17:53,"Merge pull request #1 from aedelmann/master
+
+Initial contribution","2b89cbbf9199368e26fc5dca3ee54f5e14cf6e4d,480430b651ea0b1f519fff491b3588d4d689b21f",911,0,0,0,911,"7,9,228,82,20,4,8,17,71,112,152,147,37,13,5,0,0",15,912,eclipse_vorto,76,2015-07-08,14.0
+fomantic_fomantic-ui,58d39d258a2b31c9accc604afbc8a61794c5b12e,2013-05-01 21:05:40,"Fixes issue with accidental submodule
+
+
+Former-commit-id: f2f2fbf22402b7bf2a808dbad20619cb212ee9ef
+Former-commit-id: 1e28dcc450e2333906f61d603c1d5b1339a419e0",c42dd056e648fbf81e01d3a95b8c32f9eaf25ac2,10446,4,0,0,10450,"2,23,29,253,385,435,616,733,625,736,449,468,270,288,181,115,34,2,0,80",20,5724,fomantic_fomantic-ui,37,2013-05-01,15.0
+metasfresh_metasfresh,a9fb744b953803391a7fe52a3c3742bd74cf12c7,2015-10-06 15:27:20,"initital add
+",,11923,0,0,0,11923,"0,225,489,324,58,36,371,393,4345,3018,1754,596,251,51,12,0,0,0",15,11923,metasfresh_metasfresh,1,2015-10-06,15.0
+polycube-network_polycube,0df5d815c7fd8c1352bcfcb2539bab7411776bdf,2018-12-12 04:21:04,"Initial commit
+",,6678,0,0,0,6678,"16,39,31,131,374,578,90,177,581,1550,855,1265,778,185,9,16,3",17,6678,polycube-network_polycube,43,2018-12-12,17.0
+probmods_webppl,38c5bddd9bc566fb12d210f3c60ea278d81a1c8c,2014-08-08 16:42:48,"Add webppl code from esslli course
+",cc64450960c4209caa0debb7efc20854284e2048,769,0,0,0,769,"4,9,72,80,89,95,91,66,42,56,19,14,19,32,2,0,80",17,770,probmods_webppl,53,2014-08-08,16.0
+probmods_webppl,cfa4458fbbc69dd482703d3f6e7c1456546344e7,2015-02-10 22:29:12,"merge conflict merge
+","2bfc6a628b0b9405e21d6660300e0d92a655086c,673189b51e73bca36acb74499405ae0ac34f3b51",12,1321,0,0,1333,"5,24,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,41,probmods_webppl,53,2015-02-10,-14.0
+xiaomi_mone,5fa64a864d708b7de7c31dbf10dd94b1e34542af,2023-02-09 12:13:08,"init
+",,8362,0,0,0,8362,"4,21,268,168,251,342,602,430,201,724,964,1905,1380,731,262,93,16",17,8362,xiaomi_mone,30,2023-02-09,17.0
+deeplearning4j_deeplearning4j,b5f0ec072f3fd0da566e32f82c0e43ca36553f39,2019-06-06 12:21:15,"Eclipse Migration Initial Commit
+",,8119,0,0,0,8119,"10,114,211,501,263,249,668,98,235,814,1586,1293,1145,306,248,306,62,10",18,8119,deeplearning4j_deeplearning4j,22,2019-06-06,18.0
+exacttarget_fuelux,16d86b638ffed30a6ecd064a80cbb592bc49a4f2,2014-08-15 13:52:04,"Merge branch 'master' of github.com:ExactTarget/fuelux
+","0eb16f316a00d24d395a8fedcdea274f1a6c8b10,fe79d9d964e8e55111469a72b91422ebf97683b7",113,5485,14,1,5613,"16,100,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,150,exacttarget_fuelux,67,2014-08-15,-14.0
+golangltd_lollipopgo,a53e3a1c7e2f15e2e3c623906a34836904eb610d,2020-06-14 16:44:26,"update 2.8X
+",c435eb5b76d34c04169f06891a0d6537b8d45246,39,13230,30,0,13299,"4,9,35,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,74,golangltd_lollipopgo,51,2020-06-14,-15.0
+helidon-io_helidon,c17c02343e12e8bd76414ae7de8a467ba2937dcc,2018-08-28 22:35:19,"first commit
+",,1683,0,0,0,1683,"6,14,61,106,36,100,209,55,278,285,179,279,70,5,0,0,0",14,1683,helidon-io_helidon,57,2018-08-28,14.0
+opennetworkinglab_onos,06613e9e35fa37b83c87ef7f03ca8923752b83dc,2017-07-17 20:40:31,"Updating Microsemi Driver to onos-yang-tools 2.x
+
+Change-Id: I80e3348087518a8f9a742c813b6238371a3f8f97
+",ce25649ff6cdbcb9dd14090764f13fa453ef93fd,10,18,78,0,106,"12,63,354,648,97,176,189,619,1176,2268,1914,1472,492,45,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0",15,9535,opennetworkinglab_onos,53,2017-07-17,-14.0
+ricefishtech_industry4.0-mes,97337f315ec927a59166016f64d938f12f3dd258,2018-04-06 11:46:52,"first version
+",44daec49a5fa8507da3350f7c6380429a19b08fc,3270,0,0,0,3270,"6,9,110,0,2,125,17,868,194,262,1339,224,64,31,19,1,0",16,3271,ricefishtech_industry4.0-mes,57,2018-04-06,15.0
+ricefishtech_industry4.0-mes,a53a99834402a5859716d0cfad3f84126841b11e,2021-09-29 04:53:59,"0.1
+",c6959db9f1e940c972ba2aece78ff3090a50b525,1,3267,0,0,3268,"0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,4,ricefishtech_industry4.0-mes,57,2021-09-29,-14.0
+topcoder-platform_topcoder-uml-tool,8bcbc993ceabc28e5aa50776246a4f2a9572f549,2014-02-24 22:14:53,"latest
+",8d23604bbab69cc41e80a5d2f0b22c87b7aeb157,19528,0,0,0,19528,"4,68,106,37,860,450,2192,1410,8909,411,133,120,475,1093,1884,1293,85,0,0",17,19530,topcoder-platform_topcoder-uml-tool,36,2014-02-24,16.0
+intel_userspace-cni-network-plugin,6e9ee3acb8e09ee6c61d7498df4afcf6c75f92cf,2020-10-14 13:18:44,"Merge pull request #56 from przemeklal/glide_to_go_modules
+
+replace glide with go modules","c491716c0e272e58f5fca4f64513d76ca2da1c0e,0758c8b3af6baf1c58e8ce0b42c7923391244259",2,17214,0,0,17216,"8,23,43,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,90,intel_userspace-cni-network-plugin,11,2020-10-14,-14.0
+koding_koding,196a6b443b5f579c517038c5506c4c6370897a07,2012-06-01 23:14:40,"first
+",,6243,0,0,0,6243,"10,39,351,510,856,905,934,680,611,334,260,178,245,96,6,0,228,0,0,0",17,6243,koding_koding,61,2012-06-01,17.0
+opensourceways_sbom-tools,71397eaf59c2161e0901ff6cb77c5a243e2a082e,2022-08-08 03:49:31,"merge branch 'syft'
+","d9c9b6224a152860ee1c9677f749ff22025bc514,9af409c940f5e43fd9be36f6bd0f8cfe9318be3a",998,0,0,0,998,"2,19,19,242,88,244,114,158,85,6,3,4,2,0,4,3,7,0",17,1000,opensourceways_sbom-tools,51,2022-08-08,16.0
+wanderxx_vue-fullcalendar,7b1fcf246975afc9c3962513ae3cf9f35dac9ff9,2016-07-07 08:46:24,"new fc
+",,15604,0,0,0,15604,"6,26,6,558,0,4776,4962,3130,1679,342,24,46,2,26,5,13,3",17,15604,wanderxx_vue-fullcalendar,26,2016-07-07,17.0
+wanderxx_vue-fullcalendar,1901c35a9d1e16f0eec620d10638d410e16d3e5e,2016-07-07 08:54:42,"remove node_modules
+",0cec2b0be5ef257f881512b35ef0006c2d98e2b0,0,15591,0,0,15591,"7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,14,wanderxx_vue-fullcalendar,26,2016-07-07,-14.0
+awslabs_aws-sdk-net-samples,d1da2c3def6dc6e5bf7cb655b999aa4558dc5581,2015-10-06 06:15:39,"Add content from AWS re:Invent talk on ASP.NET 5 development and hosting
+",68cb6962c163a52bcb4740f96a868e763618323f,3128,0,0,0,3128,"3,1,31,107,85,102,52,64,100,331,292,559,216,649,78,380,69,184,50,24,3,1,0",22,3381,awslabs_aws-sdk-net-samples,0,2015-10-06,15.0
+awslabs_aws-sdk-net-samples,1355b97a03f387f02abba83ece78a781c4ac439a,2022-10-24 05:57:32,"Remove obsolete talks samples
+",ff32f356f0682e37c84451a43e9fefe402510e84,0,6523,0,0,6523,"3,0,33,121,85,40,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,291,awslabs_aws-sdk-net-samples,0,2022-10-24,-16.0
+fonta1n3_fullynoded,a3e7f0ae1cf25e27283cd2cf16e2702eaa35104f,2018-10-25 12:53:02,"Initial Commit
+",,986,0,0,0,986,"4,22,30,206,293,223,95,37,17,13,28,5,4,9,0,0,0,0,0,0",14,986,fonta1n3_fullynoded,63,2018-10-25,14.0
+k8snetworkplumbingwg_sriov-network-device-plugin,70678aa74dbd6e9f85fd69bd540f0c41fca3c60e,2018-05-23 16:38:31,"First release commit
+
+Change-Id: Iec53e45916af6ad7e9af46c28efb9e39d56e6441
+Co-authored-by: Louise Daly <louise.m.daly@intel.com>
+",,16864,0,0,0,16864,"7,15,2,123,598,2778,4536,3067,1682,1226,1199,866,499,77,102,78,5,4",18,16864,k8snetworkplumbingwg_sriov-network-device-plugin,7,2018-05-23,18.0
+ovirt_ovirt-engine,f669bc8004f0cedfa651a0d52313b48af45552b7,2011-10-27 19:45:00,"Introducing oVirt Engine
+",c5ea018abfe1911fbbddce9208eabb2e51cb07e4,5543,0,0,0,5543,"1,9,4,97,110,23,47,83,57,19,3,13,986,1629,970,346,81,868,195,2",20,5543,ovirt_ovirt-engine,40,2011-10-27,20.0
+surfstudio_surfandroidstandard,d83ae7bb7418351362a2908b084ffc4784deb7f2,2018-01-09 12:37:12,"базовый проект
+",b4cfe66914f9e4fa7df57342f4f8ad887fe38c53,318,0,0,0,318,"7,6,5,2,12,34,0,22,22,26,44,47,67,24,0,0,0,0,0",14,318,surfstudio_surfandroidstandard,24,2018-01-09,14.0
+tencentfemas_femas,506161e93e3594bb229655f2e65363490d429968,2022-02-23 07:31:26,"femas sourcecode sync to polarismesh
+",d2b441aee7d600ec1c54b3655433b2dde969d175,661,0,0,0,661,"14,20,27,16,1,22,27,22,0,18,185,117,68,70,22,31,2,0",17,662,tencentfemas_femas,44,2022-02-23,16.0
+yrnkrn_zapcc,719e870e88ec9fe72bbebdda67319c6349559298,2018-06-14 10:44:41,"Open Source release of zapcc!
+",,42421,0,0,0,42421,"15,167,3109,18416,13510,1722,3107,634,377,207,320,321,320,125,44,21,6",17,42421,yrnkrn_zapcc,32,2018-06-14,17.0
+geoserver_geoserver,44bacafcf1352bfe0b1836262df686fd58036585,2011-06-18 17:08:19,"[GEOS-4638] GeoServer WMS fails to re-encode 4bit paletted png images back in png
+
+git-svn-id: https://svn.codehaus.org/geoserver/trunk@16051 ef1d6e69-97e5-0310-af46-8a06194da32a
+",,6970,0,0,0,6970,"0,2,115,746,357,514,952,381,664,1173,1055,657,132,87,29,106,0,0,0,0,0",16,6970,geoserver_geoserver,67,2011-06-18,16.0
+openmage_magento-mirror,d19f0e13d3d2fcbcc2d8fa6073568d5f95442470,2009-01-17 22:44:42,"Import Magento Release 1.1.1
+",,14764,0,0,0,14764,"12,19,140,425,1126,940,1885,990,776,487,390,131,49,8,4,0,0,0",15,7382,openmage_magento-mirror,59,2009-01-17,15.0
+revolut-mobile_kompot,ec096790277880a65067f8f97dedc2457e9f078c,2022-07-06 18:46:21,"Move code from internal (1)
+",,447,0,0,0,447,"8,11,30,42,8,16,0,90,12,35,19,23,37,49,22,29,16",17,447,revolut-mobile_kompot,6,2022-07-06,17.0
+cloudwise-opensource_flyfish,047a465fad4b80fd9fa610e4fc0ce1607106c801,2021-10-08 07:26:15,"init project
+",b8d8866e49e9249683f468a30b1fd27b5046d0a5,16039,0,0,0,16039,"22,37,43,107,1802,1013,3736,3552,2434,1482,983,480,180,155,14,0,1",17,16041,cloudwise-opensource_flyfish,38,2021-10-08,16.0
+gatographql_gatographql,f805ccafd6240a3467582ff73286b02c0722c25b,2020-12-22 10:16:57,"Set-up monorepo with content from everywhere
+",5311b23b6d57fc8116c5525b1fd96164f099df8d,18230,0,0,0,18230,"6,1,0,0,3240,714,1706,1592,1444,2123,2709,2359,1753,422,109,39,11,1,4,0,1,0",21,18234,gatographql_gatographql,19,2020-12-22,19.0
+quickbirdeng_xcoordinator,83a4f63dc20e9277253be284d438b5cce1ba31c7,2019-02-04 16:14:01,"Merge pull request #43 from quickbirdstudios/feat/documentation
+
+Add full code documentation","d295b4c21492cd56d7dcb5e2f43ef2c25fca6461,1f3b7acc0cb10db12fa2b3ab8f8aed6ee0673434",476,0,3,0,479,"7,15,105,39,112,222,74,92,4,2,5,47,88,4,1,7,64,43,2,0,3,27,1",23,964,quickbirdeng_xcoordinator,57,2019-02-04,16.0
+quickbirdeng_xcoordinator,efb049154b0e4ef2e2a584f989ecf991dc11f2d2,2019-09-17 11:25:15,"Merge pull request #122 from quickbirdstudios/v2.0.0
+
+XCoordinator 2.0.0","427643eee6e80d4e5a82d03febfaef42ae9e2934,8f146a0bfce8a43c88c7b87a3a2a5ebf260a5999",18,805,58,3,884,"8,22,98,7,1,1,7,44,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0",9,189,quickbirdeng_xcoordinator,57,2019-09-17,-14.0
+virjarratel_ratel-core,82a49bbc7168b611021240c996b5db9f4a684dd3,2021-08-26 09:25:07,"init
+",,4658,0,0,0,4658,"8,82,14,17,22,362,236,292,590,1664,859,328,56,30,51,30,17",17,4658,virjarratel_ratel-core,72,2021-08-26,17.0
+gisto_gisto,c633fa3e355f1c1577cd1a897fe544bb15716de4,2013-03-25 02:03:49,"Added basic API
+",2a909c26a16505b768c545b78cfd45505da2d8ba,889,0,0,0,889,"1,14,17,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,917,gisto_gisto,55,2013-03-25,14.0
+semantic-org_semantic-ui,58d39d258a2b31c9accc604afbc8a61794c5b12e,2013-05-01 21:05:40,"Fixes issue with accidental submodule
+
+
+Former-commit-id: f2f2fbf22402b7bf2a808dbad20619cb212ee9ef
+Former-commit-id: 1e28dcc450e2333906f61d603c1d5b1339a419e0",c42dd056e648fbf81e01d3a95b8c32f9eaf25ac2,10446,4,0,0,10450,"2,23,29,253,385,435,616,733,625,736,449,468,270,288,181,115,34,2,0,80",20,5724,semantic-org_semantic-ui,28,2013-05-01,15.0
+exercism_javascript,2e444c40dc8634c1f48a1c1538b149f14d3c7c16,2015-07-21 23:34:13,"Merge pull request #16 from rchavarria/ignore-node_modules
+
+Ignore node_modules folder","96d33c2aee802fece237a3ef68ea3142e4d715fb,8f2f408281dd31c081613f1bd0d5350c967d88b9",0,3203,0,0,3203,"10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,21,exercism_javascript,31,2015-07-21,-15.0
+spring-projects-experimental_spring-boot-migrator,d25964ce6db9b5e2fd8a6e1e5a7a7f301bb440ff,2022-02-27 22:32:44,"initial sbm commit
+
+Thank you for contributing:
+
+- Alex Boyko
+- Andrei Shakirin
+- Dmitry Belyaev
+- Kris De Volder
+- Marc Zottner
+. Othman Alkhamra
+- Sandeep Nagaraj
+",42c448e6f7e59166a191596228028858948fe459,1973,0,0,1,1974,"11,3,29,6,18,20,71,42,48,141,713,346,315,43,81,73,11,3",18,1974,spring-projects-experimental_spring-boot-migrator,56,2022-02-27,17.0
+tencentblueking_bk-repo,84a6ea4b035ba151ee46eb73af96b9f7ab155f6f,2019-08-23 09:31:36,"init
+",,72,0,0,0,72,"2,1,19,4,14,0,1,6,3,1,0,3,8,10,0,0,0,0",14,72,tencentblueking_bk-repo,55,2019-08-23,14.0
+veliovgroup_meteor-files,e0c685ffcd9fdcb556e6fdc9edab4f9e82f0242d,2016-04-07 02:42:42,"Keep node_modules for ./build
+",2a738e7d5fb5a2a77b60db35c9ce6435d5982d05,12877,0,0,0,12877,"8,9,20,638,386,215,43,17,47,204,109,807,735,1899,2028,1546,1503,1442,999,228,11,70,9,38,2,29,0,8",28,13050,veliovgroup_meteor-files,32,2016-04-07,20.0
+veliovgroup_meteor-files,538320b98de8270bd42d86b1ca5b99c304c7cfef,2016-04-07 03:17:07,"Move build do separate repository
+",5503a468cb6f60ec6f5aeb0d4fbd2e0c7e815412,0,13019,0,0,13019,"6,2,19,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,31,veliovgroup_meteor-files,32,2016-04-07,-24.0
+carvel-dev_kapp-controller,54ada539f19194bbfd6be08ea97124d459fc16de,2019-11-06 21:11:29,"init
+",,9427,0,0,0,9427,"8,18,44,275,1160,2951,2202,1430,818,265,98,114,24,1,3,2,5,9",18,9427,carvel-dev_kapp-controller,13,2019-11-06,18.0
+fenwii_openharmony,282e6715b7f6da6db5b5c0c1db36382323e23bdb,2020-09-16 10:31:48,"Openharmony v1.0
+
+Openharmony v1.0 src
+",ab7d07da0f3f2eea99f5ee2576df10b747000176,53297,0,0,0,53297,"3,1,11,862,4121,11088,6017,7743,9799,8552,1958,1887,257,173,138,384,306",17,53300,fenwii_openharmony,12,2020-09-16,16.0
+kieronquinn_smartspacerplugins,18219f5ef546643d9785cc7da6c915fd173d84b2,2023-10-22 20:42:37,"Initial commit
+",4175364929622af5f6538bce0c2948796d5b7dde,1281,0,0,0,1281,"7,91,44,23,0,455,22,0,0,3,34,283,167,64,45,34,6,4",18,1282,kieronquinn_smartspacerplugins,71,2023-10-22,17.0
+kubernetes-sigs_apiserver-builder-alpha,bdb0dd9540cdb23ec311e0138ac0c6cd6c46e2ff,2017-04-27 23:41:57,"Merge pull request #1 from pwittrock/wip-migrate-to-incubator
+
+Wip migrate to incubator","4fa6050795ff15cd1ad11cbd097b5ae7d4a3a078,0988eb0ddbbc63dee2f402264e314639d7542331",16317,0,0,0,16317,"5,6,46,131,1126,3782,4611,2746,1256,601,1025,790,164,12,13,6,0,0,0,0,0",16,16320,kubernetes-sigs_apiserver-builder-alpha,75,2017-04-27,15.0
+pineappleea_pineapple-src,b601909c6d39e96f0f2bad7e1b17ac2bc88a9f21,2022-11-05 14:35:56,"early-access version 3088
+",4e4fc25ce35aba51cc022fcc3e79addbaa13e117,35458,0,0,0,35458,"7,38,340,818,1342,851,1906,7580,9913,5043,5679,1994,1606,563,150,10,0,0,0,0,72,4",22,37916,pineappleea_pineapple-src,52,2022-11-05,14.0
+actiontech_sqle,9deb9ab181744de578c3f724404e816064adbb11,2018-11-09 05:31:55,"Merge branch 'dev/demo' into 'master'
+
+Dev/demo
+
+See merge request sqle/sqle!1","08f181aa3bf56a9dd5a885adaf6b22e8d62ad94b,38d6b4e59a6a519f6484bb05b73568335c419c10",5613,0,0,0,5613,"4,20,4,43,596,1758,1325,535,460,540,201,90,4,2,5,3,10,14",18,5614,actiontech_sqle,24,2018-11-09,17.0
+mcodex_react-native-sensitive-info,778343ec8d430499a79813e702feb78cfcc87d41,2016-05-10 17:19:40,"initial commit
+",b3240355d1cafd122e3b9ca1a80971bae1b3b6e1,1467,0,0,0,1467,"5,7,14,22,8,4,32,8,566,59,508,46,5,84,41,36,19,5",18,1469,mcodex_react-native-sensitive-info,8,2016-05-10,17.0
+nexus-js_ui,3fcfacef288fceb2d11f93a4854aaa51db7e6c16,2014-12-21 08:02:53,"Merge to Nexus 1.0
+
+from taylorbf/nxui-package fork
+","cd6711f46427963d5f44fee0d4ecea1fe0f93214,2f4b5e3dc9b344427dcf7db57872fd2df146fa15",43,1696,21,0,1760,"5,8,52,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,68,nexus-js_ui,35,2014-12-21,-14.0
+qalingo_qalingo-engine,625338df9a86896f387b75855199484d4b1c0f8e,2012-10-28 14:17:00,split original repo Qalingo : 4 projects,2805cf60d62e91d5842e5ff4753bec8ab8904e29,591,1,0,0,592,"4,5,12,24,0,1,18,5,19,11,1,28,288,173,2,0,0",15,591,qalingo_qalingo-engine,46,2012-10-28,14.0
+ajzbc_kanye.rest,62d530e576f35482a0621bc9b891529a1cc40d7f,2019-02-12 06:19:43,"test
+",ae8e2b47b36d48405fc098f0ea4082b6a5e2e02b,6825,0,0,0,6825,"4,0,1830,1093,964,737,411,397,892,295,135,49,15,0,0,2,0,4",18,6828,ajzbc_kanye.rest,15,2019-02-12,17.0
+ajzbc_kanye.rest,5ff178a1cdca839e72ecd8d11666a1564c239d26,2019-02-25 17:56:48,"Merge pull request #1 from ar-maged/master
+
+Ignore node modules","69771f0b20dd7cf0b627c8bafffe1d556444715a,6513378a1c7107985f48748619e36cf5814eab78",0,6842,0,0,6842,"7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,7,ajzbc_kanye.rest,15,2019-02-25,-17.0
+kanryu_quickviewer,de74b9c73e1b430db0d1b8e0c0d8a97fbf5bf4c1,2017-08-28 10:08:24,"add new Qt7z
+",801c9679bbfb67ef0dd8f3b399b15f839f0c187c,1750,0,0,0,1750,"8,66,283,159,182,250,438,726,74,0,0,0,0,0,0,0,0,0,6",19,2192,kanryu_quickviewer,30,2017-08-28,15.0
+openmage_magento-lts,d19f0e13d3d2fcbcc2d8fa6073568d5f95442470,2009-01-17 22:44:42,"Import Magento Release 1.1.1
+",,14764,0,0,0,14764,"12,19,140,425,1126,940,1885,990,776,487,390,131,49,8,4,0,0,0",15,7382,openmage_magento-lts,45,2009-01-17,15.0
+openspg_openspg,ea82b3700b5ecd7944210bc59c98d417177fb6d1,2023-10-26 02:34:08,"init commit
+",,1168,0,0,0,1168,"8,7,21,32,41,58,115,40,37,6,32,69,90,245,114,151,63,39",18,1168,openspg_openspg,58,2023-10-26,18.0
+devexpress_testcafe,5bb637f623053b4de02e0142b3b666300cbdced3,2015-07-14 15:14:14,"Merge pull request #18 from inikulin/master
+
+Browser connection tests","a659cea1deba38d880fdd5e2c9c0f8efc8c60875,d106785c616341c9fa2df4957fc340048915788e",8666,0,0,0,8666,"10,3,26,67,375,252,1103,1267,1965,1168,1118,326,719,88,189,21,16,1",18,8714,devexpress_testcafe,54,2015-07-14,14.0
+getstream_stream-chat-android,bd8598083bc440d5f4448397c8263b8499abe6e8,2019-06-26 06:31:41,"Initial commit
+",,304,0,0,0,304,"7,9,2,1,0,141,0,0,3,34,33,37,24,13,0,0,0,0",14,304,getstream_stream-chat-android,24,2019-06-26,14.0
+hashicorp_terraform-provider-helm,0518ba04d1fb70c953e54b750c6dfbbf3ad36365,2017-08-07 13:10:16,"vendor files
+",36af5bc90b1112157703906364cf45e72efd7160,23158,0,0,0,23158,"8,14,0,135,1716,4878,6285,4737,2439,848,1083,836,170,12,13,6,0,0",16,23180,hashicorp_terraform-provider-helm,72,2017-08-07,14.0
+shr670377723_communityserver-master,66c83c5ffe0e2215a0a3a9f6626c9ed7644dd303,2024-01-24 19:53:45,"Initial commit
+",,15119,0,0,0,15119,"9,11,732,1330,2351,1480,3732,1761,1919,998,375,136,57,165,9,27,27",17,15119,shr670377723_communityserver-master,68,2024-01-24,17.0
+sika-code-cloud_sika-code,931b245d3014836da01b9534c71c746cc7c1772b,2022-07-29 16:06:26,"重构sika
+",7f22f1c27afc1140664afd10fe11f1345320ea4d,0,4670,0,0,4670,"3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,3,sika-code-cloud_sika-code,74,2022-07-29,-17.0
+altinity_clickhouse-operator,7b0a985323537484aaf8d0bc9c41bfe7956be8f9,2019-01-22 07:37:59,"Add vendor into codebase
+",7479a2f1c53fb7e960c9edd48152b2561c3bb99a,6771,0,0,0,6771,"3,4,2,73,621,2149,1977,977,635,150,76,76,4,2,5,3,10,14",18,6781,altinity_clickhouse-operator,38,2019-01-22,14.0
+autodesk_synthesis,edc1fbed455a160e8a225ec11cdcf5f05df8a853,2016-07-13 16:17:35,"added the actual files without a .git from the enterprise servers
+",d6fc62fec1bddd2cd9587da359f20ebd73a1271f,3544,0,0,0,3544,"2,29,133,550,550,222,432,327,262,49,83,151,189,307,128,70,60,0",17,3544,autodesk_synthesis,51,2016-07-13,17.0
+autodesk_synthesis,3527ababbd7c6e5f3fc05e23beb8b76bc52ec1b7,2016-07-25 16:29:14,"Preparring for subtree merges - round 2
+",edc1fbed455a160e8a225ec11cdcf5f05df8a853,0,3542,0,0,3542,"2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,2,autodesk_synthesis,51,2016-07-25,-16.0
+futurerestore_futurerestore,029e768ca3bcdeb8138f8385a008486b4ef1532d,2021-02-25 01:53:08,"Fix FDR SEP Panic and a13 iPhone 11 family devices (#3)
+
+Rose fix. Also Add working CI Static building.",3786d4cd230b93f4b7ade7d0fdebd56b48fbf7a6,24654,0,0,0,24654,"7,7,12,4,20,466,926,14996,1146,786,2636,1203,586,230,898,308,116,62,204,46,11",21,24670,futurerestore_futurerestore,0,2021-02-25,17.0
+futurerestore_futurerestore,1e06b98d58ca95ccdcd952c173666840a2f5ad00,2021-04-06 23:38:31,"Fix CI
+",e6c21f160eae23f9fab240fa088b0dcffca0e6b2,0,24643,0,0,24643,"7,7,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,27,futurerestore_futurerestore,0,2021-04-06,-17.0
+js-kyle_connect-assets,d91a30f96523e86735a6776c6a8f2e23d265ec08,2011-08-30 20:35:59,"First commit (with tests and everything!)
+",,412,0,0,0,412,"3,5,33,55,105,61,4,8,4,4,7,8,5,1,0,13,96",17,412,js-kyle_connect-assets,25,2011-08-30,17.0
+kubernetes-sigs_descheduler,435a05c499bca48080beec0109748b136b50b30d,2017-07-28 18:43:24,"Create glide yaml files and vendor directories.
+",835a9425bc8d34ae240a935eea2b9f4e7841da90,19307,0,0,0,19307,"4,0,0,34,245,1455,3408,4827,4074,2096,1494,1228,308,83,32,21,0,0",16,19309,kubernetes-sigs_descheduler,12,2017-07-28,15.0
+mehrdadrad_mylg,d07c07897171a16bf05a65915443008b10fe6ba8,2016-10-14 04:44:00,"init angularjs2
+",7fac94c905698182b12b496e2bbd2bbc81ca6a26,14938,0,1,0,14939,"5,32,3,6,7,144,1266,3271,2417,851,566,1285,828,1856,686,858,206,479,110,95,3,12",22,14986,mehrdadrad_mylg,33,2016-10-14,16.0
+mehrdadrad_mylg,b33c84ef19039a4aee5527b6264739c64488a9cc,2016-10-14 04:54:27,"removed node_modules and use cdn instead
+",d07c07897171a16bf05a65915443008b10fe6ba8,0,14921,0,0,14921,"5,32,3,6,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,65,mehrdadrad_mylg,33,2016-10-14,-15.0
+apple_turicreate,e8e1f451d37b01f948846092851a079cc88426ff,2017-12-07 20:14:27,"Initial commit of Turi Create 4.0.
+",,52655,0,0,0,52655,"12,44,707,1363,4468,13434,18899,8259,3514,1303,342,288,14,5,3,0,0,0",15,52655,apple_turicreate,49,2017-12-07,15.0
+aliyuncontainerservice_kubernetes-cronhpa-controller,77ef5af7f62ee45b1296c9246918e5423a9921eb,2018-12-28 11:09:41,"add cron hpa support
+",,9988,0,0,0,9988,"6,2,13,271,1483,2872,2589,1605,704,210,104,88,4,5,5,3,10,14",18,9988,aliyuncontainerservice_kubernetes-cronhpa-controller,27,2018-12-28,18.0
+hootrhino_rulex,d69364176570a7763334f518335979f68be09a76,2021-09-15 09:49:39,"feat: init dashboard ui
+",ea4242e9b383127e3b450806f5543ce26769a5f8,739,1,0,0,740,"9,44,12,2,1,21,51,24,4,14,100,53,12,4,5,155,237,56,0",18,804,hootrhino_rulex,2,2021-09-15,14.0
+oracle_coherence,ad745ea2fa4c615da78b96b2886f90fccc61e7a6,2020-04-14 09:03:22,"Initial import of //dev/coherence-ce/main/ from the state at revision #head
+
+[git-p4: depot-paths = ""//dev/coherence-ce/main/"": change = 77928]
+",,5086,0,0,0,5086,"6,9,52,34,88,60,156,616,894,1317,1039,501,232,80,1,1,0,0",16,5086,oracle_coherence,61,2020-04-14,16.0
+wso2_product-is,064b039c7701f5f0f42a218f462f15202ed37c21,2014-08-01 11:59:38,"Merge pull request #1 from wso2-dev/master
+
+sucessfully commited the changes
+Timestamp : Fri Aug 01 17:29:51 IST 2014
+https://wso2.org/jenkins-pr-builder/job/product-is/3/","2a66134d6c624e7e333a987ea3018982349a6f98,d254aae17d0934ba96f68fd13ad6b5e54f66d098",2352,0,0,0,2352,"9,12,40,61,179,218,443,266,420,258,365,11,34,21,14,4,0,0,0,0,0",16,2355,wso2_product-is,70,2014-08-01,15.0
+adobe_aem-core-wcm-components,1272ed67ff1bc2bea89a0f91a1c66b6d3755a741,2015-12-09 14:46:59,"Sightly Text Component
+
+* added first version of the AEM Core WCM Text Component (WIP)
+",,29,0,0,0,29,"3,3,1,2,4,1,1,2,5,2,0,3,0,2,0,0,0,0,0,0",14,29,adobe_aem-core-wcm-components,14,2015-12-09,14.0
+kragniz_tor-controller,4ef0f9e83fa1bfb914c82386158fa1d8bdee1111,2018-05-23 20:12:50,"Commit ./vendor
+",e6f984f89e0771437f59d0d92860b8a016f68de2,10342,0,0,0,10342,"4,3,5,93,686,1993,1374,710,1878,936,1756,768,108,20,12,2,4,3",18,10355,kragniz_tor-controller,38,2018-05-23,14.0
+mercyblitz_geekbang-lessons,f4362eb57c865086eaf361109db0aca3eadc7a2e,2019-12-08 11:32:48,"Polish code of the chapter 'IoC Container Overview'
+",4925cb8fa156279404aa148ec2ee93626beb160b,13,0,0,0,13,"3,1,1,0,0,0,2,0,0,0,0,0,0,6,2,0,0",15,15,mercyblitz_geekbang-lessons,56,2019-12-08,14.0
+nerdlang_nerd,909b823e199e2467cffa46da6c15f5ed86c76415,2019-01-08 20:10:36,"Added core/nativejs
+",a59ae47ceba158150a35a759889a37bd112d5834,1898,0,0,0,1898,"8,17,16,45,92,156,775,231,119,83,20,82,87,37,39,69,61,11",18,1948,nerdlang_nerd,48,2019-01-08,14.0
+nerdlang_nerd,f4a6568d6433abaef7835e1cb4be4f310ecd2c7e,2020-02-06 14:24:05,"Updated
+",60fed637de8bf0ce0ffee97b92dc7c9e3877e3b6,0,1940,0,0,1940,"8,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,26,nerdlang_nerd,48,2020-02-06,-15.0
+o2oa_o2oa-android,63b4b9d09cb17243c1cfa63ea30a9644019ad620,2020-11-23 06:33:50,"o2oa android端源码分离
+",,2237,0,0,0,2237,"7,8,26,34,0,1428,0,5,12,10,7,6,67,163,330,116,17,1",18,2237,o2oa_o2oa-android,36,2020-11-23,18.0
+wildhoney_reactshadow,4cde767d3519701e5f664216471289d140095d9a,2015-02-12 15:51:50,"Initialised npm
+",c0ad5a66431172e0de668f3d5a34384179638902,1233,0,0,0,1233,"2,9,14,14,216,51,220,94,210,37,152,35,81,45,42,11,1",17,1234,wildhoney_reactshadow,29,2015-02-12,16.0
+wildhoney_reactshadow,b7a0220739873a0b5edfb8cadc6145863fbdfac8,2015-02-12 15:55:22,"Added .gitignore
+",4cde767d3519701e5f664216471289d140095d9a,1,1218,2,0,1221,"3,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,17,wildhoney_reactshadow,29,2015-02-12,-14.0
+zmops_zeus-iot,b2592654fb86a311e714ecc84b8c36fb8561e7e3,2021-08-13 17:08:30,"Merge branch 'main' of github.com:zmops/zeus-iot
+
+# Conflicts:
+#	iot-alarm/pom.xml
+#	iot-common/pom.xml
+#	iot-driver/src/main/java/com/zmops/zeus/driver/service/ZbxAction.java
+#	iot-driver/src/main/java/com/zmops/zeus/driver/service/ZbxDeviceStatusTrigger.java
+#	iot-driver/src/main/java/com/zmops/zeus/driver/service/ZbxScript.java
+#	iot-driver/src/main/resources/api-json/action/action.init.create.ftl
+#	iot-driver/src/main/resources/api-json/action/action.offline.get.ftl
+#	iot-driver/src/main/resources/api-json/hostgroup/hostgroup.global.get.ftl
+#	iot-driver/src/main/resources/api-json/hostgroup/hostgroup.init.create.ftl
+#	iot-driver/src/main/resources/api-json/item/item.get.ftl
+#	iot-driver/src/main/resources/api-json/item/item.trapper.delete.ftl
+#	iot-driver/src/main/resources/api-json/item/item.trapper.update.ftl
+#	iot-driver/src/main/resources/api-json/script/script.init.create.ftl
+#	iot-driver/src/main/resources/api-json/script/script.offline.get.ftl
+#	iot-driver/src/main/resources/api-json/template/template.get.ftl
+#	iot-driver/src/main/resources/api-json/trigger/trigger.last.create.ftl
+#	iot-driver/src/main/resources/api-json/trigger/trigger.nodata.0.create.ftl
+#	iot-driver/src/main/resources/api-json/trigger/trigger.nodata.1.create.ftl
+#	iot-webapp/pom.xml
+#	iot-webapp/src/main/java/com/zmops/iot/web/product/service/ProductModelService.java
+#	iot-webapp/src/main/java/com/zmops/iot/web/sys/service/SysUserService.java
+#	iot-zbx-driver/src/main/java/com/zmops/zeus/driver/service/ZbxItem.java
+#	iot-zbx-driver/src/main/resources/api-json/valuemap/valuemap.delete.ftl
+#	iot-zbx-driver/src/main/resources/api-json/valuemap/valuemap.update.ftl
+","f2032db48e3a24b271b1977fbbeb3e67918574b6,6e6bb9dc1effec10edbc69a63e594678d48d7e67",0,363,0,0,363,"1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,1,zmops_zeus-iot,42,2021-08-13,-14.0
+zmops_zeus-iot,0eeaaba84a6fc2e43f25549c8cd715e713ce9bb5,2021-08-13 17:10:20,"initial update.
+",b2592654fb86a311e714ecc84b8c36fb8561e7e3,363,0,0,0,363,"4,14,7,12,4,2,51,3,20,90,80,16,4,49,8,0,0",15,364,zmops_zeus-iot,42,2021-08-13,14.0
+zmops_zeus-iot,8a41bdade7f6960709fe80d5ee5773d0fb8c533b,2021-08-19 03:34:16,"delete repo.
+",3708c27b5ad932cf8217193aeb229b9cf97cf847,0,457,0,0,457,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,zmops_zeus-iot,42,2021-08-19,-15.0
+zmops_zeus-iot,af81b1a12fe534bd6e2788210f841ef16023d60c,2021-08-19 03:35:37,"initial commit.
+",8a41bdade7f6960709fe80d5ee5773d0fb8c533b,504,0,0,0,504,"4,15,12,11,4,2,55,7,26,94,103,50,36,54,31,0,0",15,504,zmops_zeus-iot,42,2021-08-19,15.0
+ipasimulator_ipasim,3c78f8bcf5bb07907b4a188797118f8d5f365977,2018-04-23 19:56:32,"[deps] Old ""headers"" removed.
+",394300744ac5557c4b6cb36b4ad3295bd273d429,0,11673,0,0,11673,"6,16,237,352,240,110,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,980,ipasimulator_ipasim,7,2018-04-23,-14.0
+pedrommcarrasco_constrictor,dade763c1a57646264be457c068aa99b24b04842,2018-05-22 23:21:14,Removed Carthage folder.,49e93d94ee4f50acc52c57fcd695dfec8bd3da46,0,196,0,0,196,"5,5,10,13,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",6,53,pedrommcarrasco_constrictor,3,2018-05-22,-15.0
+xiaods_k8e,9076889d78f4d46235b693b79fb9ae28ba561777,2020-09-03 10:29:37,"上传源码目录
+",be90af347b41b2bc7988251613ae6e1e750d29f4,29797,0,0,0,29797,"3,3,26,542,2807,5520,5715,4389,2693,3040,1940,1589,1121,115,160,127,5,4",18,29799,xiaods_k8e,58,2020-09-03,17.0
+apache_logging-log4j2,6d0959e9e83a9ca72414dafe021a0a82c20a2a9c,2012-02-06 23:55:31,"Move Log4j2 from experimental to its own trunk
+
+git-svn-id: https://svn.apache.org/repos/asf/logging/log4j/log4j2/trunk@1241271 13f79535-47bb-0310-9956-ffa450edef68
+",10fb9656a916d1c0ff57c28d7dcbfcb5bd313278,484,0,0,0,484,"0,4,12,2,13,65,7,2,24,24,51,227,46,7,0,0,0",14,484,apache_logging-log4j2,5,2012-02-06,14.0
+djipco_webmidi,cb952dcb64c379c4c642ad28f3518fdaf53e0faf,2015-10-14 20:43:46,"Release 1.0.0-alpha.2
+",7eaa84ac9cc334bf20cb81601a8877360b708677,6849,0,0,0,6849,"1,5,5,44,21,307,1078,494,2174,704,507,575,567,210,45,51,3,65,2,22",20,6880,djipco_webmidi,8,2015-10-14,14.0
+onlyoffice_communityserver,4adc9798abea64ad782f01eeb74875b9ec29d5ba,2014-07-05 17:59:21,"init repo
+",,9859,0,0,0,9859,"2,12,131,1006,1811,1417,2331,1158,960,334,273,139,57,165,9,27,27",17,9859,onlyoffice_communityserver,46,2014-07-05,17.0
+nvidia_k8s-device-plugin,b8d27251ee3908453ac59b289cdda774e59820d5,2020-04-22 00:48:10,"Remove Gopkg
+
+Signed-off-by: Renaud Gaubert <rgaubert@nvidia.com>
+",bc572009964b4b4ca6a95ff711048f361a9204b7,0,18888,0,0,18888,"15,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,21,nvidia_k8s-device-plugin,54,2020-04-22,-14.0
+pmq20_node-packer,cf12f188bd7625e842259fed320370f23d3d3155,2016-10-12 14:59:42,"Import node-v6.7.0
+",463991f951c3daa6f3e75c7ef1044de723105d4a,11226,0,0,0,11226,"3,0,19,226,1963,902,3132,2450,673,196,290,71,328,58,138,112,282,284,102,0",19,11229,pmq20_node-packer,72,2016-10-12,18.0
+sghiassy_react-native-sglistview,8d4f0709e11a2ea6d6755c2fb7ed319adbcf91fa,2016-03-20 01:28:14,"Merge pull request #17 from sghiassy/sghiassy.master.ISSUE-14
+
+ISSUE-14: Updated SGListView to respond directly to getScrollResponder","5aae6cc0c0c2c602a98783986d3188f78cddb4f5,a61918e065be6e3a8fe676b0620bf836cc276486",64732,0,0,0,64732,"6,9,8,37,37,867,926,1494,4721,5568,6516,8150,14682,12788,4558,2133,591,970,141,337,22,116,6,40,2,12,2",27,64739,sghiassy_react-native-sglistview,57,2016-03-20,25.0
+toorop_tmail,dd26894a03ba728dc3cfd4456b900e5d4e9b4b00,2014-11-23 17:45:53,"clean code
+",d07c810bbf13f8e70a9d27261c2f56901f1ee233,0,770,0,0,770,"8,30,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,45,toorop_tmail,12,2014-11-23,-14.0
+kubernetes_cloud-provider-alibaba-cloud,4bd6523f335734d4e0aad1b6a640e9dbc1c84290,2018-10-08 07:59:10,"Merge pull request #4 from aoxn/master
+
+Initial PR for kubernetes Alibaba Cloud Provider","85a66d437c7fc46eb02dcd838b2de1c3ca4bd6e4,f35b89ee0da5e3dd4682bf5e9132ba5289a17f13",17590,0,0,0,17590,"8,24,8,85,951,3445,4820,2926,1397,1175,1205,825,484,67,94,70,5,4",18,17593,kubernetes_cloud-provider-alibaba-cloud,72,2018-10-08,17.0
+avevlad_gulp-connect,5a8070ec5671d29198b7b142d721b96f4fde00a9,2014-01-28 09:59:39,"load plugin
+",38a25b1315bd07084a058c1fa5456fd1207717ea,1044,0,0,0,1044,"5,0,20,40,147,153,114,41,65,11,18,30,33,77,74,117,38,61,1",19,1045,avevlad_gulp-connect,41,2014-01-28,18.0
+avevlad_gulp-connect,1a26fbad32090b6f026ac0b6b8dca6383b8a135c,2014-01-28 10:01:53,"removed node_modules
+",5a8070ec5671d29198b7b142d721b96f4fde00a9,0,1039,1,0,1040,"6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,6,avevlad_gulp-connect,41,2014-01-28,-18.0
+ctt-gob-es_clienteafirma,473f84cf48bde33749020b944e42d9a31a59438d,2013-05-06 09:40:41,"- Se ha suprimido e nivel /project
+
+git-svn-id: http://svn-ctt.administracionelectronica.gob.es/svn/clienteafirma/projects/afirma/trunk@3922 dcdbb401-323c-49cf-88a0-803402807c85
+",74026b2b699e64dcdaa75e289ce520295984cde6,1983,0,0,0,1983,"1,88,165,221,262,121,67,82,228,304,286,109,5,0,8,14,15,7",18,1983,ctt-gob-es_clienteafirma,12,2013-05-06,18.0
+microsoftgraph_msgraph-sdk-go,1c67fd2bcb7e5901423f3acc99afd87a6043dfb4,2022-12-05 14:03:54,"Merge pull request #329 from microsoftgraph/v1.0/pipelinebuild/95941
+
+Generated v1.0 models and request builders using Kiota","cbe4e601d5cec2226e74a09821de7d3a5b18f90e,ea2b7ad5f443c057ff6f727d4549b3a3e2222dd1",9557,9557,1208,0,20322,"13,15053,261,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,15327,microsoftgraph_msgraph-sdk-go,38,2022-12-05,-16.0
+teiid_teiid,21c93a6fd4be2528f95224f99905d74479862d1b,2008-11-14 22:37:58,"initial import
+
+",5b4326dce7d719a5c36305d91cfe40e769619e5e,5519,0,0,0,5519,"1,19,15,48,104,172,178,229,1742,1846,1039,102,23,1,0,0,0,0,0,0",14,5519,teiid_teiid,73,2008-11-14,14.0
+dani-gavrilov_gdperformanceview-swift,0f98c62f53a522d5866857d444c5b1ab13128624,2017-01-15 16:59:52,"update carthage
+",c7af6c937e3758f73d3bfc5d73256147ba957f1e,0,277,0,0,277,"8,8,18,11,23,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,83,dani-gavrilov_gdperformanceview-swift,60,2017-01-15,-14.0
+gitlabhq_gitlab-runner,08eb27c5d2593de492618e962da33d2959074ed4,2015-04-19 14:29:15,"Added all dependencies
+",ed1fb5456789a4f0ab6c4a56a7b8829f86fdb69b,248,0,0,0,248,"13,38,15,0,0,0,84,43,96,1,0,0,0,0,0,10,13",17,313,gitlabhq_gitlab-runner,18,2015-04-19,14.0
+orangehrm_orangehrm,90841561d404d266d9096646597cbdb2856f3ceb,2012-01-20 10:52:15,"Removing mistakenly created branach at wrong location
+",31408160bd54d8ba45cedc036b79bc9d49af2564,0,5323,0,0,5323,"0,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,138,orangehrm_orangehrm,11,2012-01-20,-16.0
+orangehrm_orangehrm,7612633abe1d6fb2427e38193c4350c2804c9611,2012-01-20 11:09:51,"restoring trunk
+
+",90841561d404d266d9096646597cbdb2856f3ceb,5323,0,0,0,5323,"0,138,22,62,158,708,329,940,1147,647,153,197,206,118,390,222,5,19,0",18,5461,orangehrm_orangehrm,11,2012-01-20,16.0
+zhaoolee_starsandclown,9a873d5d883dc97c29e7f05f91d50e412f015d7e,2019-08-25 10:49:36,"ok
+",23e7ee3b3c12aa263e6646184c45bfd2ef0b7865,8512,0,29,0,8541,"10,39,857,759,1270,988,1461,633,775,296,612,153,418,97,86,62,21,12",18,8549,zhaoolee_starsandclown,1,2019-08-25,15.0
+apache_servicecomb-java-chassis,1ed3ae0f4aeda37b0f09ca72d32faf76d2d80188,2017-05-18 10:23:32,"Initial Commit
+",,1207,0,0,0,1207,"15,31,16,22,13,33,43,70,27,120,250,237,121,125,42,39,3,0",17,1207,apache_servicecomb-java-chassis,54,2017-05-18,17.0
+jbosstm_narayana,bc9a3668c4ed6e8c52f6b2c3d4596e115c12ccf8,2012-01-05 11:06:45,"import from https://svn.jboss.org/repos/labs/labs/jbosstm/trunk r37839
+",85b3179c619fb5d9ead6e47165cad6afdba3e94d,5229,0,0,0,5229,"7,44,112,317,452,319,80,167,1568,580,778,583,203,17,1,2,0",16,5230,jbosstm_narayana,57,2012-01-05,15.0
+kubernetes-sigs_alibaba-cloud-csi-driver,86094d97f969a255bb6597ac73622f355734b76d,2018-08-07 07:53:42,"init alicloud csi plugins
+",,13772,0,0,0,13772,"8,4,32,80,368,2007,3854,2497,1017,1121,1202,845,484,73,97,74,5,4",18,13772,kubernetes-sigs_alibaba-cloud-csi-driver,48,2018-08-07,18.0
+gridprotectionalliance_go2cs,41aac59c35b4d7fe73a335767bf3b205c98d96fe,2020-10-08 05:20:04,"Re-ran Go source conversion for v1.15.2
+",d34c1261f0c0b1aecce0d1f7a939dee29bbd4b29,5368,459,522,373,6722,"3,11,564,4033,2486,989,1676,442,2774,369,147,110,11,39,1,50,3,2,1,39,1,1,9,1,0,0,1,1,1",29,13765,gridprotectionalliance_go2cs,32,2020-10-08,17.0
+hibernate_hibernate-orm,d8d6d82e30960e0c255950eaf875ad48831b12b0,2007-06-29 19:23:45,"SVN layout migration for core/trunk
+
+git-svn-id: https://svn.jboss.org/repos/hibernate/core/trunk@11722 1b8cb986-b30d-0410-93ca-fae66ebed9b2
+",41e94b3cf8192f0f3b4d2948f26760ac412745a0,2231,0,0,0,2231,"0,1,12,0,0,6,1,52,740,1002,311,95,9,2,0,0,0,0",14,2231,hibernate_hibernate-orm,52,2007-06-29,14.0
+johnlui_aliyunoss,41429825c5f135813ebc0a9a5915b5f9dfe9bce4,2015-01-06 12:12:40,"first commit
+",,328,0,0,0,328,"3,1,0,0,1,74,40,109,31,0,32,11,9,9,4,4,0",16,328,johnlui_aliyunoss,68,2015-01-06,16.0
+aws_amazon-ecs-init,de1f4850fb1925ad78e8ae0e8530e5dd4cc0ff35,2015-03-26 04:07:03,"Add Godeps
+",9f5aa89f67f02133d731f67e4432a981bfbdbe57,218,0,0,0,218,"8,4,16,1,0,0,0,109,3,78,1,0,0,0,0,0,10,13",18,243,aws_amazon-ecs-init,45,2015-03-26,15.0
+bytecodealliance_wasm-micro-runtime,a75a5f0f41c003ee44860cc5254cb43b82272909,2019-05-07 02:18:18,"WebAssembly Micro Runtime first version
+",15aa50914b2bfedadc84668eb6207df75e4c4fe2,252,0,0,0,252,"1,1,1,22,79,38,21,38,4,0,0,0,0,0,4,36,8",17,253,bytecodealliance_wasm-micro-runtime,21,2019-05-07,16.0
+federatedai_eggroll,214e348d17cdb01a8c61f009729271e69454b252,2019-07-09 07:51:02,"big bang
+",,516,0,0,0,516,"9,25,48,13,4,20,1,0,0,0,79,37,91,71,61,37,19,1",18,516,federatedai_eggroll,56,2019-07-09,18.0
+tencentblueking_bk-job,b68becb011f00adebe49ebf3fc90c7d71571e045,2021-06-30 01:25:20,"init
+",,3287,0,0,0,3287,"13,5,144,79,103,243,154,207,131,47,10,12,53,533,804,551,183,2,13",19,3287,tencentblueking_bk-job,54,2021-06-30,19.0
+kudobuilder_kudo,705589c885684d0728509370e964dfc6bc198538,2018-11-21 12:38:12,"Add kubebuilder bits, add dynamic CRD
+",7f06b3ad23a51c1904d4445b06060e0c5de44d54,7082,0,0,0,7082,"15,2,17,224,851,2248,1754,957,600,201,99,82,4,5,5,3,10,14",18,7091,kudobuilder_kudo,49,2018-11-21,17.0
+smart-cloud_smart-cloud,5fda420727e8563b64498fb3b41f6552d0fc6de9,2019-07-07 18:11:17,init project,,194,0,0,0,194,"2,6,34,0,0,6,6,0,13,3,10,42,49,14,9,0,0",15,194,smart-cloud_smart-cloud,24,2019-07-07,15.0
+tencentcloud_timsdk,0febd0be644f2fbce5e1ab51b245128b7f784b01,2019-08-09 09:40:41,"TIM SDK 4.4.900 版本发布
+
+Signed-off-by: parkhuang <parkhuang@tencent.com>
+",,2994,0,0,0,2994,"3,20,67,109,485,746,1184,37,73,0,5,92,72,71,18,12,0,0,0",16,2994,tencentcloud_timsdk,37,2019-08-09,16.0
+bytedance_bitsail,437da3a92e7d4e509752f03197a0fb3e1fb92833,2022-09-29 09:05:56,"[BitSail]first commit.
+",,875,0,0,0,875,"6,14,23,51,9,26,39,7,2,120,71,105,91,123,77,56,34,21",18,875,bytedance_bitsail,30,2022-09-29,18.0
+chat2db_chat2db,a8c0d8deb10479ad9e5445fee7795ba81048758b,2023-06-20 14:28:55,"first commit
+",,844,0,0,0,844,"7,34,28,107,148,57,10,31,17,9,2,8,35,186,44,91,30",17,844,chat2db_chat2db,65,2023-06-20,17.0
+didi_knowsearch,211c28563e4a940c8bb34b2396eff4ab612ba22c,2022-04-14 03:56:12,"初始化工程
+",,2751,0,0,0,2751,"3,13,26,27,71,22,40,230,0,0,24,165,375,578,757,312,107,1",18,2751,didi_knowsearch,47,2022-04-14,18.0
+intel-bigdata_hibench,6f03cd87ca4c11a0d64d0cf99b7fd980d439da95,2012-06-12 07:46:49,"add all
+",,3450,0,0,0,3450,"6,31,39,183,302,432,334,36,326,107,209,441,588,325,82,9,0,0,0,0,0,0",16,3450,intel-bigdata_hibench,76,2012-06-12,16.0
+jadengeller_helium,75a29060cc36492e292c90bf9bfc3c1737855d62,2015-04-13 15:58:05,"Revert ""changed version number""
+
+This reverts commit 789ec04dfc14e635fcf924c84ad6e60836b9908b.
+",789ec04dfc14e635fcf924c84ad6e60836b9908b,883,0,0,0,883,"5,0,9,2,10,11,2,5,1,2,23,333,13,39,86,210,32,120,4",19,907,jadengeller_helium,73,2015-04-13,14.0
+jadengeller_helium,9969244f2be96914ef633e1c4e0b83433626656c,2015-04-13 15:58:34,"Revert 2d824ce..75a2906
+
+This rolls back to commit 2d824cea0d77b36c49b8c52803d1eb49f6f4a9d2.
+",75a29060cc36492e292c90bf9bfc3c1737855d62,0,885,0,0,885,"3,0,9,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,22,jadengeller_helium,73,2015-04-13,-14.0
+tugraph-family_tugraph-analytics,e4a7d05a90821113f8f24f08eaf842ff14f10f2a,2023-06-10 07:48:59,"init commit
+",,3766,0,0,0,3766,"9,21,20,108,133,66,112,432,39,25,233,397,861,657,523,91,19,20",18,3766,tugraph-family_tugraph-analytics,45,2023-06-10,18.0
+wazuh_wazuh,ff6b76d20c425031e584e9a4699afb29fcb877ef,2016-03-11 13:00:19,"Merge branch 'development' into dev-tcp
+","3afc974ab21a878fb8953049c98eed1131a3fc4f,e203b0509d630387af635ea64274fb93ffe96cd4",0,805,0,0,805,"10,51,528,392,367,107,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,1498,wazuh_wazuh,44,2016-03-11,-15.0
+weixsong_elasticlunr.js,7df1908287756dd69a804481733a7cd8b1ba9c05,2015-09-28 09:10:53,"Build version 0.7.4
+",3b9daa49e894c7ce3bee13fa8c9e4c52aa2129a8,0,1944,0,0,1944,"15,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,103,weixsong_elasticlunr.js,72,2015-09-28,-14.0
+weixsong_elasticlunr.js,948b55162cd11d8ec2d9b021097ef23a590793b0,2015-10-26 03:03:41,"Build version 0.8.1
+",ef76791fb46891f0e1477f5e990dc42253c1f9a0,1898,0,0,0,1898,"15,72,41,26,172,244,265,117,174,456,191,47,65,51,44,15,6",17,2001,weixsong_elasticlunr.js,72,2015-10-26,14.0
+weixsong_elasticlunr.js,793a8f0deb13e924aa557b73aa7c970572c49f11,2016-01-04 09:50:40,"Build version 0.8.3
+",223a9461e20978cbde03e71e6ccd10d4d5a32ea0,0,1896,0,0,1896,"16,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,106,weixsong_elasticlunr.js,72,2016-01-04,-14.0
+kubernetes-csi_external-provisioner,51c85d7d2f8fccf7a7ed8c158ef3d50b51cf9202,2017-11-09 22:56:48,"First drop, external provisioner skeleton..
+",9c46ecad2be77c219aa5c1effe7be124731df205,16104,0,0,0,16104,"8,0,1,67,761,2802,4311,2860,1677,1165,1128,793,386,44,58,45,0,0",16,16106,kubernetes-csi_external-provisioner,72,2017-11-09,15.0
+microsoftgraph_msgraph-sdk-java,8a4f789535fd79d3d75dc5afde0f91d223bac417,2024-02-07 22:36:14,"Merge pull request #1783 from microsoftgraph/feature/6.0
+
+6.1.0 Release","f19ac2dd6eb76a2a831b143ca0d85b50c9245fac,be93e35776e9ae140a8d79ee72782875ecdb5d4f",12212,9978,0,0,22190,"18,32,12,7,0,0,0,4,2608,871,967,1219,1389,1086,1531,687,517,464,265,229,160,99,61,33,16,6",26,12281,microsoftgraph_msgraph-sdk-java,59,2024-02-07,17.0
+openzesame_zhip,91f1dee7f85799509a959f1467321d13c0fd93ab,2018-09-29 13:09:13,"Bootstrapping Zilliqa Wallet app work name 'Zupreme' from Example app in Zilliqa Swift SDK 'Zesame' and adding dependencies using Carthage
+",0be53cbc7d04b69e0aadff939077e9aec42fc483,7030,0,0,0,7030,"6,7,12,127,252,1028,564,475,1256,1464,596,411,340,225,220,38,12",17,7033,openzesame_zhip,44,2018-09-29,16.0
+azat-co_practicalnode,69313defa5bb770ff2fc6e183519d63911cc98df,2017-07-13 06:30:44,"add 1st edition, move code into Code
+",d53d5a756a3be92b15e9d4c854852ca1c57c6643,0,20010,0,0,20010,"2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,2,azat-co_practicalnode,31,2017-07-13,-16.0
+dromara_hmily,adc2fae9ff76cd414e4b10d97876dbc1e44a02d6,2017-09-28 06:37:17,"tcc项目初次提交
+",fc2079f5f767625ef97b758ce648fde2744b539a,194,0,0,0,194,"4,6,3,9,0,0,21,6,3,55,30,6,7,33,12,0,0,0",15,195,dromara_hmily,49,2017-09-28,14.0
+isaacs_node-tar,1bbf28b8451f4398db784d958a5294f6cc10c24a,2011-10-27 18:43:55,"Fixtures with long pathname and unicode name
+",0772651a1e1efadf6a28d84169de0542478b9c18,3,0,0,0,3,"3,11,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0",26,40,isaacs_node-tar,12,2011-10-27,23.0
+isaacs_node-tar,64ab25c02a0da48457ad24e85ca4b99b269f12da,2012-01-13 18:05:13,"Fix #3 Move fixtures into a tarball
+
+This means that tests will still fail on filesystems that are
+problematic, but at least they can use the package without
+running into artificial issues.
+",f467930a3728a89e6420e8bc4ff54e0e3bb4b0a0,3,29,0,0,32,"5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,25,isaacs_node-tar,12,2012-01-13,-24.0
+isaacs_node-tar,9440c435711a32f5de4d1a2ddf5bb58da766c06c,2017-05-10 01:11:29,"Merge branch 'v3'
+","51b6627a1f357d2eb433e7378e5f05e83b7aa6cd,7ac69600d94b7c59f1ecb027ac88bd21d57e1ac2",347,0,17,0,364,"7,41,31,221,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5",28,380,isaacs_node-tar,12,2017-05-10,26.0
+metal3-io_cluster-api-provider-metal3,4404747a0367c33a9d01a0ba74951c3462aeeff0,2019-01-28 21:24:19,"Add scaffolding generated by kubebuilder.
+",0d50d4b243ced9daf68b3ae1e770e38b95225921,7553,0,0,0,7553,"8,2,14,234,917,2461,1819,1037,634,202,100,86,5,5,5,3,10,14",18,7556,metal3-io_cluster-api-provider-metal3,32,2019-01-28,17.0
+metal3-io_cluster-api-provider-metal3,1a987d9639d0c946125fb4c929c235a9cb4e7121,2019-12-11 18:49:06,"Merge pull request #205 from metal3-io/v1alpha2
+
+Merging v1alpha2 into master","db27fdf754d4ffb111d0d3abe8958fb862b3dd5c,503b625d447be3138a4c9232977e608ac9df7dad",90,8349,16,2,8457,"11,34,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,131,metal3-io_cluster-api-provider-metal3,32,2019-12-11,-14.0
+shipshapecode_tether,c7da4d5234fe8b8cc748c89305a0c85f0267b3dc,2014-01-10 23:58:28,"Move files around, switch to gulp
+",a8648ad2d1421274a4aa2ab2c68904d394b7ac9a,828,2,11,0,841,"9,20,25,17,30,72,161,109,130,35,62,5,72,0,64,0,36,0,16,0,24",21,887,shipshapecode_tether,5,2014-01-10,17.0
+shipshapecode_tether,886fb6094b3ee6663ce780a6f0cd3eebcc267e82,2014-01-14 00:41:43,"Kill header sha, as it points to the prev commit.  Move to the
+now-published glup-header.
+",3f3a0f0a5f723efab2f5fa54564e9ffeaee6bcc3,0,824,0,0,824,"9,20,19,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,63,shipshapecode_tether,5,2014-01-14,-17.0
+shiyindaxiaojie_eden-architect,9c599e6d21b5def7dfe5a8144d416553aa21916f,2020-01-31 16:09:13,"首次提交
+",,664,0,0,0,664,"7,2,19,73,0,26,25,7,0,0,10,1,298,156,40,0,0",15,664,shiyindaxiaojie_eden-architect,41,2020-01-31,15.0
+googlecloudplatform_prometheus-engine,5498f6b1f8c6f7627ee3c72731b367e5b9cb2ac0,2021-07-01 09:29:01,"Initialize repository
+",,45510,0,0,0,45510,"8,9,56,216,1032,1460,454,411,7068,11315,10554,6177,3426,1238,1221,155,274,198,38,112,88",21,45510,googlecloudplatform_prometheus-engine,21,2021-07-01,21.0
+magento_magento-cloud,1c5bc2a1d82412bd7c59024d111436e8290b1dc2,2016-04-28 18:14:25,"Create Magento Cloud reference project
+",0f1ae977f997e12f0f0b43e31e6a4336f452482b,8308,0,0,1,8309,"23,22,49,175,242,422,418,1499,669,2508,1058,383,309,236,182,99,21,5",18,8320,magento_magento-cloud,8,2016-04-28,14.0
+magento_magento-cloud,723649a42ebcf0819f78f381e5b4b29259e121e3,2016-07-26 17:22:30,"Remove files from base package from template
+",39528ef95fa4ce5dc5abae3adbb13d1772df9612,0,8303,0,0,8303,"13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,17,magento_magento-cloud,8,2016-07-26,-16.0
+magento_magento-cloud,146a38a0198705e550daaeb1fed6b6ffaac9faed,2016-07-29 19:58:25,"Composer install of 2.1.0 template
+",1d90a4cd4fc28f1ef12f8ee19dc8a887c74cfbd1,8719,0,0,0,8719,"24,22,50,174,247,431,427,1619,732,2663,1110,384,317,234,177,98,22,5",18,8736,magento_magento-cloud,8,2016-07-29,16.0
+magento_magento-cloud,aacb0212d28a2dfd5583874b03044b8545d0325d,2018-02-15 14:27:14,"MAGECLOUD-1180: Make ECE Template Cleaner (#83)
+
+
+",10f82c22852f1580f7add39c04b1a7317945b04f,0,2205,0,0,2205,"9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,12,magento_magento-cloud,8,2018-02-15,-15.0
+matecat_matecat,1e9d2a11887908199b9137fab61d317f59426cd0,2014-06-24 13:28:52,"add grunt configuration
+",1c202087ffaa95853bee3d934b8dc5dbca5dd835,2842,0,0,0,2842,"5,13,326,174,339,79,273,292,465,397,312,237,303,145,82,85,34,30,18,32,2,0,80",23,3723,matecat_matecat,32,2014-06-24,16.0
+matecat_matecat,a28e09276efb4fbf891ed0fa1e7df796678b841a,2015-08-12 14:02:09,"Merge branch 'master' into open-matecat
+","c440f5c59e38e6b68a1eac67a2096ba92db1dff0,957cfb2667364bed19b769734e68544c6a5bc41e",34,2844,1,0,2879,"10,30,403,266,288,267,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",8,1342,matecat_matecat,32,2015-08-12,-15.0
+minbox-projects_api-boot,9ebd223cfc4a43cdc3db42db4910a90991998323,2019-03-19 09:18:04,"ApiBoot 0.1.1.RELEASE 版本
+",,64,0,0,0,64,"7,3,14,4,0,3,1,0,0,0,0,7,12,8,5,0,0,0,0",15,64,minbox-projects_api-boot,36,2019-03-19,15.0
+s8sg_faas-flow,3ad4deb2a5df6f37cdec58508ac7d3b3c4412f92,2020-05-24 11:29:20,"Merge pull request #135 from s8sg/feature/85_goModules
+
+#85 Add go mod file for template and remove vendor","39391e1c41a2b806a6704eaed86f008316392de7,29aec5b1681cd51288ce1b235089f301339dd3d1",2,10221,0,0,10223,"8,14,33,7,9,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,87,s8sg_faas-flow,6,2020-05-24,-19.0
+timefoldai_timefold-solver,165ea636f82213d21107f20ead7407b3582c15f9,2007-09-24 09:58:15,"Drools-solver moved from SourceForge into trunk, added to build process under profile ""solver""
+
+git-svn-id: https://svn.jboss.org/repos/labs/labs/jbossrules/trunk@15325 c60d74c8-e8f6-0310-9e8f-d4a2fc68ab70
+",201b34d26e015f8edf29514635e6e69ec95016c7,404,0,0,0,404,"0,1,4,2,0,33,40,0,0,8,8,62,38,6,0,0,0",14,202,timefoldai_timefold-solver,31,2007-09-24,14.0
+apache_struts,c01d3a92db7f71f751a0522912d24bcf4a94a1b0,2006-03-23 22:10:58,"Initial import of WebWork 2, version 2.2.2
+
+
+git-svn-id: https://svn.apache.org/repos/asf/incubator/webwork2@388283 13f79535-47bb-0310-9956-ffa450edef68
+",f0e3ff3628cdda1c55dcca06bba6ab4aed960ec8,3104,0,0,0,3104,"10,12,481,208,196,227,344,225,407,333,219,380,10,26,26,0,0,0",15,3104,apache_struts,66,2006-03-23,15.0
+constellation-app_constellation,7db187dd53cdcf89d445e8877c5e2c459dbf7401,2019-07-12 05:50:45,":star: Sharing Constellation with the world! This includes changes since 2012. Thanks to all past and present developers :pray:.
+",,3681,0,0,0,3681,"16,78,183,0,4,600,0,7,141,1097,1133,327,58,7,0,0,0,0,0,16,14",21,3681,constellation-app_constellation,15,2019-07-12,21.0
+homeport_havener,5750eddd0cb8142579cb5851747b1c20cb09eed1,2018-10-01 15:37:36,"Initial dep ensure
+
+Use special contraints to get an initial vendor files, inspired by
+https://github.com/banzaicloud/pipeline/blob/master/Gopkg.toml
+",447ff91e8a6ae8ee14b9fde368b55e32c419dee1,22435,0,0,0,22435,"6,0,11,157,1510,4822,6030,3928,1716,1351,1275,892,495,77,97,74,5,4",18,22450,homeport_havener,42,2018-10-01,15.0
+kserve_kserve,32c9e650a82e8b90f54e0296cfd1d11d18c1b665,2019-04-03 18:46:51,"Added kubebuilder boilerplate (#5)
+
+",d8ae58d3a1343f0238b115c74d981d05a8dac679,7615,0,0,0,7615,"10,2,19,239,939,2494,1784,1042,650,200,107,91,5,5,5,3,10,14",18,7619,kserve_kserve,57,2019-04-03,17.0
+magento_magento2,4bdbf6b6ebc4b53dbde9483df745cfca7e864a36,2011-12-02 18:19:55,"Merged commits from the original repository.
+",be09cb921bafae2d06302f3f9c9ecacaf90da6dd,21918,0,0,0,21918,"10,22,115,1026,1662,997,1368,1730,1920,921,767,260,77,41,24,13,6,1,0",18,10960,magento_magento2,35,2011-12-02,17.0
+microsoftgraph_msgraph-sdk-php,63e77490f882ca0743f162582a9427a3b8ef2944,2023-11-09 10:15:10,"Merge pull request #1392 from microsoftgraph/fix/merge-v2-to-dev
+
+Merge v2 to dev","1391f9c2bcd3d799117ebfe7bb84feff2b649dbe,c7bf563a7f038eae044fdd5d667e84ab4f9551fa",29356,7627,1,1,36985,"14,15,7,2776,1815,2760,3640,4233,3191,3402,2065,1461,1217,823,730,526,335,199,105,52,18",21,29384,microsoftgraph_msgraph-sdk-php,52,2023-11-09,14.0
+muammar_mkchromecast,50e06bd4fac0a3a74e87353f4f7f20d9534dd0d6,2016-03-19 12:13:24,"Populating files.
+",a05aba58355f706216f05e13e686bd99db2a093e,1045,0,0,0,1045,"2,1,0,1,20,4,30,50,162,332,237,43,45,31,36,19,33,0,0",17,1046,muammar_mkchromecast,49,2016-03-19,16.0
+nvidia_gpu-operator,deea156a6a4f1f13f2747588348cbde8b0755ada,2019-06-10 22:05:51,"Initial Commit for the GPU Operator new home
+",95c29757724662e98517eaacfb5961c6bd80beaa,5362,0,0,0,5362,"8,11,28,75,618,1841,1416,704,463,68,61,66,1,0,2,3,0,0",16,5365,nvidia_gpu-operator,22,2019-06-10,15.0
+eclipse-archived_ceylon,f5e07f3d41f843144f9c60504959af901181dc48,2017-12-07 19:48:33,"New initial commit
+",,13303,0,0,0,13303,"33,210,176,404,1707,641,1292,1715,1370,342,973,3454,649,248,51,31,3,2,0,0,1,1",22,13303,eclipse-archived_ceylon,72,2017-12-07,22.0
+netease_amoro,3f333330ddad89796a5f1e7d9c8ba3d54ef3158e,2022-07-19 02:58:42,"init project
+",,1032,0,0,0,1032,"3,11,24,34,34,27,30,94,110,82,71,323,96,93,0,0,0",14,1032,netease_amoro,60,2022-07-19,14.0
+system-pclub_gcatch,c3bf9d084ba241ccefe0f1baa346f6e96a83934b,2020-04-17 08:50:58,"commit
+",9772cdf62c927fa9e1363409a95ff8c609688fea,679,0,0,0,679,"1,15,9,162,173,195,25,5,60,1,2,5,3,10,14,0,0",15,680,system-pclub_gcatch,59,2020-04-17,14.0
+wso2_product-apim,a20b70f53557a4ebd6b9f344781ae73ba9624512,2015-01-26 09:32:50,"Merge pull request #5 from rswijesena/master
+
+adding wso2de/-product-apim code base to wso2/product-apim","93ae1ee30dc7b1cf20a3ca6f5fe72571602124fb,6897f0f3e064c4a1811d0673d322abea3a24768e",957,0,0,0,957,"5,4,55,199,46,26,69,53,121,101,75,31,60,84,31,0,0,0,0",15,960,wso2_product-apim,39,2015-01-26,14.0
+mage-os_mageos-magento2,4bdbf6b6ebc4b53dbde9483df745cfca7e864a36,2011-12-02 18:19:55,"Merged commits from the original repository.
+",be09cb921bafae2d06302f3f9c9ecacaf90da6dd,21918,0,0,0,21918,"10,22,115,1026,1662,997,1368,1730,1920,921,767,260,77,41,24,13,6,1,0",18,10960,mage-os_mageos-magento2,46,2011-12-02,17.0
+openolat_openolat,18c787522204603b6d0ea585a799cb6122eeecc9,2011-02-11 10:48:57,"Initial import of olat3
+",,6449,0,0,0,6449,"0,15,56,33,44,146,156,1230,1498,2138,931,186,13,2,1,0,0,0,0,0,0,0,0",15,6449,openolat_openolat,13,2011-02-11,15.0
+serverless_serverless,874734b048687fd14e0209fc7b1653d442da8907,2015-07-27 05:37:01,"updates
+",28f090f67b413a558acd022704af5f99e4952272,1155,1,0,0,1156,"5,10,7,8,4,3,5,81,706,87,66,14,4,23,5,45,29,51,23,5,0,4",22,1185,serverless_serverless,63,2015-07-27,17.0
+serverless_serverless,b95a503271a3aa166af8b657798becf375f02627,2015-07-27 05:39:17,"updates
+",874734b048687fd14e0209fc7b1653d442da8907,0,1151,0,0,1151,"5,10,7,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,34,serverless_serverless,63,2015-07-27,-17.0
+aws_lumberyard,6b8dd98ad0e59b1817a79f6aaf5b89afb41b1086,2017-12-12 06:05:45,"Lumberyard Release 1.10.0.0
+
+        Binaries Uncompressed Size: 7.49GB (8041132924 bytes)
+",,25468,0,0,0,25468,"6,45,30,304,3279,4948,4557,4109,3817,1745,739,990,731,155,7,6,0,0,0",16,25468,aws_lumberyard,44,2017-12-12,16.0
+django-webpack_django-webpack-loader,f8f3eec70ce5ce1797884c8fed124b4bb3ba2009,2015-05-23 09:10:39,"Fixed `file` key missing in stats file issues
+Added multiple examples
+",3cd536d6451730ac53271ce4e4f9f37ff5135c18,17412,0,26,0,17438,"7,4,15,27,298,147,1779,3519,4035,1302,1890,1719,1347,261,666,42,264,6,78,0,45",21,17451,django-webpack_django-webpack-loader,50,2015-05-23,17.0
+django-webpack_django-webpack-loader,b4e5cb5a3394ec0762d7090b1201196aa91d6d9e,2015-05-23 09:22:20,"New Release
+Removed ve, node_modules, bundles form examples
+",f8f3eec70ce5ce1797884c8fed124b4bb3ba2009,0,17398,0,0,17398,"7,4,15,18,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,53,django-webpack_django-webpack-loader,50,2015-05-23,-16.0
+istio_operator,488ca2080570cfbfe8b4f7b708ea1c6ec87513e7,2019-05-02 22:31:32,"Merge pull request #1 from rcernich/initial-commit
+
+Initial commit","822a406692449be97789e26f8f38c2a7a9e7e946,1d05f886bc1250c04f8d0d3758ecc5e96be087c6",17452,0,0,0,17452,"6,7,12,173,1102,3275,3613,2925,2599,1087,1160,844,408,64,98,76,4,3",18,17456,istio_operator,57,2019-05-02,17.0
+spacexc_re-wearbili,bc2155a50f90421bc9452d4258af4e7e1222c4c4,2023-04-08 14:26:46,"First Commit
+",8226687e563100c688a32e2fe9ddfc5787d6171d,126,0,0,0,126,"8,11,4,1,0,25,0,0,2,1,10,19,6,4,36,0,0",15,127,spacexc_re-wearbili,43,2023-04-08,14.0
+tencentblueking_bk-ci,1c622875e96d3ff24da7e9f001fab9e573e7a10a,2019-06-28 14:22:54,"Init
+",1497d4c44235e7c9a70707582e5e14973983009b,2601,1,0,0,2602,"4,2,96,139,122,223,234,189,44,31,0,18,456,736,226,80,2,0,0,0,0",17,2602,tencentblueking_bk-ci,14,2019-06-28,16.0
+ucargroup_datalink,da9c7896c939cb48ccdb23f917366d858b2b6585,2018-09-30 07:41:26,"init
+",5ca49465c649c816e10af4c7112c8e8500c2dec6,1016,0,0,0,1016,"6,60,11,0,3,34,36,4,120,283,79,158,90,104,10,21,0,0",16,1019,ucargroup_datalink,19,2018-09-30,15.0
+knative_eventing-contrib,2df210cead805ce02b9a4a9f1966f391b71cec91,2018-10-19 14:44:47,"[ContainerSource] Kubebuilder init (#4)
+
+* Adding heartbeat cmd.
+
+* adding eventing hack, it will have to change.
+
+* ran kubebuilder init.
+
+* correct docs.
+
+* adding eventing hack, it will have to change.
+",6725b40b02c9ef7e8629e336823e2be4c4bbc2b0,7011,0,0,0,7011,"11,9,7,207,846,2249,1752,945,581,195,99,80,4,5,5,3,10,14",18,7022,knative_eventing-contrib,58,2018-10-19,15.0
+root-two_react-native-drawer,8946a9f122a3a6eed12cac968483fd87e45ab03b,2015-04-14 04:32:20,"add demo, and some improvements
+",f4c1149f40e66855893540ad532389d29bb5c644,2942,1,0,0,2943,"5,0,2,11,9,24,400,353,584,569,414,221,186,91,58,16,3",17,2946,root-two_react-native-drawer,5,2015-04-14,16.0
+traefik_yaegi,3f0e69338349bdac392b1159966d6d9d0f29df78,2019-01-24 15:16:49,"refactor: support imports/package/vendor.  (#41)
+
+* test: adds tests about package and vendor.
+
+* refactor: support imports/package/vendor.
+
+* review.
+",9c310f12edde013d95f6972d03db552c32ccf618,21,0,0,0,21,"7,365,45,0,0,0,0,6,2,1,0,4,2,0,0,3,1",17,436,traefik_yaegi,14,2019-01-24,14.0
+didi_knowagent,fafbb60f267aca7a2d22a3abea1b05db3bb76cc2,2023-06-11 11:01:46,"remote commits
+",,1372,0,0,0,1372,"4,36,74,132,35,121,67,36,10,7,69,250,186,232,103,7,3",17,1372,didi_knowagent,60,2023-06-11,17.0
+kgn_kgnautolayout,aa5154002620e307d6463eab490c66e00eee99c7,2014-05-18 03:58:26,"initial commit with - (NSArray *)kgn_pinToSuperviewEdges:(KGNAutoLayoutEdge)edges offset:(CGFloat)offset
+",,12,0,0,0,12,"1,6,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",123,12,kgn_kgnautolayout,17,2014-05-18,123.0
+kgn_kgnautolayout,1eea640b1c86cf572e57bd83a86443c1b97a7e07,2014-06-17 22:25:57,"remove recursive directory
+",80e24f393483f8317ea63d4f32513dd00ae32c89,0,1,0,0,1,"3,7,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,14,kgn_kgnautolayout,17,2014-06-17,-119.0
+really-simple-plugins_complianz-gdpr,5dc3ddcca61a8ee7b7d519941ccedb0e81666994,2019-04-03 13:58:08,"Merge pull request #127 from rlankhorst/new-cookiebanner-structure
+
+New cookiebanner structure","8c09fcb74bbdc42b37b56ddbdd3e0e2367de126d,563063f45f0a06a73a395fe1cd8c5f8660776f28",8,18131,0,0,18139,"15,50,11,97,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,181,really-simple-plugins_complianz-gdpr,47,2019-04-03,-14.0
+runner365_android_rtmppush_sdk,1f68878a3dff82d71167008b7bdc7fcf83d2ddba,2016-08-02 04:40:47,"生成代码
+",,1090,0,0,0,1090,"9,15,7,10,8,100,13,339,129,315,5,54,8,36,14,1,27",17,1090,runner365_android_rtmppush_sdk,19,2016-08-02,17.0
+spokestack_spokestack-ios,e785fbf304999cae3c69c9d1db95be057b187ff9,2018-10-18 20:10:45,"Merge pull request #2 from pylon/development
+
+merge dev into master","520ee985304e37c7fba0840d619a7ea9ed725507,5a643e0ccfd3a19bdb657f6af81eb925c942a486",610,0,0,0,610,"5,0,25,5,22,211,44,183,66,42,6,2,0,0,1,0,2",17,614,spokestack_spokestack-ios,53,2018-10-18,16.0
+apache_shardingsphere,5fd3ee9c4fec5cbd672593606de0d3db93b15241,2016-01-18 13:21:34,init version,,499,0,0,0,499,"3,3,6,38,1,6,6,21,23,138,73,107,48,26,0,0,0,0,0,0,0,0,0",14,499,apache_shardingsphere,46,2016-01-18,14.0
+saviorxtanren_mixer-mixitup,c4aaabed184d33c3a53934ce22aee636dce673ac,2017-10-03 20:25:50,"- Changing Overlay Server over to use Node.JS for faster responses and cleaner design
+",6edd38410d92f4723550e4f6ee9361f137839704,4389,1,0,0,4390,"5,18,51,63,0,23,93,1416,553,414,154,330,73,370,62,97,108,298,284,102",20,4514,saviorxtanren_mixer-mixitup,70,2017-10-03,16.0
+saviorxtanren_mixer-mixitup,d825ba1fd92336b0dd5497dff6db5672d3037538,2017-10-25 05:45:01,"- Large-scale code refactor to support upcoming mobile platforms
+",ebfe96bceb35b1d27a9e84c4dafa1a9b560a11fc,23,4391,15,0,4429,"5,19,108,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,208,saviorxtanren_mixer-mixitup,70,2017-10-25,-16.0
+codeartx_awesome-security,16dffabace96a896c33667cadf961cc9094844b2,2022-07-18 12:56:05,"v0.5
+",,1406,0,0,0,1406,"2,8,0,3,91,244,239,131,33,119,7,41,54,1,48,57,8,53,111,155,1",21,1406,codeartx_awesome-security,19,2022-07-18,21.0
+981011512_--,96d8049930c107f05f555f2559040b769419973c,2023-11-22 03:42:10,"开放所有核心源代码
+",,2241,0,0,0,2241,"13,1,9,39,20,1,51,39,5,36,241,501,478,720,71,5,11",17,2241,981011512_--,62,2023-11-22,17.0
+ice-house-engineering_academy-curriculum,1ec3d39f769314a92a4393e31256557aadfaba0d,2020-05-29 04:05:55,"Move to new branch, remove commit history
+",,9536,0,0,0,9536,"4,0,30,789,16,1010,1787,1113,472,93,3308,32,683,74,11,89,23,2",18,9536,ice-house-engineering_academy-curriculum,8,2020-05-29,18.0
+nadangergeo_rwd-table-patterns,8a23cd4e828336ea35e608535bb9f1c89eae7f3a,2014-04-09 05:05:08,"Restructured project and made a grunt file.
+",258080ca9975cada2c58608797602a0a8028181e,3401,4,15,0,3420,"5,1,41,10,208,214,581,473,467,331,388,215,215,92,31,14,19,32,2,0,80",21,3419,nadangergeo_rwd-table-patterns,16,2014-04-09,18.0
+nadangergeo_rwd-table-patterns,d3bd9690c78dd9a242fa621755bd6458c5b138d7,2014-04-15 23:25:30,"Deleted node_modules directory. Dev should run ""npm install""
+",e6427bdd4a4f6761747b9cc491b498035da95164,0,3766,0,0,3766,"5,1,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,29,nadangergeo_rwd-table-patterns,16,2014-04-15,-17.0
+schemahero_schemahero,11b421932a60859c8b4bf1d41a5a61a5425c9a31,2019-04-27 22:16:38,"First commit of schemahero
+",,8072,0,0,0,8072,"7,1,38,255,1058,2578,1864,1154,669,198,117,91,5,5,5,3,10,14",18,8072,schemahero_schemahero,19,2019-04-27,18.0
+elonpark_ribsreactorkit,be459e282087fd896168edc5768710cb4e6567e8,2020-04-25 13:46:37,"Merge pull request #1 from ElonPark/feature/create-project
+
+Create project","540d27e561f9f5f1d47cc8c39a3f87c971a6acc2,9f9b9c3df6e07b0deab366bbdb6603a11d339078",7917,0,0,0,7917,"3,3,9,6,273,486,1679,857,747,760,424,497,563,391,259,486,247,63,145,9,9,4",22,7920,elonpark_ribsreactorkit,48,2020-04-25,21.0
+pentaho_pentaho-reporting,c29209fd98fd290847f27d3a2e547b37c90b0b02,2013-01-09 18:20:11,"Initial check-in of reporting into Git repository
+",0edd18696f9faf52bcf0e7fc080936fdc2fcaf12,11507,0,0,0,11507,"2,6,601,421,2266,126,53,72,472,1334,2228,1617,1239,749,303,18,0,0",16,11507,pentaho_pentaho-reporting,18,2013-01-09,16.0
+apache_nifi,4d998c12c95a6e5ce3d66c0d861e75e33b5cf013,2014-12-08 20:22:14,"Initial code contribution
+",,2352,0,0,0,2352,"5,4,40,37,29,21,59,152,215,353,143,465,261,421,128,16,3,0,0",17,2352,apache_nifi,28,2014-12-08,17.0
+apereo_cas,3d3e6b51362b42603c6b7f130a3e94fb2bc75c8c,2010-07-22 01:53:00,"NOJIRA
+
+3.4 maintenance branch
+",b037809196cdc426d9caefe729f15471b8b528e3,593,0,0,0,593,"0,9,31,2,3,30,42,46,17,123,201,38,40,11,0,0,0,0",14,593,apereo_cas,39,2010-07-22,14.0
+eclipse-archived_smarthome,108712ea468ed465fdad086718d2f39d9e69751e,2014-01-10 14:53:28,"initial contribution - CQ 7807
+",7282a5f7213a7802757b9e358ac00ca6e98ad1a6,872,0,0,0,872,"3,11,44,201,275,0,13,2,9,23,50,102,83,51,7,0,0,0",15,874,eclipse-archived_smarthome,66,2014-01-10,14.0
+federatedai_fate,564226e646d9862889f6df0fb069376cc082f812,2019-08-15 08:59:48,"FATE Start
+",,2045,0,0,0,2045,"11,26,303,419,345,118,154,130,36,0,45,103,77,89,71,61,37,19,1",19,2045,federatedai_fate,11,2019-08-15,19.0
+inveritasoft_mobile_frameworks_ui-benchmarks,023e08bdc6ecd459024f332b6f0db2c097a0b22e,2020-06-22 09:53:36,"first commit
+",,15683,0,0,0,15683,"0,0,36,68,2038,1805,2908,2806,2388,885,306,709,1274,393,41,7,19",17,15683,inveritasoft_mobile_frameworks_ui-benchmarks,30,2020-06-22,17.0
+opengovfoundation_madison,083e3696e10409dbe9fb53730b4c8476f1425aa1,2014-04-30 20:43:27,"add bower and node directories
+",671b49b2db2080e8be5b93ea496a62055d397317,11851,0,0,0,11851,"17,13,341,606,1150,866,1621,1217,1814,867,1310,598,594,337,481,229,74,27,47,5,0,1",22,12215,opengovfoundation_madison,51,2014-04-30,14.0
+opengovfoundation_madison,d3d4f2a238454809a92dd2dcd0e9190b216dd18e,2014-08-13 02:34:56,"remove node_modules directory from repo
+",e0babf63936622497c4f2fb40816062fc0d352b2,0,12254,0,0,12254,"22,18,190,143,83,11,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0",8,472,opengovfoundation_madison,51,2014-08-13,-14.0
+swagger-api_swagger-editor,4d16e22e7924e0463155af00b0f4e146e6affd43,2014-05-17 03:19:31,"Remove node_modules and bower_components
+
+Fixes #43
+",6d3925ce43087d27dd0a6ba530e28946f39ea512,0,14428,0,0,14428,"13,10,39,13,21,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",6,113,swagger-api_swagger-editor,3,2014-05-17,-15.0
+box_mojito,4babfee270f081f4c8fec8f9277db8a88a6bbdb2,2016-08-19 00:58:48,"first commit
+",,961,0,0,0,961,"6,10,0,0,9,16,23,24,66,118,261,152,1,26,190,48,11",17,961,box_mojito,49,2016-08-19,17.0
+gaotianliuyun_gao,fcbdcfd1cb2fe73932cec1eb01f1e180c258bdf3,2022-08-24 00:55:19,"更新 '{""key"":""csp_XYQBiu_短视频"",""name"":""分享短视频(YXQ)"",""type"":3,""api"":""csp_XYQBiu"",""searchable"":1,""quickSearch"":1,""filterable"":0,""jar"":""https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar"",""ext"":""https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json""}0823.json'
+",1fe2b7b6242c95ef0f07f88ed2e32f552fd30448,0,0,2,0,2,"14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",17,24,gaotianliuyun_gao,58,2022-08-24,15.0
+gaotianliuyun_gao,d9cb84f70c851330cbb942111c2c2e4e966596bc,2022-08-24 01:01:19,"删除 '{""key"":""csp_XYQBiu_短视频"",""name"":""分享短视频(YXQ)"",""type"":3,""api"":""csp_XYQBiu"",""searchable"":1,""quickSearch"":1,""filterable"":0,""jar"":""https:/gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar"",""ext"":""https:/gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json""}0823.json'
+",fcbdcfd1cb2fe73932cec1eb01f1e180c258bdf3,0,2,0,0,2,"14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,23,gaotianliuyun_gao,58,2022-08-24,-15.0
+htmlunit_htmlunit,f6eee45a4b5f7a2380da294a0d232c28fcf95850,2017-03-15 19:15:49,"git-svn-id: http://svn.code.sf.net/p/htmlunit/code/trunk/htmlunit@13733 5f5364db-9458-4db8-a492-e30667be6df6
+",2ade1bb9dc147e25263aea772af87bd53fb6ac3d,0,6581,0,0,6581,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,htmlunit_htmlunit,20,2017-03-15,-18.0
+htmlunit_htmlunit,ae746891987e3967180e7233f52d3e3318a427ac,2017-03-15 19:22:43,"move back
+
+git-svn-id: http://svn.code.sf.net/p/htmlunit/code/trunk/htmlunit@13735 5f5364db-9458-4db8-a492-e30667be6df6
+","f6eee45a4b5f7a2380da294a0d232c28fcf95850,0c3565f5f8fb5870f1be25b0d28af2644e13ebe4",6581,0,0,0,6581,"5,0,4,41,28,22,285,954,1285,1724,1050,419,60,54,235,98,0,317",18,6581,htmlunit_htmlunit,20,2017-03-15,18.0
+mobivm_robovm,3d1e6eccf9edf5e4c05727882f587af2e2368785,2016-04-20 20:15:45," Initial commit. Here's what I did:
+- Figured out which OSS RoboVM repositories are needed for libGDX
+- Put them into a single repository, much easier to maintain, but
+  history got destroyed in the process. Can look up history in
+  original repository if necessary
+- Set the groupId of all artifacts to my domain com.mobidevelop
+  so I can publish to Maven Central
+- Set the version to 2.0.0-SNAPSHOT so there's zero chance of
+  a collision with the original RoboVM releases
+- Couldn't get native bits to compile, so updated minimum iOS
+  and Mac OS X versions for toolchain in vm/CMakeFileList.txt
+  and OS.java until it worked.
+- Apps wouldn't link due to some missing c++ symbols. Removed linking
+  to libstdc++ in IOSTarget.java. Not sure if that has any detrimental
+  effects but it fixed linking.
+- When opening a run configuration via the IDEA plugin, it would
+  crash in DeviceType.java:113. It seems that the output of some
+  command line tool is being parsed, and that returns error
+  messages together with the data we need. Fixed via ugly
+  hack.
+- Updated to the latest commit of https://github.com/robovm/bwdgc.git
+  Probably fixed some GC crashes since the release in October.
+- Pulled in the IDE plugins for Eclipse and IDEA, the Gradle plugin
+  and the templates project. We don't need the Maven plugin and junit
+  stuff for libGDX. Everything's in the plugin/ directory
+- Templates: removed the templates that i couldn't get to work, namely
+  the ones relying on storyboards. Seems like the OSS RoboVM couldn't
+  deal with those at all.
+- IDEA plugin: removed the bridge to the interface builder functionality
+  otherwise the plugin would crash since we miss the artifacts for that
+- IDEA plugin: removed the whole setup stuff for Android and license
+  checks. The former didn't work for me at all, and the latter would crash
+  because it's missing the actual code.
+- IDEA plugin: removed the templates in RoboVMTemplateFactory that aren't
+  working.
+- IDEA plugin: The RoboVmCompileTask doesn't seem to work with that as it can't find
+  the robovm.xml file needed for compilation. Fixed in RoboVmPlugin.java
+  with a very ugly hack.
+- IDEA plugin: there was a huge memory leak in the compiler code of the
+  plugin. It retained the AppCompiler instance, which was huge. Fixed
+  by nulling that out at the appropriate time
+- IDEA plugin: fixed template_build.gradle to use the new groupId
+- Gradle plugin: it seems the Gradle plugin was kept up-to-date with
+  the latest closed source RoboVM. Had to remove a bunch of stuff, like
+  TvOS functionality, as we don't have to sources for that.
+- Eclipse plugin: just fixed up the poms, don't know if it works.
+",,13825,0,0,0,13825,"2,6,68,36,327,383,137,945,1707,5473,1380,1122,1594,182,255,153,52,3",18,13825,mobivm_robovm,12,2016-04-20,18.0
+sofastack_sofa-registry,bef09004cc1d7e356d6051571e39825079926c3c,2019-03-24 07:02:11,"Init project.
+",,669,0,0,0,669,"6,7,15,19,26,0,17,0,0,1,21,126,85,207,113,26,0,0,0,0,0",16,669,sofastack_sofa-registry,45,2019-03-24,16.0
+deephaven_deephaven-core,c76e6e7180f2b205747a54d244bb38998da85e6d,2021-05-07 15:35:18,"Initial code
+
+Co-authored-by: Al Spinks <alspinks@deephaven.io>
+Co-authored-by: Andrew Baranec <andrewbaranec@deephaven.io>
+Co-authored-by: Charles Wright <charleswright@deephaven.io>
+Co-authored-by: Chip Kent <chipkent@deephaven.io>
+Co-authored-by: Colin Alworth <colinalworth@deephaven.io>
+Co-authored-by: Corey Kosak <coreykosak@deephaven.io>
+Co-authored-by: Cristian Ferretti <cristianferretti@deephaven.io>
+Co-authored-by: Danila Ladner <danilaladner@deephaven.io>
+Co-authored-by: Darin Petty <darinpetty@deephaven.io>
+Co-authored-by: David Godinez <davidgodinez@deephaven.io>
+Co-authored-by: Davor Spasovski <davorspasovski@deephaven.io>
+Co-authored-by: Don McKenzie <donmckenzie@deephaven.io>
+Co-authored-by: James Nelson <jamesnelson@deephaven.io>
+Co-authored-by: Jianfeng Mao <jianfengmao@deephaven.io>
+Co-authored-by: Jo Janssens <jojanssens@deephaven.io>
+Co-authored-by: Matthew Runyon <matthewrunyon@deephaven.io>
+Co-authored-by: Mike Bender <mikebender@deephaven.io>
+Co-authored-by: Nate Bauernfeind <natebauernfeind@deephaven.io>
+Co-authored-by: Pete Goddard <pgoddard@deephaven.io>
+Co-authored-by: Robb Camera <robbcamera@deephaven.io>
+Co-authored-by: Ryan Caudy <ryan@deephaven.io>
+Co-authored-by: Vlad Babich <vladbabich@deephaven.io>
+",11ad0794c114c85416de4ff969203e3789ab2a5b,7404,0,0,0,7404,"16,86,116,70,61,91,74,380,1016,1481,3459,279,97,16,94,10,1,0,3,54,0",20,7404,deephaven_deephaven-core,13,2021-05-07,20.0
+ironlanguages_ironpython2,14e8dc8ffc8f57d3ed26a6afe52d9e034ed2c419,2008-11-26 18:41:10,"initial commit of the new IronRuby repo
+",,2383,0,0,0,2383,"0,0,1,0,50,337,723,617,330,234,70,15,0,6,0,0,0,0,0,0,0,0",14,2383,ironlanguages_ironpython2,15,2008-11-26,14.0
+kubernetes-sigs_secrets-store-csi-driver,56fb54bfdb2058ef043ff36363b90787a52c51b7,2018-12-25 07:47:50,"Initial commit
+",,21388,0,0,0,21388,"6,5,29,158,620,2614,3759,3249,1846,4613,2621,1023,543,87,114,89,8,4",18,21388,kubernetes-sigs_secrets-store-csi-driver,26,2018-12-25,18.0
+payara_payara,b2bbbf51196495bd65e4d956e1a1c7220ef6d3f4,2014-09-20 19:38:39,"Merge pull request #1 from smillidge/master
+
+Initial Pull into Payara master","66a0141b66fc005f1a28da22249a181826810afa,9be318f74eadb1c54a8dd1db5bb1c33534ec3ebb",15775,0,0,0,15775,"4,3,59,763,271,415,1055,1378,608,725,3045,3307,2135,888,520,462,103,35",18,15776,payara_payara,15,2014-09-20,17.0
+strapdata_elassandra,b3337c312765e51cec7bde5883bbc0a08f56fb65,2010-02-08 13:30:06,"initial commit
+",ec72ca8b7a115f9b2eea3c76c518062b99a1d015,1349,0,1,0,1350,"8,16,26,3,5,0,4,14,165,402,497,138,54,12,6,0,0",15,1350,strapdata_elassandra,34,2010-02-08,14.0
+elmsln_elmsln,70f5a77e296ebfda55b66aa31ac14ba83257527a,2014-01-27 21:38:10,"initial push to github
+",,10895,0,0,0,10895,"3,10,2,17,224,660,1619,2522,2100,2188,921,384,228,17,0,0,0,0,0,0",14,10895,elmsln_elmsln,28,2014-01-27,14.0
+sonatype_nexus-public,262d1eb7c9fa54f86f513960c7593fd2a29196ee,2015-09-18 22:21:25,"upstream: b=master,r=41ca33b63685713ec3862c9caf312d81f77c4a15,t=2015-09-18-1743-25792
+",fb650e19b4c9ddad2e913787e41a964b32f907d2,3115,0,0,0,3115,"8,6,84,0,0,29,19,58,33,443,1952,388,90,6,1,0,0,0",15,3117,sonatype_nexus-public,42,2015-09-18,14.0
+evergreen-ci_evergreen,6176faef5c24b2fe5f9ffd5c10116f517fee4e2a,2021-11-09 14:46:33,"EVG-15625, EVG-15626, EVG-15627: use Go modules (#5164)
+
+This is a test merge for Go modules, but will be reverted immediately after CI tests run. The CI system can't test this commit due to the large diff size.",e014ffbbb5287debb68773a083ceb3e0e7491b7a,25,31216,1,0,31242,"45,577,601,395,495,59,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",8,2179,evergreen-ci_evergreen,49,2021-11-09,-15.0
+evergreen-ci_evergreen,cf637f34e4a5c031cb3638046a252c76d02f19b9,2021-11-09 14:49:06,"Revert ""EVG-15625, EVG-15626, EVG-15627: use Go modules (#5164)""
+
+This reverts commit 6176faef5c24b2fe5f9ffd5c10116f517fee4e2a.
+",6176faef5c24b2fe5f9ffd5c10116f517fee4e2a,31198,7,19,0,31224,"44,577,596,551,2129,4745,5624,2778,5032,2173,1757,481,673,1438,973,970,976,586,697,359,134,71,6",23,33370,evergreen-ci_evergreen,49,2021-11-09,15.0
+evergreen-ci_evergreen,d6889a75eacbfad076d95b00cda3e40331242aaf,2021-11-10 19:32:34,"EVG-15625, EVG-15626, EVG-15627: use Go modules (#5175)
+
+",e4aadc479a03705c329163cfbc54ef449269b63c,25,31217,1,0,31243,"44,577,601,397,499,59,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",8,2184,evergreen-ci_evergreen,49,2021-11-10,-15.0
+gocd_gocd,cef918f39f513616be24fef34ec9c944ac193556,2014-04-15 09:55:05,"Initial commit from internal Go repository.
+
+Revision from internal repo: dd7d228a6105f5c79d7d3bd2105b2fa9d678df53
+",9a9f482967820d007ed7eccf881d6987fad176c7,16708,0,0,0,16708,"19,65,276,860,760,853,1809,2334,1927,1949,1970,1619,1145,794,310,18,2,1,0,0,0",18,16711,gocd_gocd,55,2014-04-15,17.0
+jetstack_kube-oidc-proxy,acc18c1ee8f565f00311eacc78128114f7525900,2019-02-28 22:44:44,"Adds vendor
+
+Signed-off-by: JoshVanL <vleeuwenjoshua@gmail.com>
+",b7376b2eb5b85f3ecdd59e5a0e8381a7290482f5,49648,0,0,0,49648,"5,0,12,318,2185,6631,9767,8419,6647,6239,4257,2449,1542,635,206,206,106,23,4",19,49651,jetstack_kube-oidc-proxy,40,2019-02-28,18.0
+line_kotlin-jdsl,2a1682dc213abf3dc9323d8301ae7d048021d5d4,2021-12-29 03:52:52,"Initailze kotlin-jdsl
+",,279,0,0,0,279,"12,4,14,0,3,2,2,5,5,51,119,30,25,7,0,0,0",14,279,line_kotlin-jdsl,30,2021-12-29,14.0
+nvidia_kubevirt-gpu-device-plugin,4c65e1989416fc85f1c2e6931bc7b298197bc2f3,2019-08-15 02:38:25,"First commit
+",,12080,0,0,0,12080,"6,9,7,77,359,1618,3146,2122,1041,1043,1076,831,474,80,103,79,5,4",18,12080,nvidia_kubevirt-gpu-device-plugin,33,2019-08-15,18.0
+hetznercloud_hcloud-cloud-controller-manager,785dd83c9390352acec09d5564934727bb1e3200,2018-01-26 16:28:13,"Finish v1.0.0
+",fe9cba69ef37e1c126d470bef907afdc809831f7,17049,0,0,0,17049,"8,10,0,76,908,3068,4667,3010,1702,1148,1119,801,386,44,58,45,0,0",16,17050,hetznercloud_hcloud-cloud-controller-manager,47,2018-01-26,15.0
+hetznercloud_hcloud-cloud-controller-manager,6f4a33b525ca6a4e1260c7a0aacd06e9df5f5cb8,2019-03-11 07:43:36,"Update to Go 1.12 (#14)
+
+Update to go to 1.12
+Use go modules
+Update hcloud-go to latest version",f7a2f661d287472ec8d32435dfa463d996e8c79a,2,18026,0,0,18028,"10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,22,hetznercloud_hcloud-cloud-controller-manager,47,2019-03-11,-16.0
+robscott_kube-capacity,d90acc835abd9af4df016db467ced374f82ef94e,2019-02-02 17:18:31,"Initial commit
+",,18165,0,0,0,18165,"5,0,4,134,954,3358,4430,3219,1507,1391,1328,994,543,87,114,88,5,4",18,18165,robscott_kube-capacity,47,2019-02-02,18.0
+robscott_kube-capacity,59f74a6710cf053e70796c29c9e06ac313b1cfb7,2020-03-02 05:43:08,"Merge pull request #29 from robscott/v0.4.0
+
+Updating kube-capacity dependencies, bumping version to v0.4.0","5ca04c62ccd2f9d8d29246005a3963c27fc14a8b,0aac2c7d2fd5afdd4d5ed5134eb06c0b90798896",2,22016,0,0,22018,"8,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,21,robscott_kube-capacity,47,2020-03-02,-15.0
+distribution_distribution,d64e70b0e1f6fad581d7b1898ade02332190170b,2015-01-14 20:13:25,"Merge pull request #59 from stevvooe/use-godep-for-dependencies
+
+Use Godep to vendor distribution dependencies","6b18639eac1b952b444a454f628e693eab135555,01bc08351db58747049844c6f1cb5e3c3c2f7b1e",343,0,0,0,343,"9,63,48,0,0,39,179,61,28,0,10,0,0,0,0,10,13",17,460,distribution_distribution,36,2015-01-14,14.0
+geotools_geotools,84d6dc79f544430bdb6bdec7fa3a7fb89bb65229,2011-01-26 15:09:24,"GEOT-3397, changing XSD.qName to avoid reflection
+
+git-svn-id: http://svn.osgeo.org/geotools/trunk@36490 e5c1c795-43da-0310-a71f-fac65c449510
+",,10851,0,0,0,10851,"3,19,43,267,167,105,218,441,750,1301,2949,3468,980,130,7,3,0,0",16,10851,geotools_geotools,10,2011-01-26,16.0
+nirmata_kube-static-egress-ip,be448036c797e27ae3422bc4c39419e360d00d81,2018-12-01 05:25:41,"WIP: add egress IP CRD and CRD controller (#5)
+
+* vendor code generator, scripts to generate clientset, informer, deepcopy
+functions etc
+
+* generated code
+
+* controller
+
+* controller code to handle staticegressip crd
+
+* fix Dockerfile Makefile
+
+* cleanup code
+
+* type definition change
+",79303ab922b31049aa1320ada81ffe3b4f1a5e7b,6563,0,0,0,6563,"7,9,4,118,580,2139,1837,962,596,126,78,75,0,2,5,3,10,14",18,6565,nirmata_kube-static-egress-ip,39,2018-12-01,17.0
+openebs_maya,a5de9f54297be1c5dc0f421e140d149a418bcbf8,2017-04-26 11:01:08,"Adding vendor directory for dependency management
+",8d98c72c79d9cab6190e480c2ab81f4f67e0374d,14117,0,0,0,14117,"13,60,1,20,468,2352,2118,1430,3875,2809,751,205,70,5,12,0,0,2",18,14191,openebs_maya,44,2017-04-26,15.0
+trueangle_blackbox,4d5b4411258f9d644e98ad88d1a61d8d199dde09,2023-09-22 13:47:04,"Project init
+",,112,0,0,0,112,"6,5,2,9,0,1,0,18,0,9,0,0,4,13,6,33,6",17,112,trueangle_blackbox,52,2023-09-22,17.0
+dotmesh-io_dotmesh,fad3a06bd3a834f30b605aaafd60c5344e2c5f18,2018-02-15 16:55:58,"Initial commit.
+",,2614,0,0,0,2614,"17,30,24,11,49,6,294,327,480,427,240,409,36,177,83,3,1,0",17,2614,dotmesh-io_dotmesh,68,2018-02-15,17.0
+dwyl_learn-travis,f0c0d81e0bd5669a5cc456dfb0de6a75e64ef542,2013-10-19 10:17:19,"adds simple node.js hello world, basic grunt file and .travis.yml config
+",ed98ad03275ec41745a221b54769e556d7120c7a,1487,0,0,0,1487,"7,7,6,36,137,115,202,243,247,136,74,83,36,30,19,32,2,0,80",19,1492,dwyl_learn-travis,37,2013-10-19,17.0
+dwyl_learn-travis,39a0f9a1567401ff185da17e03cc704a7d015d24,2013-10-19 10:19:08,"add .gitignore
+",f0c0d81e0bd5669a5cc456dfb0de6a75e64ef542,1,1478,0,0,1479,"8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,15,dwyl_learn-travis,37,2013-10-19,-17.0
+huaweicloud_sermant,d3148ac2e5d9498ac4786f21fd5f3523c244f358,2021-09-22 06:39:09,"框架代码初次合入
+",e93409da2ad21b62254607f0c8521f21643b9cb7,475,0,0,0,475,"3,11,1,1,5,5,4,4,31,218,95,27,27,31,8,6,0,0",16,477,huaweicloud_sermant,7,2021-09-22,15.0
+kubernetes-sigs_kubebuilder,0d2a3bd57a310f5e13f71263f9da21e92c7a0c7e,2018-03-15 00:30:54,"Fork [apiserver-builder](https://github.com/kubernetes-incubator/apiserver-builder) as kubebuilder
+",3622ad220671b4a3514cea37db8aad7c8d3cca8e,13133,0,0,0,13133,"11,11,49,183,1164,2870,3434,2584,1721,713,280,84,20,8,3,0,0,0,0",15,13135,kubernetes-sigs_kubebuilder,8,2018-03-15,14.0
+openshift_origin,1cc54365737a2804a489be6ddcb11d5b88567280,2014-08-08 04:32:37,"bump(github.com/GoogleCloudPlatform/kubernetes): 14c379d27b8fbcc39e6945d7d91ee2d13c104a7e
+",2c49e07910293e6452f877f5d7574bddd31a98df,995,0,0,0,995,"3,7,8,3,0,11,61,224,56,32,129,162,257,61,2,0,0,0,0,0,0,0,0,0,0",15,1016,openshift_origin,71,2014-08-08,14.0
+google_binnavi,4565cbc7884d30ac0ca9ce379912bbd82b78f254,2015-08-19 13:24:54,"Initial commit of the BinNavi source code, refactored to be ready for the open source release.
+",,5899,0,0,0,5899,"5,0,0,0,0,0,0,1,29,604,3096,1116,762,143,77,60,6",17,5899,google_binnavi,55,2015-08-19,17.0
+opendaylight_controller,42210c03b0a4c54706320ba9f55794c0abd4d201,2013-03-22 11:46:02,"Initial opendaylight infrastructure commit!!
+
+Change-Id: I2f6610f89c8c32dc6dab4e6982ce06a9b038a85a
+Signed-off-by: Giovanni Meo <gmeo@cisco.com>
+",7576b38152b393793b1c9ec3df0ff86685f95236,752,0,0,0,752,"3,0,7,23,5,28,3,8,86,53,1,254,47,43,127,50,6,8,0,0,0,0,0,0,0,0",18,752,opendaylight_controller,48,2013-03-22,18.0
+spring-cloud_spring-cloud-contract,bd3c38d097fdc1274e44029c298f35055a4e5c4c,2016-07-08 10:51:00,"Initial commit of Spring Cloud Contract Verifier
+",4ac2b0ddae6bc1595097ca2a63717247fce6eb9d,586,0,0,0,586,"3,0,20,7,17,12,20,32,13,36,18,39,89,95,46,53,18,36,33,2,0,0,0",20,589,spring-cloud_spring-cloud-contract,10,2016-07-08,19.0
+guchengwuyue_yshop-drink,fa82a55e229cefc62b26ef9f9f04440341d85227,2019-08-30 09:01:41,"项目加入git
+",,745,0,0,0,745,"5,15,0,0,6,10,94,129,260,135,47,14,16,14,0,0,0",14,745,guchengwuyue_yshop-drink,2,2019-08-30,14.0
+napalm-automation_napalm,0b05c2a079225c618f3b2f3a29c1e2d5e481289a,2017-10-29 17:17:08,"first beta release
+",3407edb94cf06fa6b63d1a0d5ea104a9a00b6610,181,2,0,0,183,"7,14,51,137,130,581,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3",57,1074,napalm-automation_napalm,57,2017-10-29,50.0
+napalm-automation_napalm,8afe8378a69a39616daba30b4eafa4b2602e17b2,2017-11-06 10:24:34,"fix infinite loop
+",896edf57069f2f9c143342fdec6a3977d943a71a,0,156,0,0,156,"7,24,83,149,130,578,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,972,napalm-automation_napalm,57,2017-11-06,-50.0
+schildichat_schildichat-android-next,cf3f1e8f5d3c08e0451516a3337c0a8dfe7a8396,2023-07-19 14:43:28,"Merge branch 'release/0.1.0' into main
+","ce73999b325685801fc9ad97d8899be06157ba4e,629462c6705776b3f7105abfe9400e2c6c0536a6",2615,0,0,0,2615,"16,29,85,119,14,51,895,137,14,37,52,109,358,466,141,95,0",16,2618,schildichat_schildichat-android-next,34,2023-07-19,15.0
+alibaba_sreworks,3a195e4bdb4e09161827afa6cda3bc27b6872b21,2022-03-21 17:19:25,"init
+",37364491feea7ff70f025cb6b62b382ea8217506,7899,0,0,0,7899,"4,7,189,205,549,410,857,573,507,349,454,506,1224,937,660,371,77,21",18,7900,alibaba_sreworks,42,2022-03-21,17.0
+apache_causeway,14c46a821fde6c54f07d07946fd3da3591a49dca,2010-10-11 07:21:24,"recreating directory structure that was blown away on initial import of the nakedobjects code
+
+git-svn-id: https://svn.apache.org/repos/asf/incubator/isis/trunk@1021265 13f79535-47bb-0310-9956-ffa450edef68
+",acf310bdd0cb4ddda27dbcc9b3762d849e53a5b0,0,3377,0,0,3377,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,apache_causeway,45,2010-10-11,-14.0
+apache_causeway,2a60a03499171c49f163ad665b4bba11e1ccf459,2011-06-27 20:59:33,"moving trunk to trunk/framework
+
+git-svn-id: https://svn.apache.org/repos/asf/incubator/isis/trunk@1140317 13f79535-47bb-0310-9956-ffa450edef68
+",92f0e9a4e5c27058877908fcf604d77df2fecd81,0,6018,0,0,6018,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,apache_causeway,45,2011-06-27,-18.0
+apache_causeway,3dc04c00b6c0b6f5163d1e8331f86901634808e6,2011-06-27 20:59:52,"moving trunk to trunk/framework
+
+git-svn-id: https://svn.apache.org/repos/asf/incubator/isis/trunk@1140319 13f79535-47bb-0310-9956-ffa450edef68
+",2a60a03499171c49f163ad665b4bba11e1ccf459,6019,0,0,0,6019,"0,15,20,61,150,268,264,435,404,511,175,134,761,592,875,697,447,195,15,0,0,0",19,6019,apache_causeway,45,2011-06-27,19.0
+asgardcms_platform,bc87d3ee6d15bda78824b7c839765a1839bd6d8e,2014-10-10 19:26:04,"first commit
+",,11742,0,0,0,11742,"11,25,147,131,1073,1181,1770,1754,1838,1262,1694,221,521,74,31,8,1",17,11742,asgardcms_platform,48,2014-10-10,17.0
+aws_amazon-ecs-agent,f19c2b61aef08bad30684e4d3126cda75aec97b2,2014-12-12 01:12:53,"Initial commit
+",,543,0,0,0,543,"4,3,57,8,17,1,150,93,57,111,9,10,0,0,0,0,10,13",18,543,aws_amazon-ecs-agent,0,2014-12-12,18.0
+kklisura_chrome-devtools-java-client,846a423bb3ff27de02d07078f19ca87f4d3b78b2,2018-01-08 22:51:15,"Initial commit
+",,41,0,0,0,41,"2,0,0,2,0,0,0,0,0,0,1,3,6,5,7,10,1,4",18,41,kklisura_chrome-devtools-java-client,38,2018-01-08,18.0
+kubernetes-csi_csi-driver-smb,2d813c476da848b840b8adbc31fd6fed7deb9330,2018-12-03 08:37:13,"initial version
+",f141e4653b123daa13afbb7b48648291e2ccfff9,18249,0,0,0,18249,"8,1,17,175,882,3015,4758,3204,1639,1365,1371,997,529,88,109,84,5,4",18,18251,kubernetes-csi_csi-driver-smb,18,2018-12-03,17.0
+cferdinandi_gumshoe,81aee5849fcb6f03858c2a024ad0d7d558d3876c,2014-11-24 16:05:09,"Initial commit
+",,13621,0,0,0,13621,"3,2,171,88,642,830,2357,1542,2979,975,1985,484,1125,157,232,16,33",17,13621,cferdinandi_gumshoe,63,2014-11-24,17.0
+docker_machine,c76a9ceabf50aa23438f3d2fdd08df7c3cadb429,2014-12-04 19:28:25,"Vendor dependencies with Godep
+
+Signed-off-by: Ben Firshman <ben@firshman.co.uk>
+",85eca56e928eaf63901dbdcdbef6dc4530bd5ff2,364,0,0,0,364,"13,7,7,0,0,0,86,50,157,44,1,0,0,0,0,10,13",17,388,docker_machine,64,2014-12-04,14.0
+foundationdb_fdb-kubernetes-operator,3de7d48aaa59b5701febae533a67f51a8df91d0e,2019-02-04 03:32:21,"Initial commit.
+",,7544,0,0,0,7544,"6,1,14,234,915,2465,1809,1038,630,204,100,86,5,5,5,3,10,14",18,7544,foundationdb_fdb-kubernetes-operator,24,2019-02-04,18.0
+foundationdb_fdb-kubernetes-operator,621b4626b1b662d2e6af8e2fcda919570ff43060,2020-01-21 22:48:04,"Merge pull request #92 from brownleej/kubebuilder-2-upgrade
+
+Kubebuilder 2 upgrade","fff71ccc9bbc296bacd9ddac3cd19c6a141caa16,7cecbcb3107c2f754ffac5640d2c5580e59bff11",25,7540,33,3,7601,"13,32,38,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,91,foundationdb_fdb-kubernetes-operator,24,2020-01-21,-14.0
+droiter_openwrt-on-android,0c0e2192ac08f8daa76d08f17d0a114210ee3eff,2016-01-09 15:56:39,The beginning,3117487d129a9f2cac8d59ea8fd14b5e4df4f8b0,12615,0,0,0,12615,"1,3,18,77,137,2473,3421,1378,801,1160,1654,814,550,88,14,10,9,4,4",19,12616,droiter_openwrt-on-android,4,2016-01-09,18.0
+microsoftgraph_msgraph-sdk-dotnet,b83adfc2410fd4f736e9b4790990e3c111233fea,2023-02-28 20:59:38,"Merge pull request #1656 from microsoftgraph/feature/5.0
+
+Merge feature/5.0 to dev","3ca0f98760c4ecbf2605668dcecd29b43b0d5bce,3c4323f534ba1eca89c84f1e9533d402855b1429",11541,14197,0,0,25738,"11,27,12,12,2481,743,959,1198,1279,983,1550,723,504,380,233,185,139,94,61,33,16,6",22,11629,microsoftgraph_msgraph-sdk-dotnet,66,2023-02-28,16.0
+05nelsonm_kmp-tor,00ad23c7b8eaa69dafca1da57620be0d54a2eccf,2022-02-06 19:54:59,"Initial commit
+",,213,0,0,0,213,"11,2,11,8,3,1,24,2,0,9,5,38,10,58,31,0,0,0",15,213,05nelsonm_kmp-tor,42,2022-02-06,15.0
+4thline_cling,570fa6fae6aab9ef804384dd7275eee19cbe93f5,2011-10-17 15:40:25,"Initial import
+",,1076,0,0,0,1076,"2,19,3,23,45,20,43,7,67,355,326,72,51,30,1,1,9,2",18,1076,4thline_cling,49,2011-10-17,18.0
+apiman_apiman,58f02d78fa74be70cce9cc67b084c371a41a45aa,2014-01-29 18:41:15,"initial project structure as well as a simple UI skeleton project
+",d50156aed17b9590fc57c79598ab3838a8890ef9,50,0,0,0,50,"4,3,3,2,0,0,7,14,10,0,2,1,1,3,4,0,0,0",15,54,apiman_apiman,33,2014-01-29,14.0
+jeedom_core,17ab05eff9e6169e78ee31f073d0d70126b8215c,2014-11-04 10:20:59,"INIT REPO
+",,2029,0,0,0,2029,"8,12,346,230,497,150,51,26,156,161,162,90,97,25,18,0,0,0",15,2029,jeedom_core,3,2014-11-04,15.0
+18f_analytics-reporter,409a3402bd3561737bc9b536087747ca133602dd,2014-11-26 20:00:08,"models and endpoints
+",,2847,0,0,0,2847,"3,7,66,48,553,209,472,497,353,135,138,76,70,61,17,9,19,32,2,0,80",21,2847,18f_analytics-reporter,4,2014-11-26,21.0
+18f_analytics-reporter,cdbadee274d3aa2b2b9363fff151adbc5cf98133,2015-01-02 15:19:16,"Merge pull request #7 from 18F/downloading
+
+WIP: Framework for downloading, processing, and saving GA reports","594a5cb30b6a730d7973529d66280070a89e8115,7e146b2ab1f5d19c2772538d8b2b8c808c17d58d",3,1593,0,0,1596,"12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",1,12,18f_analytics-reporter,4,2015-01-02,-20.0
+eleteam_unishopx,9f35580a84096c5789311579b6553e6e6e9fd73e,2020-06-15 08:40:46,"a
+",2f88d94c26b762c9dc8c5746b2db546583329f75,0,11854,0,0,11854,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,eleteam_unishopx,68,2020-06-15,-19.0
+liquidbounceplusreborn_liquidbounceplus-reborn,0cde2e8e5006e7ce775341b44d6c4876325751b3,2022-10-20 15:23:16,"Add SRC
+",,755,0,0,0,755,"7,13,18,15,0,2,13,114,97,52,288,47,74,11,4,0,0",15,755,liquidbounceplusreborn_liquidbounceplus-reborn,12,2022-10-20,15.0
+openkruise_kruise,20f7bdb00d48cdb46946f54ecec79ffb09c7b5d4,2019-06-05 22:03:48,"initial kruise
+",,19144,0,0,0,19144,"7,3,35,329,1243,3390,4573,3384,1659,1389,1254,1024,519,92,119,91,15,18",18,19144,openkruise_kruise,67,2019-06-05,18.0
+apache_cxf,88a9451b92180609b7bb93d0314bc8384f0c24a4,2008-04-23 17:50:00,"[maven-release-plugin] prepare release cxf-2.1
+
+git-svn-id: https://svn.apache.org/repos/asf/incubator/cxf/trunk@650958 13f79535-47bb-0310-9956-ffa450edef68
+",,5297,0,0,0,5297,"4,16,40,41,44,144,408,395,427,812,905,951,788,133,71,62,35,19,2",19,5297,apache_cxf,21,2008-04-23,19.0
+googleads_googleads-java-lib,dfb2bc36124297833805f08f322b2db8b97fc11f,2014-03-06 05:41:09,Release for 1.26.0,,20229,0,0,0,20229,"4,7,25,0,0,17,0,0,132,850,8,39,13448,5641,46,8,4",17,20229,googleads_googleads-java-lib,70,2014-03-06,17.0
+microsoft_react-native-code-push,ce6ac09d9bd92572c5637b60e8de918232dc07a4,2016-06-15 18:04:12,"Merge pull request #357 from Microsoft/automated-testing
+
+ADD AUTOMATED TESTING","c861d0c9bdbf97f57c21783bfebb25f5ad77a2aa,1b5694e264243f4ff68e0a1608b6475d62b79f12",1692,0,0,0,1692,"15,40,28,47,100,84,236,93,186,66,70,39,70,41,135,118,137,110,123,30,39,5,25,2,24,0,12,2",28,1877,microsoft_react-native-code-push,53,2016-06-15,17.0
+microsoft_react-native-code-push,a403936dbd862a34089061e525b1fe0c02f585f0,2016-06-17 19:51:43,"Merge pull request #380 from Microsoft/changes-for-jonathan
+
+test/typings, devdependencies","848a9616a7a82a26c6a86cbd577da29c9628cf90,9dc638a8ab3863458ed9c1e7ceadfc1c07876869",14,1658,4,0,1676,"15,30,43,38,44,36,4,0,6,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",12,233,microsoft_react-native-code-push,53,2016-06-17,-16.0
+smooks_smooks,642fd21084f2682b81403558ebfb1ff85cee27de,2010-12-28 10:41:00,"initial import
+",,2983,0,0,0,2983,"1,10,162,76,22,87,155,553,718,566,411,137,63,22,0,0,0",14,2983,smooks_smooks,51,2010-12-28,14.0
+xayahsususu_android-databackup,5e49d8bb57e7c28d6bd6be4c094aeea7c0108c28,2023-05-19 07:39:06,"refactor: Clear the project
+
+Change-Id: I25fde4c1325b9c4e8f3da20b6de283893ea8db4d
+",b3c882ba4392f8f22479d51121fa9778adf8f0a0,0,267,0,0,267,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,xayahsususu_android-databackup,44,2023-05-19,-15.0
+89996462_quantumult-x,efd78a552b9bdc3147d6ac23270a8fa61dbc9844,2023-03-06 09:33:33,Create lalthsk.js,eafd4195baea5928cffadb6040946a9dd19c2777,1,0,0,0,1,"4,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",33,305,89996462_quantumult-x,48,2023-03-06,31.0
+89996462_quantumult-x,3f5a3af4ff73c3dd3b56e1b1f008bd5562b41bcd,2023-03-06 09:33:56,"Delete ycdz/*******************************  脚本功能：恋爱聊天话术库——解锁VIP 下载地址：https:/is.gd/ZeVK2Y 软件版本：1.1.6 脚本作者：彭于晏💞 更新时间：2023-3-6 问题反馈：QQ+89996462 QQ会员群：779392027💞 TG反馈群：https:/t.me/plus8889 TG频道群：https:/t.me/py996 使用声明：此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️  *******************************  [rewrite_local]  ^http[s]?:\/\/chat.zyhd02.cn url script-response-body https:/raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lalthsk.js  [mitm]   hostname = chat.zyhd02.cn  *******************************/var body = $response.body.replace(/""isTry"":\d/g,'""isTry"":1') .replace(/""isFree"":\d/g,'""isFree"":1') .replace(/""unlockType"":\d/g,'""unlockType"":1') .replace(/""vipTime"":""""/g,'""vipTime"":""2999-11-11""') .replace(/""vipIsValid"":\d/g,'""vipIsValid"":1') .replace(/""vipText"":"".*?""/g,'""vipText"":""有效期至:2999-11-11""') .replace(/""freeSearchCount"":""\d+""/g,'""freeSearchCount"":""9999""') .replace(/""isShowAd"":""1"" directory",efd78a552b9bdc3147d6ac23270a8fa61dbc9844,0,1,0,0,1,"4,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,304,89996462_quantumult-x,48,2023-03-06,-31.0
+hustcat_k8s-rdma-device-plugin,73bd5644f16261a6ceba0d90dba202e5d43f26e4,2018-03-02 12:21:08,"Add vendor
+",5bdf4f6f99d4658c0c6c3e706affa9fb5eb352ca,13023,0,0,0,13023,"11,2,0,57,346,2050,3743,2256,1103,1044,1096,793,386,44,58,45,0,0",16,13034,hustcat_k8s-rdma-device-plugin,46,2018-03-02,14.0
+orientechnologies_orientdb,39d1c16503716789c5cea1e387f195a178c47789,2010-04-07 21:19:25,"Refactoring of source repository
+",b294aa6645193a25db80a46438d4f688d88810b4,0,410,0,0,410,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",0,0,orientechnologies_orientdb,22,2010-04-07,-14.0
+graphfoundation_ongdb,ab67eff4d8bc69ed4c4393afff065972e29435f8,2021-02-16 15:10:22,"ONGDB-165 - Start with Neo4j Enterprise 3.4.0-rc02 under pure AGPLv3
+",,10194,0,0,0,10194,"6,28,238,77,3,59,85,188,928,1860,2382,2087,891,763,388,114,60,37",18,10194,graphfoundation_ongdb,53,2021-02-16,18.0
+neo4j_neo4j,850566fd3846ef8588edd192b1eeda4b565a7699,2012-11-12 09:15:54,"Merge branch 'master' of file:////Users/lassewesth/processed-repos/community
+","9c4f3c010b03070098c2102d46d347bac809f4e5,6ea0111c24e31b4e425c52325ccbde4dab3e3e96",3933,0,0,0,3933,"1,7,106,4,23,149,95,127,345,861,1630,505,66,2,0,13,0,0",16,3934,neo4j_neo4j,4,2012-11-12,15.0
+nodejs_node,8595981195f8b73fb113a6da2c1449e79b9fcd11,2011-11-22 21:01:10,"Merge remote branch 'origin/v0.6'
+
+Conflicts:
+	Makefile
+	src/node_version.h
+	test/simple/test-crypto.js
+","b3f91f15b2482a8f3e5d37f0e09429a4b4775230,3abebfea98b9a5b0e048106884c56f9162400ed4",451,2,0,0,453,"13,154,605,680,1456,1753,137,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",30,4811,nodejs_node,60,2011-11-22,22.0
+nodejs_node,cffd0bb68d4b72601539b1f3cf2b7ff50def897c,2011-11-25 11:34:29,"Merge branch 'v0.6'
+
+Conflicts:
+	Makefile
+	src/node_version.h
+	test/simple/test-http-response-no-headers.js
+","1db9a2adbe5e2509d9fea9299835fc120ad6ba2b,b159c6d62e5756d3f8847419d29c6959ea288b56",19,103,1,0,123,"13,156,608,677,1463,1696,105,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",8,4727,nodejs_node,60,2011-11-25,-22.0
+packtpublishing_swift-3-functional-programming,63a4008a7c896d28a2277cc04c195aec746f2a2a,2017-02-21 03:06:04,"Merge pull request #2 from PacktPublishing/SecondEdition
+
+SecondEdition","d1f6c630e38d633145ad587019139c6db631b28e,e05d23f555e3f8c8af638e5ecdc5b9036b739e62",651,219,36,0,906,"3,0,21,33,148,146,45,20,31,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25,0,25",49,947,packtpublishing_swift-3-functional-programming,60,2017-02-21,40.0
+eclipse_steady,c07077d82598a6444986307814e8781373c206ca,2018-10-11 16:10:50,"Finally: Vulas goes open-source
+",7b2973c8907ccd21715686d60b3d1471d1d23b3b,1973,0,0,0,1973,"8,32,28,25,136,173,69,55,35,160,301,51,11,4,270,588,28",17,1974,eclipse_steady,22,2018-10-11,16.0
+apache_maven-mvnd,844f3ddd7f4278b2ba097d817def4c3b46d574e7,2019-09-21 17:54:59,"Concurrent build support
+",,37,0,0,0,37,"2,0,0,1,2,10,0,0,13,2,0,0,0,7,0,0,0,0,0",14,37,apache_maven-mvnd,9,2019-09-21,14.0
+kubeoperator_kubeoperator,da86cb8290cf226b66d9029f329f5eb44129b51f,2018-11-02 10:19:21,"[Update] 修改结构
+",,3852,0,0,0,3852,"6,48,54,152,3,0,43,215,108,71,278,57,0,73,891,223,73,531,502,180,48,296",22,3852,kubeoperator_kubeoperator,39,2018-11-02,22.0
+kubeoperator_kubeoperator,86ec44e5f3e8927d51db649e54483e49a452cbbe,2018-11-07 11:01:51,"[Update] 干掉projects数据
+",ec7b9afc147881a74350ee9f057b03668a05f000,0,3589,0,0,3589,"7,60,56,152,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,278,kubeoperator_kubeoperator,39,2018-11-07,-17.0
+markmarkoh_datamaps,379eab18eef7641ca4430adeb25fb92b8c3b4cd8,2012-11-10 19:04:24,"initial commit after losing ALL my code
+",,1369,0,0,0,1369,"1,1,1,1,59,121,889,202,29,13,46,5,0,1,0,0,0,0,0,0,0",14,1369,markmarkoh_datamaps,4,2012-11-10,14.0
+markmarkoh_datamaps,cf763cbd950a9dd1f4eff4ffbde38efdecb87dfa,2013-07-13 18:29:26,"removing node_modules
+",06a6f0b97d60cce4660071ee32b37b8d1c9a1b88,0,3092,0,0,3092,"6,3,18,16,29,27,476,0,0,0,0,0,0,0,0,0,0,0,0,0,0",7,575,markmarkoh_datamaps,4,2013-07-13,-14.0
+odpi_egeria,6262d39450bf88c2302bd4a998b9b63f30724209,2018-06-06 17:38:40,"Merge pull request #17 from odpi/initial-egeria-code
+
+Load of initial Egeria open metadata code","799d1850f09ccf87c6217577eb069b2392a2f024,48f46d95e7e6b3ae5d28c7a393ddc271f9d9d2aa",699,1,0,0,700,"8,13,21,70,108,20,13,1,0,0,0,49,182,112,42,50,22,0,0,0,0",17,711,odpi_egeria,49,2018-06-06,14.0
+sebarmeli_jail,9c18bbaf5676113e157bcfbd843dca81f7c320fd,2012-10-14 01:36:23,"Version 1.0 Released
+",ebc6c8bbc8befca2335f2afa5a9218853db772c3,1689,5,1,0,1695,"7,21,27,27,58,150,229,222,124,132,198,111,95,97,43,34,39,32,2,0,80",21,1728,sebarmeli_jail,8,2012-10-14,18.0
+sebarmeli_jail,0d78717f97e415788826a2ac4453d83f6a392f7d,2012-10-14 01:42:03,"Version 1.0 Released
+",9c18bbaf5676113e157bcfbd843dca81f7c320fd,0,1680,0,0,1680,"7,21,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,48,sebarmeli_jail,8,2012-10-14,-18.0
+jean-emmanuel_open-stage-control,7ea4275e31611b3c4305846e84db31d64aeff780,2015-08-13 11:29:38,"beginning node integration
+",10626ad3dff716aa0bf59ef93843ab74179fcf62,2553,0,0,0,2553,"17,13,21,28,234,82,331,106,322,164,374,222,283,72,235,29,39,5",18,2577,jean-emmanuel_open-stage-control,67,2015-08-13,16.0
+jean-emmanuel_open-stage-control,d1b0c0dc2e7cf1abb2d5508f512c5953d777d01b,2015-08-13 11:30:20,"clean (get node modules with npm install)
+",7ea4275e31611b3c4305846e84db31d64aeff780,0,2547,0,0,2547,"17,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,30,jean-emmanuel_open-stage-control,67,2015-08-13,-16.0
+microsoft_verifiablecredential-sdk-android,2c959037791e8ed4f8dc6e7ca4c23efc677257c9,2020-02-06 03:41:17,"Merge remote-tracking branch 'useragentrepo/anmik/port-to-android'
+
+# Conflicts:
+#	.gitignore
+","be5dd5b991a1964130f20449e957322f27579f5a,da79a7f3598c3ac0ff989250f047e85dde332f6c",148,0,0,0,148,"10,8,5,1,0,17,0,0,3,29,27,22,19,0,1,3,8",17,153,microsoft_verifiablecredential-sdk-android,72,2020-02-06,16.0
+thudm_agenttuning,b318e77ad3433bca827b408695e613992f22ceb5,2023-10-18 19:04:28,"First commit
+",,850,0,0,0,850,"3,11,42,101,334,6,20,1,118,22,104,36,24,16,1,10,1",17,850,thudm_agenttuning,67,2023-10-18,17.0
+alasql_alasql,7c0b93108831673368712253cf7f99fe924da0fe,2015-07-08 19:01:49,"Merge pull request #354 from agershun/feature/code-quality
+
+Feature/code quality","9380e4689a677f38120fa8ec32a3fa60e177f8bc,7b5148987963d4a706e7095b9be2428f536a65f8",0,3510,0,0,3510,"15,465,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,694,alasql_alasql,45,2015-07-08,-14.0
+eclipse-ee4j_glassfish,571714739b23e16c4c90d5229b806433920b3bcb,2018-09-18 14:52:00,"Initial Contribution
+
+Signed-off-by: Vinay Vishal <vinay.vishal@oracle.com>
+",,30345,0,0,0,30345,"6,3,58,419,252,405,2403,5291,5912,3627,3931,3386,2125,1054,701,605,112,29,17,0,3,0,0,6",24,30345,eclipse-ee4j_glassfish,33,2018-09-18,24.0
+esig_dss,bcac73a00fd5ec0e98b9ba91e67fa986101291ee,2014-07-19 07:16:39,"DSS-215
+WEB-APP: Administration / proxy editing
+
+git-svn-id: http://forge.aris-lux.lan/svn/dgmarktdss/trunk@4342 d5ae4de1-bb57-470e-99d7-fe7b0b039746
+",,692,0,0,0,692,"1,1,2,3,16,14,0,25,81,13,0,7,17,105,274,87,19,27",18,692,esig_dss,74,2014-07-19,18.0
+securingsincity_react-ace,8c5352c6a7b12109945517b0b28d0ca8f219755a,2014-11-29 05:14:03,"initial commit
+",,6726,0,0,0,6726,"6,5,61,474,604,399,1030,849,1103,560,628,375,408,160,55,8,1",17,6726,securingsincity_react-ace,15,2014-11-29,17.0
+securingsincity_react-ace,d5870278fa8b2ece5f5d0d40f79b368f38f7813d,2015-03-08 22:04:44,"Merge pull request #7 from okjake/master
+
+Couple of small administrative things","537ef2cb68acaee5f7182ba09ccd13b6f1b1cdbb,c2b8fba642c8876f87e8cd66c576c98c04cf501f",0,6715,0,0,6715,"7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,12,securingsincity_react-ace,15,2015-03-08,-15.0
+castlemock_castlemock,15a3edf9bed9c3c82e6cd94a3a883725f4f7da70,2015-09-26 08:07:14,"Reinitiated the GIT repository
+",,324,0,0,0,324,"5,1,5,0,0,3,1,32,45,34,33,28,51,59,27,0,0,0",15,324,castlemock_castlemock,57,2015-09-26,15.0
+elastic_elasticsearch-net,016246745a4a3f103f25ad1a2853e5a1876436cf,2013-01-04 23:31:40,"docs ported to new_docs from jekyll to wintersmith and also improved responsiveness on small screens
+",8dbc1e981322510f924601cd432b47d850869e83,142,0,0,0,142,"5,26,283,552,271,516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",32,1654,elastic_elasticsearch-net,25,2013-01-04,26.0
+elastic_elasticsearch-net,a0e599b7a9f2b53ef8387f264de0301ff37d1db1,2013-01-04 23:33:43,"removed : folder, must have messed something up whilst in VIM
+",016246745a4a3f103f25ad1a2853e5a1876436cf,0,1,0,0,1,"5,26,283,552,271,516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",6,1653,elastic_elasticsearch-net,25,2013-01-04,-26.0
+girliemac_rpi-kittycam,5b0c170ec91f4e76a91e0d520d7c46f14164ae37,2015-08-25 03:25:35,"initial commit
+",,8041,0,0,0,8041,"5,3,63,437,689,1131,707,554,1033,848,904,632,485,165,297,43,41,3,0,0,0,1",22,8041,girliemac_rpi-kittycam,10,2015-08-25,22.0
+girliemac_rpi-kittycam,6620069e4b07206cbaef4b5cb8eb88ace2be2b5f,2016-08-30 19:09:37,"Delete node modules except kittydar
+",b488e38128d698f709503bfce9789c45ed29201a,0,8033,0,0,8033,"6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,17,girliemac_rpi-kittycam,10,2016-08-30,-20.0
+gwtproject_gwt,ab0aa686820319e15d3adf123f4502dc3349f6de,2006-12-06 23:14:19,"Initial subversion import.
+
+The following lines are to recognize contributions made before the switch
+to Subversion.
+
+Patch by: bruce, jgw, scottb, mmendez, ecc, hcc, knorton, haeberling, samgross, mat.gessel
+
+
+git-svn-id: https://google-web-toolkit.googlecode.com/svn/trunk@1 8db76d5a-ed1c-0410-87a9-c151d255dfc7
+",,1596,0,0,0,1596,"2,10,71,87,19,4,89,239,570,432,42,24,3,4,0,0,0,0",14,1596,gwtproject_gwt,70,2006-12-06,14.0
+dominokit_domino-ui,db2713d9436f45c33965db93f105a9903d8dbd97,2018-03-18 11:03:13,"first version
+",4a4a01fcf1cf4bd884ad9cae2baeef55fd28a215,3533,0,0,0,3533,"3,0,1,0,0,0,0,0,0,157,18,176,337,316,2276,200,50",17,3534,dominokit_domino-ui,73,2018-03-18,16.0
+google_prefab,a0bc1ba22f8bfde0251a3098ac2d12fdafd5b14e,2019-11-05 05:41:42,"Initial Prefab commit.
+",,121,0,0,0,121,"8,19,6,0,0,4,0,0,29,0,10,0,11,0,34,0,0",15,121,google_prefab,72,2019-11-05,15.0
+googlesamples_android-vision,a10d9a9559515fc9a07c852572b0cb9b9f07b47d,2015-06-10 18:42:29,"Adding initial facetracker sample.
+
+Also adding LICENSE and README.
+
+Removed License menu item and activity.
+
+Cleaned up java warnings.
+
+Correcting package name.
+
+downgrading build tools to 21.0.1
+
+Change-Id: I20620a58d811f49b4338a15fb5aed0f8273db8f7
+",79baf307a07d1528cb5d651374aaff9b8f4e6ab7,26,0,0,0,26,"3,1,6,3,2,1,0,6,0,0,0,0,0,0,2,0,2",17,26,googlesamples_android-vision,63,2015-06-10,17.0
+sonarsource_sonarqube,aeadc1f9129274949daaa57738c7c4550bdfbc7b,2010-09-06 14:08:06,"SONAR-236 remove deprecated code from checkstyle plugin + display default value of rule parameters in Q profile console
+",,5098,0,0,0,5098,"6,27,30,17,24,226,288,670,995,728,1128,418,221,115,71,127,7,0,0",17,5098,sonarsource_sonarqube,38,2010-09-06,17.0
+svgdotjs_svg.js,e9a0d5f5d7074b1cb3d1bd5a00f6a602bd55f983,2014-07-13 08:32:20,"Switched to gulp for building
+",40bf2f8ecda3f426e7f13e1d891ab1ab6e004116,3618,3,0,1,3622,"9,59,100,15,224,174,639,158,992,83,631,69,354,27,54,1,64,0,36,0,12,0,8,0,16",25,3725,svgdotjs_svg.js,38,2014-07-13,21.0
+svgdotjs_svg.js,27527cdef1cb6846d57b5d316cf938d97cd30213,2014-08-03 10:43:08,"Removed node modules
+",4fec8a0c29df25163f7d766d0f15575c7a70a1c7,0,4616,0,0,4616,"9,54,36,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,105,svgdotjs_svg.js,38,2014-08-03,-21.0
+isimar_hackernews-react-native,7a237732c32857609cc4c059de9fd21e0924d7f7,2015-03-26 23:55:46,"first commit
+",,5449,0,0,0,5449,"2,5,8,14,311,258,503,889,663,546,391,871,557,181,40,182,12,16",18,5449,isimar_hackernews-react-native,8,2015-03-26,18.0
+robdel12_dropkick,2ab7bffb612eba6ec907568d97222acc1b7073e0,2014-05-13 00:21:47,"Merge pull request #201 from Robdel12/version-1.5
+
+Merging Version 1.5","98d7f1096b7cbf4c21089b370ae3652316574270,e9985f59a06515d6022e6a62aa9e56fb9131ff86",2888,0,0,0,2888,"12,6,39,27,160,327,470,375,625,205,398,70,120,34,23,8,1",17,2900,robdel12_dropkick,11,2014-05-13,15.0
+robdel12_dropkick,4d7d1214853820837e21ba5db95239ae5c1b1f7f,2014-06-27 00:38:03,"Merge pull request #215 from Robdel12/version-1.5.2
+
+Version 1.5.2","87e07dc60450a6ce0ba0061f5f82693bc4a97a46,1a5b674fe532b08287113f5eba9f27123677b309",0,2882,0,0,2882,"8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",2,14,robdel12_dropkick,11,2014-06-27,-15.0
+42sk_tvkill,a3d2fe51122c51444effd4a3099dc83c6908f1d9,2015-10-10 10:41:38,"Initial commit
+",,1038,0,0,0,1038,"9,12,6,1,0,58,0,14,2,5,455,55,413,2,1,2,3",17,1038,42sk_tvkill,15,2015-10-10,17.0
+ceph_ceph-csi,0215b385d36a4790dd2828e367089c9e21c06e4a,2018-01-15 17:12:33,"Merge pull request #1 from sbezverk/the_beggining
+
+ceph rbd csi driver","558bc6c02a2c1c9896fe9b6ba976906033f7d447,27334ac60d2782ade8064e07fc384cb3fbde9e8d",16559,0,0,0,16559,"6,1,8,129,779,2704,4497,2940,1598,1183,1189,811,480,64,94,70,5,4",18,16562,ceph_ceph-csi,56,2018-01-15,17.0
+ebi-pf-team_interproscan,265b0d0126c3a06c786ff706f33e19660f468caa,2015-03-12 17:01:50,"Merge remote-tracking branch 'remotes/origin/trunk' into i5-git
+
+Merge i5-svn to i5-git to make i5-git the trunk of interproscan
+
+
+Former-commit-id: 16d93c36fff9a8679bda9dc4aee022dcb0d90bea","88d42771a7ad29360ace9bd1e55c3fbdc712fa66,166fd5ff3a60ebb65a21a65b4d35e29a146eb3b4",1679,0,0,0,1679,"1,1,21,30,26,75,185,260,117,20,115,195,313,134,135,42,10",17,1680,ebi-pf-team_interproscan,44,2015-03-12,16.0
+jaruba_powderplayer,8d1880630790c60f5467abb06ae9c93c5af17750,2015-03-07 20:30:01,"First Commit - Beta Version
+",58a09a0bb5a02b82ae9af05b2275757efe522e12,5556,0,0,0,5556,"18,81,88,465,318,393,739,495,1323,354,527,198,237,92,163,24,43",17,5558,jaruba_powderplayer,60,2015-03-07,16.0
+apache_inlong,c3c2ec2465f13c7b85a07e7be7a70074f24f2e9c,2019-09-11 04:55:41,"first commit
+",,437,0,0,0,437,"5,23,9,31,29,6,22,0,24,133,67,74,8,6,0,0,0,0,0",14,437,apache_inlong,58,2019-09-11,14.0
+apache_netbeans,6daa72c9819847bb4f71ee6aba6d30d5ffaca41a,2017-09-11 13:32:02,"[INFRA-15006] Initial donation of NetBeans.
+
+Equivalent to the content of netbeans-donation-review.zip donated as part of ApacheNetBeansDonation1.zip with SHA256 being 7f2ca0f61953a190613c9a0fbcc1b034084b04a4d55d23c02cefffc354e7c24a.
+",,44509,0,0,0,44509,"1,1593,1890,425,598,2227,4315,9020,11716,5527,3066,1586,1824,561,158,1,1,0",17,44509,apache_netbeans,47,2017-09-11,17.0
+damonkohler_sl4a,79dab6db41a811cb642629043d60f5f923d26938,2009-08-04 08:36:09,"Initial import of source.
+",,21222,0,0,0,21222,"1,23,83,1430,2866,1473,1636,3555,4524,2469,531,793,701,712,331,93,0,1",18,21222,damonkohler_sl4a,71,2009-08-04,18.0
+google_j2objc,5a69f339b81fd41db22bdf45e613f2179fe8e36b,2012-09-05 19:24:06,"Initial release.
+",,595,0,0,0,595,"5,6,58,5,30,31,2,10,78,8,143,44,2,1,20,0,150,2,0,0",18,595,google_j2objc,47,2012-09-05,18.0
+protondriveapps_android-drive,f921cf8d858a36fbc8373a620c1df2e117d4d76a,2023-02-21 15:25:58,"1.0.3
+",,1570,0,0,0,1570,"10,11,62,116,63,124,12,38,1,41,110,30,55,578,229,70,20",17,1570,protondriveapps_android-drive,22,2023-02-21,17.0
+smartcontractkit_chainlink,d0d089d6cb6318a4e86a438c92804738818d0dc9,2018-04-06 21:34:12,"Bring default Solidity examples in contracts.
+",ad7183bd446e8a9e58b3d5f6552df4f35d68a505,3,0,0,0,3,"12,74,46,39,3744,3055,3129,1476,770,570,450,216,559,110,245,69,83,60,54,24",20,14785,smartcontractkit_chainlink,65,2018-04-06,15.0
+smartcontractkit_chainlink,82a72dcd2eb3a55f52a366f98d86c5c7259707c3,2018-04-06 21:34:12,"Added working uptime_sla example.
+",aeaf134f43b26d1368fa906a7660a6b42b2e4838,17,0,0,0,17,"12,72,70,49,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",5,212,smartcontractkit_chainlink,65,2018-04-06,-15.0
+centurylinklabs_dray,7c6fde6f29b6c0397792f5d513c2a633989e1ee1,2015-01-30 17:55:15,"Use Godeps for dependency management
+",9437dc6f7ee0bab32c92fcdf3680fe0a69904970,178,0,0,0,178,"9,11,1,0,0,0,67,8,76,1,0,0,0,0,0,10,13",17,196,centurylinklabs_dray,40,2015-01-30,15.0

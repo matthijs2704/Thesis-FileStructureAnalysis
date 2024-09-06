@@ -1,0 +1,513 @@
+,repo_id,commit_id,commit_time,message,parents,n_added,n_deleted,n_moved,n_renamed,n_struc_changes,total_files_per_level,max_file_depth,total_files,max_file_depth_diff,bucket
+17225,gisto_gisto,95dd9b9a2e4ec1dc19674881e7b5aba6d243eb4b,1364160868,"First commit.
+",,28,0,0,0,28,"1,12,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3,28,0.0,55
+17226,gisto_gisto,c633fa3e355f1c1577cd1a897fe544bb15716de4,1364177029,"Added basic API
+",2a909c26a16505b768c545b78cfd45505da2d8ba,889,0,0,0,889,"1,14,17,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,917,14.0,55
+17227,gisto_gisto,cd54fb873e3b05185c687550a9014fb5cb26d660,1364256449,Created very basic design using flexbox.,e3e59fa76ff5f9d3afc9eb082aadf7163d8c24b9,7,0,0,0,7,"1,14,24,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,924,0.0,55
+17228,gisto_gisto,ada6041e67f17f91212d695a9ee1607a5c8f4366,1364403747,Merge branch 'master' of https://bitbucket.org/sanusart/gisto.git,"0dbc221e27dbdbf4c9883da1db916164c6042c03,6fcaa22c13d274287c2f1b8a57ca15d3a3cf39dd",2,0,0,0,2,"1,14,26,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,926,0.0,55
+17229,gisto_gisto,5e60e7806255eb83eb03ab2c7661dda4214340f7,1364421297,Fixed search to read items from json file. LONG LIVE ANGULAR!!! The best thing I've seen/used so far!,ada6041e67f17f91212d695a9ee1607a5c8f4366,1,0,0,0,1,"1,15,26,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,927,0.0,55
+17230,gisto_gisto,1ca2321cf3c4e61323b3c03d12e49403533f131c,1364591880,Fixed search to read items from json file - same structure as comming from `http://localhost:3000/gists`,5e60e7806255eb83eb03ab2c7661dda4214340f7,1,0,0,0,1,"1,15,27,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,928,0.0,55
+17231,gisto_gisto,692f2b9881bfe1052047a5ba2603a09a26ac481c,1364676085,"branched 'sasha' from master, we must start working without headache of mix-up
+",1cbb84e17afb002c70acf0635036bb99f4501cf7,1,0,0,0,1,"1,15,28,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,929,0.0,55
+17232,gisto_gisto,b709e755fe33ccce4a77c70b32af6a01e8403449,1364756175,Break the html to templates and loading data to them works. I still in love with angular view engine - that I cant deny!!!,692f2b9881bfe1052047a5ba2603a09a26ac481c,2,2,0,0,4,"1,15,28,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,929,0.0,55
+17233,gisto_gisto,5457527190aae833d61463e7fe5cd95ce753ed10,1364801658,"Added CORS headers to node ""server.js"" - now API works and gists get pulled - YUPPPIE !",513da188b305eac480391540ff2029c665794d05,1,0,0,0,1,"2,15,28,30,4,90,61,94,186,200,136,14,17,47,5,0,1,0",17,930,0.0,55
+17234,gisto_gisto,fbf16c0d8625d313fe3b013af3057b58b419de0f,1364828679,"Moved API inside the app folder.
+Added login screen
+Added desktop wrapper node-webkit manifest file
+",c7591e870df9dfd6bdf483856f2a218418f1c926,3,0,891,0,894,"2,16,26,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,933,1.0,55
+17235,gisto_gisto,6807b76909ab7fe0699f49e470005762d6dffb53,1364935110,Back to onclick,86e6add40b7a5cbaf6e91f3bc1249b36f7ee2974,0,1,0,0,1,"2,15,26,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,932,0.0,55
+17236,gisto_gisto,3ae0a1e4288bd42c788d917030e27227dd246dbb,1364995318,"merged maayan
+","e2e3cfba6677d98b4df3ae49041c90739878d9a5,e7a9c6cf8bc1aa6f1d51bde311ef11334e365d8e",2,0,0,0,2,"2,16,27,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,934,0.0,55
+17237,gisto_gisto,7daa729e997b7e2df588c0e6c15f0cb1f833d9a0,1365274556,"Added gitignore
+",ca583b7372e0964a06169922d3d7f0d25e9ead1b,1,3,0,0,4,"3,14,26,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,932,0.0,55
+17238,gisto_gisto,6a5b0ed95058fdb290327804a69c92b90367e299,1366240251,"comment out 'gistsLastUpdated' for now
+",c14c257fbd59c0761d34d24e25d8f81fb44ba544,2,0,0,0,2,"3,14,28,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,934,0.0,55
+17239,gisto_gisto,220e723fb56a6dbcef135b8a61b6b89ef71028b8,1366245032,"Single view loaded from ng-view.
+Very broken - WIP
+",6a5b0ed95058fdb290327804a69c92b90367e299,2,0,0,0,2,"3,15,29,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,936,0.0,55
+17240,gisto_gisto,43fca214fe13e55f635e990b7ab491f75971fa1e,1366407171,"Merge master into maayan
+
+Conflicts:
+	app/css/app.css
+	app/index.html
+	app/js/app.js
+	app/js/controllers.js
+	app/login.html
+	app/partials/create.html
+	app/partials/single-gist.html
+","220e723fb56a6dbcef135b8a61b6b89ef71028b8,f8629f534f19a7ac4261a2454038c6af1d19c611",1,3,0,0,4,"3,15,27,4,30,4,90,61,94,186,200,136,14,17,47,5,0,1",18,934,0.0,55
+17241,gisto_gisto,e27650e50690d7f0c59250f0e3b5e1d90beb4c58,1371412900,"Merge branch 'master' into maayan
+
+Conflicts:
+	app/js/app.js
+	app/js/controllers.js
+	app/js/services.js
+","e92c13a747ac71cf0a17c64b13b07b71a381e231,93f6fa2bce0fe942f55a1fd848290e482fcd15f3",35,910,2,0,947,"8,4,27,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,59,-11.0,55
+17242,gisto_gisto,561e950b42029399317b6bb127713a47a1dcfc42,1371684470,"Added version checker
+Rewrote the save function of application settings to be more versatile.
+Changed appearance  of main application screen.
+",119e13739e22e23712b4cc4034e35f9974cb0b49,3,0,0,0,3,"8,4,30,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,62,0.0,55
+17243,gisto_gisto,ff7df2d46e59a4e215ed5fa575fa1eeba7752aa3,1371755570,"Icon mess fix
+",0d242bf46bc9c551ee543690797bbd770b8a0ef6,1,1,0,0,2,"8,4,30,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,62,0.0,55
+17244,gisto_gisto,6578fdd5cac55f7fc9bc78e3291a8c3b017f2986,1371972627,"* Fixed themes colors on starred gists
+* Updated .gitignore
+* Default color theme changed.
+",369f20b023d0a9e5d017143763d34c50451dac8c,0,0,1,0,1,"8,4,30,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,62,0.0,55
+17245,gisto_gisto,28a5897ced704f675a073c635b8841907e5a8c87,1372492256,"Add ""watch"" to grunt (currently watches jsmin).
+",1a5f843939f4b7a9854f5c0c64e64e08f63b5be7,0,1,0,0,1,"8,4,29,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,61,0.0,55
+17246,gisto_gisto,c3f57ade0058e29c97a90501cc996b6c764b8ac3,1373233519,Delete .DS_Store,06b6b4b69e68e5eeeed6e25034b8e9fb523bdf7d,0,1,0,0,1,"7,4,29,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,60,0.0,55
+17247,gisto_gisto,1b19153216c27cfec6386b4935023b75b570741b,1373233555,Delete .DS_Store,c3f57ade0058e29c97a90501cc996b6c764b8ac3,0,1,0,0,1,"7,3,29,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,59,0.0,55
+17248,gisto_gisto,8c171b478802e8edb99c84cd4c95271de0319cc0,1374185213,"* Add: Font size to settings
+* Update: Ace editor (more themes, more syntax modes and some new settings).
+* Changed all ""ng-something"" to ""data-ng-something""
+",a00a65ac5c4da31adfa336b96e14f092b3ba29aa,2,0,0,0,2,"7,5,29,9,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,61,0.0,55
+17249,gisto_gisto,74eb179816634b534e242cdf15f53979779e7637,1374488107,"Split services,directive,filters, controllers to separate files.
+",408e978199f5068bb99c1cc6effc31ce5bfd9218,18,2,4,0,24,"7,3,25,31,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,77,0.0,55
+17250,gisto_gisto,6241d3e9e68890e7d956c11ea05d9aface10da7b,1374508261,"Better layout of the project, soursemaps works, some typo fix.
+",74eb179816634b534e242cdf15f53979779e7637,0,1,0,1,2,"6,3,25,31,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,76,0.0,55
+17251,gisto_gisto,ff79531cb52d898629219909b29af0439222321b,1374508573,"Ooops.
+",6241d3e9e68890e7d956c11ea05d9aface10da7b,1,0,0,0,1,"6,3,26,31,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,77,0.0,55
+17252,gisto_gisto,e7eb14b501c712929f56ac5c1566d5b2f486701e,1374528759,"Sharing gists WIP - Users can now be tracked using a nodejs server in order to send notifications.
+",ff79531cb52d898629219909b29af0439222321b,3,0,0,0,3,"6,5,26,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,80,0.0,55
+17253,gisto_gisto,5795b6b95b3f59fe8df585e4e2b20222fa1ba754,1374958947,"Merge branch 'sasha' into maayan
+
+Conflicts:
+	Gruntfile.js
+","e7eb14b501c712929f56ac5c1566d5b2f486701e,5101f036b828ce6eb52928bac6ae2b7cf1e07245",2,0,0,0,2,"6,5,27,33,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,82,0.0,55
+17254,gisto_gisto,b3bf8770ae83ea4d9dcfc3222fc179a40f9319f7,1374960767,"Added notifications header to all views, sharing gist button WIP
+",5795b6b95b3f59fe8df585e4e2b20222fa1ba754,0,1,0,0,1,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17255,gisto_gisto,a73683b1d9c46da4693a5b454d557b3714e17815,1374963353,"Changed header to be its own partial instead of having the same code over 5 templates
+",c7ade308f47f4ae4b0dce0ab5acd839a5c330c81,1,0,0,0,1,"6,5,28,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,82,0.0,55
+17256,gisto_gisto,2ae9ba6bcfde96df033812d2b7dd5a2d299cbd0c,1375118412,"Merge branch 'sasha' into maayan
+
+Conflicts:
+	server/app.js
+","f402238f50ce2365b05654712b283ba92f5ff7d5,e3354c08b2a9f8c7eb556f389fe61130e89be165",0,1,0,0,1,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17257,gisto_gisto,08757665aff7159132b7b1398a509332a4824371,1375166939,"Fix file names for better convention - used camelCase
+",87114d04945558e8eb55af7819804b56edba60e3,0,0,0,23,23,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17258,gisto_gisto,7876f6cd534aced0d2288486d273107d7bbf2830,1375906397,"Multiple clients of same users notifications WIP
+",d16a931f7dd25ac228329465aa3f99f664224b9f,0,0,0,1,1,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17259,gisto_gisto,d80397893dbf28268ee0f99e3628756123403ef4,1375908300,"fix #42 Logging out now disconnects from the notification server and reconnects upon login.
+",0ddc3c25a20195857cfb7947378557d6fa4c3241,0,1,0,0,1,"6,5,27,31,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,80,0.0,55
+17260,gisto_gisto,fcaa1e3026122c27ed8a471e565d820a5d6234f8,1376288621,"Added a check if an internet connection is available gisto will try to reconnect to notification server even if it is after server timeout.
+",0fd4ef2493dd3054bdb46ef22a75ad0d5a90bd42,1,0,0,0,1,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17261,gisto_gisto,e99cf70f35593ae234afe9e73dbadfcb7a215330,1376432888,"Added authentication check for notification server
+",181e42d0c0169abe487552aa1c61f13131eec0af,2,0,0,0,2,"6,7,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,83,0.0,55
+17262,gisto_gisto,edafb9014f6e22e614fa3e4f8262254e2f924c17,1376436799,"Merge branch 'master' of https://github.com/Gisto/Gisto
+","fd9ce0afdc411bbcd2d4fb8c1be0ad4bbe22f06d,ff57bda855948264ba41721888a422860fc1579b",0,2,0,0,2,"6,5,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,81,0.0,55
+17263,gisto_gisto,60107036d113f3175e6bcf4700dcfd35583b764a,1376752285,"add gisto.ico
+",de170569921143494565b4fc38a6b050e0d2cec9,1,0,0,0,1,"6,6,27,32,7,0,4,0,0,0,0,0,0,0,0,0,0,0",7,82,0.0,55
+17264,gisto_gisto,a0ec5da475e4ec6c3a18ae35b7b4c993a88e7286,1377024605,"Changed [x] icon on new share notification to ""trash can"" fixes #52. Cleaned up ""build/linux"" dir and added linux setup script to git
+",31040a47cd53684b419cacaf57ed4e11243defd2,0,12,0,0,12,"6,6,26,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,70,-3.0,55
+17265,gisto_gisto,4e72e1ce4903db5f93e060f0f3486c52f4b8f527,1377106121,"Update .gitignore, add linux build script to repo.
+",4d3755cb32242f83410a216b63b9b488558757ea,1,0,0,0,1,"6,6,27,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,71,0.0,55
+17266,gisto_gisto,9822af89512a4185aba9e6686799970d91000afd,1377106194,Delete .DS_Store,4e72e1ce4903db5f93e060f0f3486c52f4b8f527,0,1,0,0,1,"6,6,26,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,70,0.0,55
+17267,gisto_gisto,0eb8992ac582db8956b4ea295a8d74f902c39cac,1377106225,Delete mkgisto~,9822af89512a4185aba9e6686799970d91000afd,0,1,0,0,1,"6,6,25,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,69,0.0,55
+17268,gisto_gisto,f3e86cfc96405a68fc916528ca2a0233bc99e2c3,1379700757,"Add revisions browser options, fixes #53
+",aa60eae434abefdacf2736efd3a4a4846a7cc6b6,2,0,0,0,2,"6,6,26,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,71,0.0,55
+17269,gisto_gisto,03678d6b989a0c561bcdcb59d63e9728d36d5305,1385926717,"Merge branch 'master' into maayan
+
+Conflicts:
+	app/js/controllers/headerController.js
+	server/app.js
+","b8d09d3a186adc66b0cb528547240bc6c6546709,6fef8bd2a1fd4126401d3209ff931168092a3d8f",1,0,0,0,1,"6,6,27,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,72,0.0,55
+17270,gisto_gisto,6ac7e358de4495fccb65e73db2e24794ac8e1564,1386664830,"* Changed outside links to work via custom directive. Removed few unnecessary functions from controllers as outcome.
+
+* Removed comments from where they should not be.
+
+* Minified with grunt as ""Production"".
+",ce7aced79134a87a72e817123ad124217cffb848,2,0,0,0,2,"6,6,27,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,74,0.0,55
+17271,gisto_gisto,97ebf8676efa3f448a81f33745f005c6050d44fa,1389858479,"Add new version changes to changlog. Renamed change.log to changelog.md
+",bcc9cadcc5722898a3ee4f4364cb7f057b945a06,1,1,0,0,2,"6,6,27,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,74,0.0,55
+17272,gisto_gisto,3ddf87239e8351c8009fa0ec447ff0bc25ada44e,1392761766,"Merge branch 'master' into sasha
+
+Conflicts:
+	app/js/services/githubApiService.js
+","6d4ed7e0627d705dc6f41298d4bac94e1b88fe2b,b77bc9c8ec3888b2814453b6aaef5982dd12e80c",1,0,0,0,1,"6,7,27,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,75,0.0,55
+17273,gisto_gisto,5259684d0fe2d50f8fa77893974b7d2723539b8c,1392765696,"Small fixes.
+",451ae367b60276522fe1853ed7ff9187fb436416,2,0,0,0,2,"6,7,28,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,77,0.0,55
+17274,gisto_gisto,406707c6d728582e0a0e17ad971489f87ab99697,1392843418,"Added missing configuration file
+",7065f10e3612ff376acd28cd14b95606c17160fc,1,0,0,0,1,"6,8,28,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0",4,78,0.0,55
+17275,gisto_gisto,c4bafeff953fe0a1e88888a5e0163da5bd9470d0,1397481265,"Add build/linux/, WIP converting to gulp
+",db26fb52231d5138e95d34e310128b908fdc3df2,6,0,1,0,7,"7,8,27,38,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,84,2.0,55
+17276,gisto_gisto,a9559cd2989902d446e353e5fc6a7cb5b870cb71,1399328406,"Merge branch 'sasha'
+","f15397a66b148f14ef5fcb436dd98a0a048730e9,d3f3bde13c57fb4a6530cba6c48b6c3461be2a6f",1,1,0,0,2,"6,8,28,38,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,84,0.0,55
+17277,gisto_gisto,bf8b7904db27ad33c70d314a07417f9c8ac23683,1399555289,"DOCS (readme): create COMMIT_GUIDELINES.md
+
+- create COMMIT_GUIDELINES.md",3a1c382295c8f70f1e7878953ee9742155f821d1,1,0,0,0,1,"7,8,28,38,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,85,0.0,55
+17278,gisto_gisto,1889571dabf90fd3476c30246f8bf8677ba2bbaf,1404769760,"TOOLS (bower): Add bower dependency management. Update socket.io to version 1.0.6
+
+Fixes #90
+",a8a8e08d59e34f24f80562a054e4146409a8f56a,1,0,0,0,1,"8,8,28,38,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,86,0.0,55
+17279,gisto_gisto,1425c06ea98cf9f0c794a5ec4b6675bee23fd92e,1404770394,"IMPROVE (angular): Update angular to 1.2
+
+Fixes #89
+","1889571dabf90fd3476c30246f8bf8677ba2bbaf,997220ced609e7d48317e65aceee925b0d1d045d",1,0,0,0,1,"8,8,28,39,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,87,0.0,55
+17280,gisto_gisto,872223353b71023960c08c65aecb84a629bc6bc7,1405067470,"CLEANUP (bower): Add bowerrc, modify emmet git url to http
+",1425c06ea98cf9f0c794a5ec4b6675bee23fd92e,1,0,0,0,1,"9,8,28,39,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,88,0.0,55
+17281,gisto_gisto,0ab563f6b5e9eca4bfa4aec7419bfd49895bccb2,1405455077,"Feature (enterpise): Add enterprise support
+
+Added GitHub enterprise support and a toggle switch between public and enterprise GitHub.
+Introduced a bootstrapping stage for the application to prevent race conditions with API requests.
+
+Fixes #99
+",5a3416925376c048e71d831cc5e45d9120255734,2,0,0,0,2,"9,8,29,40,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,90,0.0,55
+17282,gisto_gisto,c7bc4dceb232ec3b2bae80becfcde2d813d12340,1405629904,"FIX (enterprise): Fix github enterprise details not saving properly.
+
+Fix a syntax error with settings promise.
+Add validation to api url to not contain last / or trim
+Add disable-animate directive to stop ng-animate on certain elements
+
+Fix #99
+",b8636dbe8e0855db2ba312ca2b41760b3b88b1f4,1,0,0,0,1,"9,8,29,41,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,91,0.0,55
+17283,gisto_gisto,fe1fe5feb83a3350a0aeb58ec78f2e12dcb81375,1408802143,"FIX (enterprise): Add url builder service to serve proper url between
+enterprise and public mode
+
+Ref #99
+",c7bc4dceb232ec3b2bae80becfcde2d813d12340,1,0,0,0,1,"9,8,29,42,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,92,0.0,55
+17284,gisto_gisto,b70eb4dd2249f801f4ddcd56d9685d5a51453740,1414517269,"Update master changes to enterprise
+","fe1fe5feb83a3350a0aeb58ec78f2e12dcb81375,964b78965c1343500100e7338688329e58bd5af5",0,2,0,0,2,"9,8,27,42,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,90,0.0,55
+17285,gisto_gisto,d828bdfff3d94587cbc0cc86a9711e036c7e76c7,1415133728,"FIX(tags): Allow use of tags such as C# F#
+
+- Now the if the description inserted as `My description #tag1 #tag2 #c#`. The hashtag before C will be omitted by tags filter and tags will be as tag1 tag2 c instead of tag1 tag2 c#
+
+Closes #121
+",01fcebd287826ae090fd5c7fda7e1301370c5610,1,0,0,0,1,"9,8,27,43,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,91,0.0,55
+17286,gisto_gisto,0a0eccd0263e9d8d9c9fd2edb0a37f7fc8f8af57,1415220986,"Merge branch 'feature/toggleDirective'
+","7edfc1b2c37900a58fe2a26fe95767d78567d22b,17691b1d24abcb9928125b271d2691df90b8e239",1,0,0,0,1,"9,8,27,44,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,92,0.0,55
+17287,gisto_gisto,ea0aa7409aca9794ff79cc3e854e284983a01821,1415228515,"FIX (settings): Add style-loader directive to manage dynamic styles
+
+Closes #120
+",0a0eccd0263e9d8d9c9fd2edb0a37f7fc8f8af57,1,0,0,0,1,"9,8,27,45,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,93,0.0,55
+17288,gisto_gisto,30a3f772c21bd3d073d63eecb820b9e83772a8d3,1415400531,"FIX (resource loading): Change style-loader to resource-loader
+
+New directive now allows to manage optional javascript files instead of
+just css files.
+
+ref #120
+",e30f1aa8fcd8aeb9c0d72aefb044e1b81965deaa,0,0,0,1,1,"9,8,27,45,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,93,0.0,55
+17289,gisto_gisto,c3f5b6c0c09d91d7a53e7b66a1a64df1bb097eae,1415973804,"TOOLS(gulp): Fix app structure for clean distribution folder
+
+- now all 3rd party scripts and styles loaded from bower
+- add `dist` gulp task which will create `/dist` folder in the root of the project - this will be the final destination for building installers and binaries
+- cleaned up
+
+Closes #128
+",efdf445c61b7763614e90d789eae44f0c7507926,0,7,0,0,7,"9,8,20,45,0,4,0,0,0,0,0,0,0,0,0,0,0,0",6,86,0.0,55
+17290,gisto_gisto,4540c0b8bc0564bd05ee5dfcb7914353477b2c51,1417597386,"TOOLS(linux install script): install script changes
+
+- Linux install script will now install in gisto in /opt
+
+Issue #80
+",449fecc6a00a20886a6b8daa4e64e8fb33eb0761,0,2,0,0,2,"9,8,20,45,0,2,0,0,0,0,0,0,0,0,0,0,0,0",6,84,0.0,55
+17291,gisto_gisto,47a88773ac82598a39b46db18433b2e6bd479b69,1417651476,"TOOLS(linux install script): libudev.so.0 fix
+
+- fix problem with ""libudev.so.0"" when installing </Gisto>
+
+Closes #134
+",4540c0b8bc0564bd05ee5dfcb7914353477b2c51,3,0,0,0,3,"9,8,20,45,1,4,0,0,0,0,0,0,0,0,0,0,0,0",6,87,0.0,55
+17292,gisto_gisto,cc952d7a85f34dc1ed6b6032a48f882dd21eb672,1417992857,"TOOLS(build script): add node-webkit build script as submodule
+
+- add https://github.com/Gisto/node-webkit-bash-builder as submodule
+",5f49fab95b3618684bfe3131586c3b95dda9fcae,2,0,0,0,2,"11,8,20,45,1,4,0,0,0,0,0,0,0,0,0,0,0,0",6,89,0.0,55
+17293,gisto_gisto,f67d1d2a871ab5fadba89c8994d25e632aae0bf9,1418251968,"TOOLS(structur): improve build structur
+",ac2945661a5ba6167e7af4184ec9b9b16935a2cf,1,1,14,0,16,"10,9,17,42,6,1,4,0,0,0,0,0,0,0,0,0,0,0",7,89,1.0,55
+17294,gisto_gisto,7d3eabd677e83943ea2dc45d72a19eef667acce6,1418327111,"Merge branch 'feature/hotkeys'
+
+* feature/hotkeys:
+  Feature (hotkeys): Add keyboard shortcuts
+  HOTKEYS WIP
+
+Conflicts:
+	app/js/app.js
+	bower.json
+","9cadc68516f44793891033599352deff756c4778,6d2e43ade3a8741c686e569d1c0b7e86c02cd0a8",1,0,0,0,1,"10,9,17,43,6,1,4,0,0,0,0,0,0,0,0,0,0,0",7,90,0.0,55
+17295,gisto_gisto,618ce64a17e3d451f7082efcdb7e5f1aded76717,1418387672,"TOOLS(build/release): add script to handle OSX and Linux releases
+
+- add script to handle OSX and Linux releases automaticaly with a help
+  of https://github.com/Gisto/node-webkit-bash-builder loaded as
+  submodule
+
+USAGE: flow should be something like:
+
+    `$ ./release.sh --osx v0.2.0` or `$ ./release.sh --all v0.2.0`
+
+    node-webkit-bash-builder script shoul be triggered by this script
+    with apropriet flags
+
+NOTE: script depends on cmake because of ""libdmg-hfsplus"" and on
+genisoimage (both are not always comes pre-installed)
+
+TODO:
+ - create release packaging (installer) for windows platform
+ - improve the flow
+
+Issue #80
+",7d3eabd677e83943ea2dc45d72a19eef667acce6,1,0,0,0,1,"10,10,17,43,6,1,4,0,0,0,0,0,0,0,0,0,0,0",7,91,0.0,55
+17296,gisto_gisto,92accc12b2a53b3e658d6d1b8f87d1cf174a35dd,1418585048,"TOOLS(build/release): add resources for DMG building
+
+- add .DS_Store
+- add .background
+- exclude both from .gitignore
+",da5cee83daead3714fa37ea98419c2d343889d60,2,0,0,0,2,"10,10,17,44,7,1,4,0,0,0,0,0,0,0,0,0,0,0",7,93,0.0,55
+17297,gisto_gisto,e70054aa03125a0abf7c9ccc273ed79ddae8843a,1418930429,"TOOLS(build/release): add resources and EXE building
+
+- building windows installers
+- NSIS script
+- cleaned not needed files
+",ca577a5c6c87d9722ad48be4663e5658db1a0fba,1,4,0,0,5,"10,10,17,45,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,90,0.0,55
+17298,gisto_gisto,4996e6071597f38eeac7e51e4d99cfd5b56b39d2,1419712074,"Add .travis.yml
+
+- Only testing for now
+",05d379771fb172d4621d39c51d07e93227dd6c5a,1,0,0,0,1,"11,10,17,45,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,91,0.0,55
+17299,gisto_gisto,9f5d235ab1a20427fc280eba9c378dc409d060dc,1419986521,"CLEANUP(TOOLS): remove trackjs and .travis.yml
+
+- remove trackjs
+- remove .travis.yml
+- ""Nightly"" builds are now made via drone.io triggered by commit to master via webhook
+
+RECOMMENDED: run `bower update`
+",4996e6071597f38eeac7e51e4d99cfd5b56b39d2,0,1,0,0,1,"10,10,17,45,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,90,0.0,55
+17300,gisto_gisto,b6eddda556a1d3e3159e0f0a6c7ff5f7fe9c097e,1422305675,"TOOLS(CI): add drone.io script to the repo
+
+ - add drone.io CI script to the repo, it's better to have it in git and execute it as `./droneIO.sh`
+",3f6a830b0af1abfa707d4d62f9365b29f7d986b0,1,0,0,0,1,"11,10,17,45,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,91,0.0,55
+17301,gisto_gisto,40b34380a7d1204449663fb39f0c122f85b65ffe,1422466567,"TOOLS(build): add debian resources & update submodule build script
+
+- add DEBIAN resources
+- update submodule build script
+",1aad2402d02b19c0b1f070c5f6fd8a4fcfd8613f,5,0,0,0,5,"11,10,17,50,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,96,0.0,55
+17302,gisto_gisto,15444d86d0d0e818e38b811363a50722c589b4cc,1422993644,"Delete notifications server in favor of submodule
+",228e0a2c48e2024971679a33558fbab0e9729aad,0,3,0,0,3,"11,7,17,50,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,93,0.0,55
+17303,gisto_gisto,9a32a9754360a0de1856f7cf801dd1d310a6af2f,1422993691,"IMPROVE: (notifications): Add notification server as submodule
+",15444d86d0d0e818e38b811363a50722c589b4cc,1,0,0,0,1,"12,7,17,50,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,94,0.0,55
+17304,gisto_gisto,355a5c725d4661f9aa6c7dab5f02a1d7d3af6459,1424033828,"Merge branch 'feature/customServerSettingsIssue#145'
+
+* feature/customServerSettingsIssue#145:
+  FIX (notifications): Fix notification server not updating after first run
+  FEATURE(enterprise): Create notification server configuration options for enterprise
+  Revert ""FEATURE(enterprise): Create notification server configuration options for enterprise""
+  FEATURE(enterprise): Create notification server configuration options for enterprise
+","6805909e7a8c0963c93571e07fb8124739edfc5b,b61c68d892ff95e6535497a37d0ff828865f9a48",1,0,0,0,1,"12,7,17,51,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,95,0.0,55
+17305,gisto_gisto,d738c416162b5ec561e4b9ed9a3f315e99187abf,1425243648,"Add bugsnag tracking for ajax requests
+",9dd1963ceb3fbc018d4e7d0fdf901243e12f8b41,1,0,0,0,1,"12,7,17,52,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,96,0.0,55
+17306,gisto_gisto,82d1231184eef485c25966614622a6044fea6f24,1431730999,"FEATURE (create gist): Add language (syntax highlighting) select drop down on create gist view
+
+- Add language (syntax highlighting) select drop down on create gist view, changing syntax changes highlighting in editor
+
+Closes #33
+",165f92e4b0686dbc6d5f7113f65ac1219b6d957d,1,0,0,0,1,"12,7,17,53,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,97,0.0,55
+17307,gisto_gisto,f8b967a46f9c8a6d7c48bad40087ef25dc02bf34,1432481228,"Offline mode - prototype
+",1f2a6e1f334019db254821e31c60a1da742c6dc8,1,0,0,0,1,"12,7,17,54,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,98,0.0,55
+17308,gisto_gisto,22af1ffcd12990c3bbda93a1f7804360eb43e92f,1437505431,"Merge branch 'master' into feature/offline
+
+* master:
+  UI (CSS): fix z-index on share notification
+  FIX(ace): fix ace due to resent changes
+  FIX(bugsnag): fix bugsnag due to resent changes
+  FIX(drone.io script): install bower, gulp and grunt globally for use of NPM dependencies
+  CLEANUP (remove bower): remove Bower - manage dependencies via NPM only
+  Update submodules
+  TOOLS (npm start): fix path to nw in project
+  Update submodules
+  Update submodules
+  FIX (tidy): xml tidy condition
+  FEATURE (editor): Allow code formating
+  TOOLS (submodules): update submodules
+  FEATURE (single gist): add JSFiddle and iconify playgrounds
+  RELEASE: v0.3.1
+  TOOLS (release script): fix release script
+  TOOLS (release script): bump nwjs version to 0.12.2
+  FIX (Notifications): notifications layout on log-in screen
+  STYLE (share): Fix share button breaking the row in share dialog.
+  FIX (Notifications): notifications braking layout
+","b8d5c4b4eeb4930f77b68bb85ca875d0d6d7a602,82fcb2c1bfec321c08d6efe17539159ec6c8eebd",5,2,0,0,7,"10,7,22,54,3,1,4,0,0,0,0,0,0,0,0,0,0,0",7,101,0.0,55
+17309,gisto_gisto,5ced41e201923950996c6e76e1a40d30e690c905,1448223506,"Add modal service
+",1a6f92e3dabf6224e1abbaf3c9b0e3a93a9933d8,2,0,0,0,2,"10,7,22,54,5,1,4,0,0,0,0,0,0,0,0,0,0,0",7,103,0.0,55
+17310,gisto_gisto,26205149b3bbb7df42222f5b917c822386a6a7a5,1448223582,"Merge branch 'feature/modal' into feature/offline
+
+* feature/modal:
+  WIP modal dialog
+  FIX(layout) fix media breakpoint for gist details
+
+# Conflicts:
+#	app/index.html
+","5ced41e201923950996c6e76e1a40d30e690c905,0045ad98d74010922aecfe5dca471a121e639909",1,0,0,0,1,"10,7,22,55,5,1,4,0,0,0,0,0,0,0,0,0,0,0",7,104,0.0,55
+17311,gisto_gisto,aae13f603d09d66485b03bf7903b50820c6f0ade,1488791675,"CHORE (merge): merge with master
+","6d8d0891ed54a95d9ba0153d2b45e284e29d6bfa,bfc2a2781642a1680a74415d6e5d8d010c8a5e61",3,0,0,1,4,"12,7,22,56,5,1,4,0,0,0,0,0,0,0,0,0,0,0",7,107,0.0,55
+17312,gisto_gisto,601d9267c4e76c5ef774cbeb5a41afda681532a4,1534138142,"Merge branch 'next'
+
+* next: (207 commits)
+  Update README.md
+  FIX (security): main security settings
+  1.9.61
+  FIX (windows): app not loading
+  1.9.60
+  TOOLS (windows): update nsis settings
+  1.9.59
+  TOOLS (package.json): upgrade electron-updater
+  1.9.58
+  TOOLS (package.json): downgrade packages
+  TOOLS (package.json): upgrade packages
+  1.9.57
+  FIX (updater): on macOS
+  1.9.56
+  1.9.55
+  TOOLS (build): always
+  1.9.55
+  TOOLS (webpack): only use hard-source at dev
+  1.9.54
+  TOOLS (relese): test release to GH
+  ...
+","b84a9e1a230524bf2e03bc0349b96d9e5e1f359d,7b931c6de89ad319aa319ddaef07296e2651342f",203,0,0,0,203,"27,18,114,84,40,20,7,0,0,0,0,0,0,0,0,0,0,0",7,310,0.0,55
+17313,gisto_gisto,c621f92d2c9b0a2ed14ac1485abea09963149c89,1534139251,"merge next to master (unrelated-histories)
+",601d9267c4e76c5ef774cbeb5a41afda681532a4,0,102,0,0,102,"20,11,92,28,35,19,3,0,0,0,0,0,0,0,0,0,0,0",7,208,0.0,55
+17314,gisto_gisto,4a351e5b09cb017de486f416b6e20729fa359410,1534448608,"TOOLS (jest): separate config from package.json
+",0b420c3dbd875941aaf5924e3ded778733733827,1,0,0,0,1,"21,11,92,28,35,19,3,0,0,0,0,0,0,0,0,0,0,0",7,209,0.0,55
+17315,gisto_gisto,0bfa92aed4f77c89f7e383cc2e4d47bdf369fcfd,1534451430,"FIX (input color): add InputColor component
+",4a351e5b09cb017de486f416b6e20729fa359410,3,0,0,0,3,"21,11,92,28,37,20,3,0,0,0,0,0,0,0,0,0,0,0",7,212,0.0,55
+17316,gisto_gisto,a3341d256aee0cbf9cd8651ec2d925829ec86e25,1534660984,"FIX (Loading): loading indicator as separate component
+",e2b8313cb969fa1ee26ab4df0a3ba76e5d455d1d,3,0,0,0,3,"21,11,92,30,38,20,3,0,0,0,0,0,0,0,0,0,0,0",7,215,0.0,55
+17317,gisto_gisto,4d778362c5f94666a9b77ab99a2c66ca2b285ad7,1534800108,"FIX (controls): refactor controls + styling + add Checkbox and select
+",dd885590066bb64ff4dc4edcaa42b7cdc0d00722,6,0,15,0,21,"21,11,92,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,221,0.0,55
+17318,gisto_gisto,fc9c65152471dcb74eb8acd2bfc2b76e2c0378ea,1534914458,"test
+",0b410b29d3e9e119989cfda991de60905b9971b1,1,0,0,0,1,"22,11,92,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,222,0.0,55
+17319,gisto_gisto,520dc455124efe2e92d93412d54b185b46258983,1534914770,"1.9.72
+",fc9c65152471dcb74eb8acd2bfc2b76e2c0378ea,1,0,0,0,1,"23,11,92,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,223,0.0,55
+17320,gisto_gisto,087e2f490b850a48885c290f0488056a062e4717,1535320083,"Merge branch 'next'
+
+* next:
+  FIX (scrollbars): style scrollbars + make them pad on dashboard if needed
+  FEATURE (revisions): list revisions + update some icons
+","ca990243f90b59ac786893bed734050a370f285e,357c91faf1998a7398684d04ab49b168de9819e4",3,0,0,0,3,"23,11,95,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,226,0.0,55
+17321,gisto_gisto,70d8c456319c5109703a3d2c3a69cea780e27116,1535482151,"FEATURE (webclient): add webclient issue #203
+",a5a56f2b11b58851e917c75667c541bf9f673f7b,3,0,0,0,3,"24,11,97,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,229,0.0,55
+17322,gisto_gisto,0bf82763b7d424e0505c5aabcc11414176e36a35,1535580814,"FIX (enterprise): fix login with GitHub enterprise
+",70d8c456319c5109703a3d2c3a69cea780e27116,2,0,0,0,2,"24,11,99,22,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,231,0.0,55
+17323,gisto_gisto,002ab02de5678d4545bc8e8ce7e5ab0bd17630db,1535658013,"Merge branch 'next'
+
+* next:
+  FEATURE (notifications): add toast notifications
+","f8e69863d3796db925e7cb70076a0fcf13919a13,3d1e6109f4c9244e833b226419ca9eb1fb49e27d",1,1,0,0,2,"24,11,98,23,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,231,0.0,55
+17324,gisto_gisto,4d62ead16093f126291513d560807686bf110ea5,1535790227,"FEATURE (emoji): render emoji in markdown (with custom renderer.text) closes #199
+",9ad521b83de3ed8cf608ebb4d00fe01ba0a5df7c,3,0,0,0,3,"24,11,100,24,46,26,3,0,0,0,0,0,0,0,0,0,0,0",7,234,0.0,55
+17325,gisto_gisto,d505d2a2d0c2817c1c91331dc12a27e28b079881,1535924414,"FIX (keybinding): show keybindings on ?
+",a1ed64aed5d2952faf28ecc77292e79d95a0369d,3,0,0,0,3,"24,11,100,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,237,0.0,55
+17326,gisto_gisto,68cfadffdf3eb68af00525b426144aef04d7a0e7,1536658526,"TEST (fix): fix failing test on linux because caseSentivity
+",7da84a7484d814fd0640d39af4acfb677df3c336,0,0,0,2,2,"24,11,100,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,237,0.0,55
+17327,gisto_gisto,db43e89e137733d9217a1ca76f0d5feb07cf73b9,1536698963,"Merge branch 'master' into next
+
+* master:
+  Set up CI with Azure Pipelines
+","892d0d3cfed2288e0fad959cef25b27a217d8d7f,a6a7f1d6d8378693affda7677dfd65f7c8db85d9",1,0,0,0,1,"25,11,100,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,238,0.0,55
+17328,gisto_gisto,c5b769ac78c3ee841ccc59be377711e8ab9e8fce,1536736936,"Merge with next
+","9d7f2a907bb7a9ca54f697b1e5d74e48b5a3e75e,a6980263110e57b4011bafdb0293b234b6505547",0,0,0,1,1,"25,11,100,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,238,0.0,55
+17329,gisto_gisto,f2999bbc6bff5d8e016000b8023d4ceff94a7ded,1536781328,"FIX (changelog): remove bad release and azure pipeline
+",395c1575193a829573984564518ab6ff70a0de3b,0,1,0,0,1,"24,11,100,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,237,0.0,55
+17330,gisto_gisto,1c7e5951a7cdadd4bbcd7ceb8909f289866deb6d,1536867541,"FIX (snippet header): refactor and add ""copy url to clibboard""
+
+closes #222
+",2e71b18bc19bebc00fcd88bc154fb09de2347ffa,1,0,0,0,1,"24,11,101,26,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,238,0.0,55
+17331,gisto_gisto,b099e0ca7b11e09aac91285ee0f227c9d407e28f,1537046587,"FEATURE (AsciiDoc): support for AsciiDoc files preview
+",d4a189390a0c4971f1431eec2067a4b7e29f9615,1,0,0,0,1,"24,11,101,27,47,26,3,0,0,0,0,0,0,0,0,0,0,0",7,239,0.0,55
+17332,gisto_gisto,96310f1b3674fee23c3e24b7397390d9e59137c8,1537079668,"TEST (common): add more tests to common components
+",b099e0ca7b11e09aac91285ee0f227c9d407e28f,4,0,0,0,4,"24,11,101,29,49,26,3,0,0,0,0,0,0,0,0,0,0,0",7,243,0.0,55
+17333,gisto_gisto,a077ae2ca9bedd6685ee83f65c956ab8209d79e3,1537307588,"CHORE (analytics): add basic analytics
+",ad049bab8cf90a141f9662bde79b872f2289809e,1,0,0,0,1,"24,11,102,29,49,26,3,0,0,0,0,0,0,0,0,0,0,0",7,244,0.0,55
+17334,gisto_gisto,5a87676dc27b97cd10dcf152265ba0c3b7315e24,1537346462,"FEATURE (seattings): defaults for new snippet, public or private
+",6cd228d4146ed8652f99c3bb78b07773d2f16e74,3,0,0,0,3,"24,11,102,29,49,28,4,0,0,0,0,0,0,0,0,0,0,0",7,247,0.0,55
+17335,gisto_gisto,5ee2be9ef63c55339a2bfe73ac9a02f2459b5381,1537365501,"FIX (ga): fix ga loading for web and electron
+",5a87676dc27b97cd10dcf152265ba0c3b7315e24,1,0,0,0,1,"24,12,102,29,49,28,4,0,0,0,0,0,0,0,0,0,0,0",7,248,0.0,55
+17336,gisto_gisto,3259610936d3adb2bbe75d65a89e0fc2d51dbfcf,1537554788,"FIX (updater): windows
+",126e72b3361087b4edc0cba5ae14ee73fcc4ec79,3,0,0,0,3,"24,13,103,30,49,28,4,0,0,0,0,0,0,0,0,0,0,0",7,251,0.0,55
+17337,gisto_gisto,7987abe13dfbdb9ae0827f2ae8eb040ce13f3c3f,1537790098,Update issue templates,90de475def55a11f006fb0207b14c4c533a2dcd3,2,0,0,0,2,"24,13,105,30,49,28,4,0,0,0,0,0,0,0,0,0,0,0",7,253,0.0,55
+17338,gisto_gisto,12aa6ccc408f21654aff6035fd2ede5803ca6152,1537993492,"Merge branch 'next'
+
+* next:
+  FIX (IconUtil): fix clicking outside
+  FEATURE (search): display languages list near search
+  FIX (new snippet): move create new button
+  FIX (new snippet): better screen layout
+  FIX (snippet): display file uploaded via git
+  FIX (tags): wrap long tags
+  FEATURE (snippets): display image files uploaded via git (read only)
+  FIX (keybinding): change supeserch to cmd/ctl+f
+  FIX (search): add taglist to search for quicker navigation
+  FIX (desktop app): handle depricated event in future electron v3
+  FIX (title): app title on desktop and web
+","270d3cf0259e946bbab6db3e2f07527e59ffa6aa,1f679ef27b08a0d3c0e36e2b227e024e29ce5f1e",6,0,0,0,6,"24,13,105,34,51,28,4,0,0,0,0,0,0,0,0,0,0,0",7,259,0.0,55
+17339,gisto_gisto,e8c75fa5d19b6c52dede2aac725d86b1429cecbf,1538520607,"FEATURE (edit): add drag and drop files to edit snippets
+
+Closes #224
+",0f902e6b63f9d06ce5ebf42281c1694d63c4250d,1,0,0,0,1,"24,13,105,35,51,28,4,0,0,0,0,0,0,0,0,0,0,0",7,260,0.0,55
+17340,gisto_gisto,28e1a69d7cc66616fc40c40c23e195501f1baedb,1539037809,"FIX (tags): show file count on tags
+",453953c241655529d51b959c9f2aa81c9889f081,2,0,0,0,2,"24,13,106,36,51,28,4,0,0,0,0,0,0,0,0,0,0,0",7,262,0.0,55
+17341,gisto_gisto,765e47b80ae62e99065b425281a161504b5cfd47,1539288137,"FEATURE (rate limit): show github API rate limit indicator with reset time
+
+- show github API rate limit indicator with reset time
+- separate response handler from api middleware
+- fix typo
+",77720d6dc35213f1b93c663f35828ca6572116b4,1,0,0,0,1,"24,13,107,36,51,28,4,0,0,0,0,0,0,0,0,0,0,0",7,263,0.0,55
+17342,gisto_gisto,056df3bd97e861efaf1e15747bf169fa7d73e479,1539444968,"TESTS (actions+layput): add more tests
+",09e02c7a6774134e7773d66167d1f806f67630ab,3,0,0,0,3,"24,13,108,37,52,28,4,0,0,0,0,0,0,0,0,0,0,0",7,266,0.0,55
+17343,gisto_gisto,50cb915e7bc633998f400e89facbd534afb8484e,1539985910,"FIX (icon): linux AppImage icon not showing
+
+Closes #229
+",3189278a04a7889f3114c266ad1053b18eae65f6,2,0,0,0,2,"24,13,109,38,52,28,4,0,0,0,0,0,0,0,0,0,0,0",7,268,0.0,55
+17344,gisto_gisto,c1bdb4e9bb97f990132a6a8a82db8bc1b743a8ac,1540240928,"FIX (refactor): settings and theme
+",f40de3e868624326363d000f1c15df7ac6fdb4a3,1,3,0,0,4,"24,13,110,38,50,27,4,0,0,0,0,0,0,0,0,0,0,0",7,266,0.0,55
+17345,gisto_gisto,ef72cf549dbbcc5be7757116c459718eb942c193,1540418227,"FEATURE (editor): preview for csv files
+",69a9287cc99ffd12b86ef4bd2cdb0e8fe0b716bd,1,0,0,0,1,"24,13,110,39,50,27,4,0,0,0,0,0,0,0,0,0,0,0",7,267,0.0,55
+17346,gisto_gisto,ad73ee6c07dbd970f8b8a3338e1c66dd466479d9,1540758404,"FEATURE (editor): geojson preview
+",bfb2a13d83e9cf7d8618588df035ed097d2715ee,2,0,0,0,2,"24,13,111,40,50,27,4,0,0,0,0,0,0,0,0,0,0,0",7,269,0.0,55
+17347,gisto_gisto,963d35bfbe3199209426efba76163f706fc9fad8,1541095074,"FEATURE (editor): preview PDF + refactor file utils
+",beb850cc9865dfb1fc3162c64f64e4eacf6699cb,1,0,0,0,1,"24,13,111,41,50,27,4,0,0,0,0,0,0,0,0,0,0,0",7,270,0.0,55
+17348,gisto_gisto,f519cea9528fb9c08b1c69955d0fde3301faa4b4,1541185980,"FEATURE (editor): allow sandboxed HTML preview
+
+- add preview of HTML files in a sandboxed iframe
+",129ab66233063367335a0af57c7cfefd714725c4,1,0,5,0,6,"24,13,111,36,56,27,4,0,0,0,0,0,0,0,0,0,0,0",7,271,0.0,55
+17349,gisto_gisto,a2f5bf1373c6a878c84c07d518698a31ea4bf804,1541239838,"FEATURE (settings): add icon theme
+",ee790d2db2b8a4f6f4f625442140614cb179440c,41,0,41,0,82,"24,13,70,118,56,27,4,0,0,0,0,0,0,0,0,0,0,0",7,312,0.0,55
+17350,gisto_gisto,51ca500686105de77bad57bdb7936e93418d1764,1542228969,"DOCS (site): host new site with docs alongside the app
+",cac0720b2b92805a45366dfdd0fc4bd4561d8aec,100,0,0,0,100,"24,24,81,180,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,412,0.0,55
+17351,gisto_gisto,53da6c394d51c4359de0646740956b6cfe9f6fe0,1542524581,"DOCS (site): document create new snippet
+",8f1c847b92069e30757a85beb184d20bc77c04f9,1,0,0,0,1,"24,24,81,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,413,0.0,55
+17352,gisto_gisto,90bc33d2dcd8fd71d8928eb9f3e0f0d98947b96a,1543057942,"TOOLS (betas): support beta versions prerelease
+",044553fc17b7de5ec810445882119519ed0e1507,1,0,0,0,1,"25,24,81,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,414,0.0,55
+17353,gisto_gisto,8b44801925c2b2af40349451340a240fc837b5ac,1543529062,"CHORE (packages): update packages and service worker for web
+",00e7cb8649c391e84c733df0438b2f5d91414951,1,0,0,0,1,"25,25,81,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,415,0.0,55
+17354,gisto_gisto,e20ea96cf0126a4e5aee3a625c6acbcb27d94344,1544036230,"CHORE (typescript): convert to typescript
+",3be47728abd60e7b596cf2c47cc6bf6ead3463f2,5,3,0,24,32,"27,25,81,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,417,0.0,55
+17355,gisto_gisto,d9cd80309d025d1d30e32c17d51d17e0b237b0a4,1544133800,"CHORE (typescript): convert Notification and Anchore to typescript
+",fb9a23a5b2ad7e843f77f061b32af4f27ee07116,0,0,0,2,2,"27,25,81,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,417,0.0,55
+17356,gisto_gisto,185f254685e8fa98d04a684b4e774eee4232cf43,1544225920,"FIX (typescript): make all Interfaces shared
+",d9cd80309d025d1d30e32c17d51d17e0b237b0a4,1,0,0,0,1,"27,25,82,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,418,0.0,55
+17357,gisto_gisto,0b05291c363815b181c3b03bbcb3874651c64d2d,1544887255,"TEST (reducers+components): add more tests
+",1c6e2c49af048022b4fce14934608eeddef545e1,1,0,0,0,1,"27,25,83,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,419,0.0,55
+17358,gisto_gisto,9a612973704c2507f4e25998a0f6f3b501f50c92,1544904944,"CHORE (typescript): move snippets selector to typescript
+",2bab4a4b4fdd46b818aa451b8de8757a6eec80b9,0,0,0,1,1,"27,25,83,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,419,0.0,55
+17359,gisto_gisto,4481ee5525a4109d96fdd6e8a7bd50689bf200a2,1545341720,"CHORE (size): reduce  bundle size + remove webpack merges
+",cd4a5a903d8aea43dd919f8b518df06dcd6251d7,0,3,0,0,3,"24,25,83,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,416,0.0,55
+17360,gisto_gisto,4cc81662d26e9a589ca27465b9dac312317c8875,1551733751,"FIX (create new): update Select and improve usability
+",f8872a611554767bf39424e880c5c50a4190c424,1,0,0,0,1,"24,25,84,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,417,0.0,55
+17361,gisto_gisto,2adee2aeb2a500e992c535946af22fe6d80acab1,1553145267,"FIX (typography): add more charsets
+",b73ecfb1f0b98d57044d362e2582893b1b5d3fcc,6,6,0,0,12,"24,25,84,181,67,27,9,0,0,0,0,0,0,0,0,0,0,0",7,417,0.0,55
+17362,gisto_gisto,8f78bfd820ffddcbbc87d8f5da791975b9c52c1a,1554496762,"Merge branch 'next'
+
+* next:
+  1.11.3-beta.1
+  FEATURE (snippets order): allow setting order by field and direction from settings closes #249
+  1.11.3-beta.0
+  FEATURE (UI): add background to some app pages
+  FIX (UtilityIcon): sometime errors in case of click outside
+  FIX (router): use proper import instead of depricated
+  FEATURE (esitor): add latex preview with katex
+  CHORE (build): cleanup
+","dbbd264437dc49b1f5a004ce43ab7b0d5391eee0,5999f85c33da91353e568455e2fc6aa557a45520",1,0,0,0,1,"24,25,84,181,68,27,9,0,0,0,0,0,0,0,0,0,0,0",7,418,0.0,55
+17363,gisto_gisto,0b30a8229a7374c909621876c5b470a535bebba7,1562355110,"FIX (layout + inputs): debounce inputs and fix layout glitch caused by chromium upstream
+
+chromium upstream issue: https://bugs.chromium.org/p/chromium/issues/detail?id=927066
+",04db73e21f616761b3974468275b1c564d587445,1,0,0,0,1,"25,25,84,181,68,27,9,0,0,0,0,0,0,0,0,0,0,0",7,419,0.0,55
+17364,gisto_gisto,1ccef3480dd426d76d930fe827fb71f244b9b866,1581541542,Create snapcraft.yaml,4b746fc58afc2e297587211119ad36d8c273410f,1,0,0,0,1,"25,26,84,181,68,27,9,0,0,0,0,0,0,0,0,0,0,0",7,420,0.0,55
+17365,gisto_gisto,b2da41e87c2fbdf1fdd6f4098bef0db4efb73969,1602198902,"FEATURE (preview): openapi/swagger
+",da03b034583a63454c6bef08c9ac415ff7f5ebdb,1,0,0,0,1,"25,26,84,181,69,27,9,0,0,0,0,0,0,0,0,0,0,0",7,421,0.0,55

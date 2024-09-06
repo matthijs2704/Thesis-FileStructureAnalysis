@@ -1,0 +1,214 @@
+,repo_id,commit_id,commit_time,message,parents,n_added,n_deleted,n_moved,n_renamed,n_struc_changes,total_files_per_level,max_file_depth,total_files,max_file_depth_diff,bucket
+16283,conradkleinespel_rooster,9b64a6764ce817ab93fc9a7fec71ae63a9b21eb8,1422924185,"Initial commit.
+",,6,0,0,0,6,"4,2,0,0,0,0,0,0,0,0",2,6,2.0,0
+16284,conradkleinespel_rooster,5563ad347dc64af277105c5602ad497a781c0dd1,1423015666,"support ""add"" command
+",9b64a6764ce817ab93fc9a7fec71ae63a9b21eb8,8,0,0,0,8,"4,5,5,0,0,0,0,0,0,0",3,14,1.0,0
+16285,conradkleinespel_rooster,608f7f252347f11559e582b8a5d59076c2725bb1,1423228925,"remove macro duplication
+",5b30f74dda49196d4b28328c4b2ccfc2782a399d,1,0,0,0,1,"4,6,5,0,0,0,0,0,0,0",3,15,0.0,0
+16286,conradkleinespel_rooster,845d14bdf0e9a1c532de4a7884b2efc3be520880,1423735635,"add a ""list"" command to show all saved apps/usernames
+",13d97e58c2402e757b26db4d9086329cb0d68ea3,1,0,0,2,3,"4,6,6,0,0,0,0,0,0,0",3,16,0.0,0
+16287,conradkleinespel_rooster,f73617ad7289366e1a02f94d382e841f1265d756,1441375569,"adds regenerate command
+",c35983b7829da4663c8ebbbcef7fc59defbe3a4b,1,0,0,0,1,"4,6,7,0,0,0,0,0,0,0",3,17,0.0,0
+16288,conradkleinespel_rooster,44c838edd14994d7b2ed0f48829088e495ab83fe,1442701755,"rebrand to Rooster
+",58979fe778fe84f72f068098771c572963c4a761,1,0,0,0,1,"5,6,7,0,0,0,0,0,0,0",3,18,0.0,0
+16289,conradkleinespel_rooster,5d2337c9c5561eab2828a452cc8685e9a474a6e9,1446484527,"cleans up code and prepares for version 2
+
+- specifies new, versioned, file format for easier upgrades
+- simplifies command specific help
+- simpler and more expressive output macros
+- removes duplicate/useless code
+- changes key derivation function to scrypt
+- smooth upgrade path from v1 to v2
+",36e21cda61985ce0d92f50ea27a60fe8e435507e,4,1,0,0,5,"6,5,10,0,0,0,0,0,0,0",3,21,0.0,0
+16290,conradkleinespel_rooster,a00880063138adc42518d56d46c317cca464dc53,1448799365,"more-cleanup
+
+- removes ScrubMemory trait in favor of a safe Drop
+- refactor v2 to use a PasswordStore instance that contains
+everything needed to handle passwords, without regenerating the
+encryption key for every operation (as was previously the case)
+- removes temp files from the file format upgrader
+",5d2337c9c5561eab2828a452cc8685e9a474a6e9,1,0,0,0,1,"6,6,10,0,0,0,0,0,0,0",3,22,0.0,0
+16291,conradkleinespel_rooster,1971eb65e116d11342e17c5805475367ffc6e4e2,1449093376,"adds safe vec
+",a9b8a21eae11fc79efb317281bb4b94f5f118f09,1,0,0,0,1,"6,7,10,0,0,0,0,0,0,0",3,23,0.0,0
+16292,conradkleinespel_rooster,9f8ba2f58b5ee4c02b0e167efb77f4e3bb2fcaea,1450017300,"adds ""export"" command
+",ab051550ee1d0755fdda416a9de0a028f01028df,1,0,0,0,1,"6,7,11,0,0,0,0,0,0,0",3,24,0.0,0
+16293,conradkleinespel_rooster,42044d7125d3490c08f264bee32d8d5210fd8c37,1450018235,"moves password generation functions out of command mod
+",9f8ba2f58b5ee4c02b0e167efb77f4e3bb2fcaea,1,0,0,0,1,"6,8,11,0,0,0,0,0,0,0",3,25,0.0,0
+16294,conradkleinespel_rooster,e6c9c7484a5e9b5ce46e8121581563a72e662513,1450028509,"adds support for changing master password
+",20be3c4d5ec843e4d7848f583713d7025db7a4f3,1,0,0,0,1,"6,8,12,0,0,0,0,0,0,0",3,26,0.0,0
+16295,conradkleinespel_rooster,d2c55c3e45fd4874e3ea44e01d65c8e29c1b2a5b,1450695009,"updates installation instructions to use ""cargo install""
+",b1beea8560893fbe294ac44016862c1c91551c69,0,1,0,0,1,"5,8,12,0,0,0,0,0,0,0",3,25,0.0,0
+16296,conradkleinespel_rooster,e5a6f302a8f14d1bd7d94e2c16452dd577f421c3,1450713877,"adds master password confirmation
+",c1fdfbe3c6f247779b139b701e1fcdcca99a4f7a,0,0,0,1,1,"5,8,12,0,0,0,0,0,0,0",3,25,0.0,0
+16297,conradkleinespel_rooster,6c1f84e07fd8fe8e99fa16f08d39e5cb952c3b96,1450718403,"adds analytics opt-out support
+",6a256bc4dda6c9d8d05bbf339d6b39fee0366a7f,1,0,0,0,1,"5,9,12,0,0,0,0,0,0,0",3,26,0.0,0
+16298,conradkleinespel_rooster,98db8270a40f8c15b38ccd094f8b1c0435cc4c6c,1452522981,"removes analytics, improves error messages
+","6c1f84e07fd8fe8e99fa16f08d39e5cb952c3b96,a6297f3b7d52a6da505a6626cd55940cb292a522",0,1,0,0,1,"5,8,12,0,0,0,0,0,0,0",3,25,0.0,0
+16299,conradkleinespel_rooster,9f236378b41d864a89763a7713496d29a4ea0da7,1452814395,"adds contribution guidelines and tips
+",7ebfee228b4f00cf19a84c379fb04f8c29be93d1,1,0,0,0,1,"6,8,12,0,0,0,0,0,0,0",3,26,0.0,0
+16300,conradkleinespel_rooster,502bddd2cdacb11eb5eab99b61a37411735644e7,1458950414,"copies password to clipboard on add/gen/regen/get
+",5139e2c8b7788e80e150276888ddf9c5bfc06bbe,2,0,0,1,3,"6,10,12,0,0,0,0,0,0,0",3,28,0.0,0
+16301,conradkleinespel_rooster,ca88dd020ca6e60be8898d6f721d8f6be9a9c2b9,1471154319,"command: adds rename command
+",39202895085ebc556575783f8374bd05f0b191c8,2,0,0,0,2,"6,10,14,0,0,0,0,0,0,0",3,30,0.0,0
+16302,conradkleinespel_rooster,c9ccf6dfbc8079c9f48188ef35d65adf9d6066d8,1472839281,"brings back banner
+",81bf6f7c3ff31348eb8fdc8307d3c52460ba6a40,1,0,0,0,1,"7,10,14,0,0,0,0,0,0,0",3,31,0.0,0
+16303,conradkleinespel_rooster,4764bcd6a073d30ddebeea4503ad190d465f799d,1472839697,"adds drone build
+",bbbbf4729ce1e48ba023980704cecefb554065a8,1,0,0,0,1,"8,10,14,0,0,0,0,0,0,0",3,32,0.0,0
+16304,conradkleinespel_rooster,9164d14541db4ce7601a95939fde7f9059186e5d,1483399998,"removed broken drone build, updates dependencies
+",37fe60e74d1635e632cc08753bf565e828b341e9,0,1,0,0,1,"7,10,14,0,0,0,0,0,0,0",3,31,0.0,0
+16305,conradkleinespel_rooster,d5e39eb32b37222747369e4094fd850dce64dd41,1483561233,"adds search command
+",c2c1425ac2c771bfa003dffd3f0234aff3c70bb0,1,0,0,0,1,"7,10,15,0,0,0,0,0,0,0",3,32,0.0,0
+16306,conradkleinespel_rooster,84d95a98c4ab2496dd306fdf0b91dec45e468596,1483814874,"adds install.sh script
+",a1bee89644773d6508a605f1f5ccc0221879bd34,1,0,0,0,1,"8,10,15,0,0,0,0,0,0,0",3,33,0.0,0
+16307,conradkleinespel_rooster,e19613b7413d993da01baefea4ee0e93fbdffb4d,1483895021,"adds uninstall command
+",84d95a98c4ab2496dd306fdf0b91dec45e468596,1,0,0,0,1,"8,10,16,0,0,0,0,0,0,0",3,34,0.0,0
+16308,conradkleinespel_rooster,c10e0919c811422f90977b86e34bf1fab2b5cb37,1487875946,"replaces ""get"" with ""search""
+",63b7888db6db4a8c49958ac11169b30e570edffa,0,1,0,0,1,"8,10,15,0,0,0,0,0,0,0",3,33,0.0,0
+16309,conradkleinespel_rooster,86ce158c57837fc2e14df3468c16f1c4e06df70c,1487990200,"helps new users setup Rooster with Dropbox on first use
+",914fa3c918930d2f0f346f60ac79c37e844c6d91,0,0,0,1,1,"8,10,15,0,0,0,0,0,0,0",3,33,0.0,0
+16310,conradkleinespel_rooster,080c72a0bca485722b81a2217b7ba68b3b7202d1,1487991318,"Update README.md
+",6f8264eee4a15a52e4628c64dcfddc53c7bdf8be,0,1,0,0,1,"7,10,15,0,0,0,0,0,0,0",3,32,0.0,0
+16311,conradkleinespel_rooster,c408dde2d388171a6b80ec59b66dba18dd6effe5,1495446091,"adds transfer command: changes the username of an app
+",70052e03b34cb5efc4643489d5cb15375e1d973c,1,0,0,0,1,"7,10,16,0,0,0,0,0,0,0",3,33,0.0,0
+16312,conradkleinespel_rooster,ab08c7a74504126d69366def99daeaeda92f8d5b,1500755458,"refactor list code into reusable module
+",46f4bbf29939642f72656a5001b4ca8a7165a2d6,1,0,0,0,1,"7,11,16,0,0,0,0,0,0,0",3,34,0.0,0
+16313,conradkleinespel_rooster,75dec781eb4204c50601c3f5fd54e36f91e943a5,1501350774,"adds LICENSE file
+",0b29e1bc81bab322fb33b63a39709077b504d1ad,1,0,0,0,1,"8,11,16,0,0,0,0,0,0,0",3,35,0.0,0
+16314,conradkleinespel_rooster,fc2a0fb3db41a69309aa98592ddbb8da4027188d,1501365198,"refactors/fixes clipboard functions on UNIX
+",75dec781eb4204c50601c3f5fd54e36f91e943a5,1,2,0,0,3,"8,10,16,0,0,0,0,0,0,0",3,34,0.0,0
+16315,conradkleinespel_rooster,f491620f48c2483dbdc0b182d88a0d75c978eb51,1503412523,"Implement import command (#34)
+
+* Implement import command
+",07e3a35b81f3747882ea8e5d8f534a3962d640cb,1,0,0,0,1,"8,10,17,0,0,0,0,0,0,0",3,35,0.0,0
+16316,conradkleinespel_rooster,8dccca75f85c396630cc57af2d8b6a446da8a327,1503915204,"runs cargo-fmt, mv src/main-rooster.rs src/main.rs
+",667926137d9c53183574b5ad04da9191f1bed879,0,0,0,1,1,"8,10,17,0,0,0,0,0,0,0",3,35,0.0,0
+16317,conradkleinespel_rooster,04789c846226868ecc9bb54dc9c8ac3a46480a8b,1504278186,"adds docker image, resolves #25 (#32)
+",9dafbcb85466bc874753ec574c6df1c1b45a6317,2,0,0,0,2,"10,10,17,0,0,0,0,0,0,0",3,37,0.0,0
+16318,conradkleinespel_rooster,4ec0179f0eac5ef6911cbf892341957632b68c14,1504278221,"30DaysOfTests: rooster file is not created if not wanted
+",04789c846226868ecc9bb54dc9c8ac3a46480a8b,1,0,0,0,1,"10,11,17,0,0,0,0,0,0,0",3,38,0.0,0
+16319,conradkleinespel_rooster,0b37881ccfeaf6a2d7e4450da126045323b7c657,1504278239,"30DaysOfTests: rooster file created on first run
+",4ec0179f0eac5ef6911cbf892341957632b68c14,1,0,0,0,1,"10,12,17,0,0,0,0,0,0,0",3,39,0.0,0
+16320,conradkleinespel_rooster,b0e6dab48607a13e9d58dd8891a9d9cff697829e,1504279560,"30DaysOfTests: setup work with Dropbox disabled
+",0b37881ccfeaf6a2d7e4450da126045323b7c657,1,0,0,0,1,"10,13,17,0,0,0,0,0,0,0",3,40,0.0,0
+16321,conradkleinespel_rooster,c4da043b21347af27c1b6195d86890a1272f9327,1504279570,"30DaysOfTests: setup work with Dropbox enabled
+",b0e6dab48607a13e9d58dd8891a9d9cff697829e,1,0,0,0,1,"10,14,17,0,0,0,0,0,0,0",3,41,0.0,0
+16322,conradkleinespel_rooster,5cc8e3059ebbc59bf9b3c45ff21af6665bf99704,1504280176,"30DaysOfTests: password retry succeeds on 3rd try
+",c4da043b21347af27c1b6195d86890a1272f9327,1,0,0,0,1,"10,15,17,0,0,0,0,0,0,0",3,42,0.0,0
+16323,conradkleinespel_rooster,a2aaf9c8f2759d56dbc153edb46e111a69fdfe12,1504280191,"30DaysOfTests: password retry indicates corruption after 3 tries
+",5cc8e3059ebbc59bf9b3c45ff21af6665bf99704,1,0,0,0,1,"10,16,17,0,0,0,0,0,0,0",3,43,0.0,0
+16324,conradkleinespel_rooster,262656f921dc033082a5c45bf24dc718a63cc813,1504281979,"30DaysOfTests: rooster shows warning on corrupted file
+",a2aaf9c8f2759d56dbc153edb46e111a69fdfe12,2,0,0,0,2,"10,18,17,0,0,0,0,0,0,0",3,45,0.0,0
+16325,conradkleinespel_rooster,7a1914d180fb386e661f2bf207ca5eaee7fdb224,1505335700,"30DaysOfTests: set-master-password command
+",23efdd30a393d77378402ba4faf0fb395db94acd,1,0,0,0,1,"10,19,17,0,0,0,0,0,0,0",3,46,0.0,0
+16326,conradkleinespel_rooster,6b1205282967490d24ad7306d12cbffbf6a05466,1505335935,"30DaysOfTests: list command
+",7a1914d180fb386e661f2bf207ca5eaee7fdb224,1,0,0,0,1,"10,20,17,0,0,0,0,0,0,0",3,47,0.0,0
+16327,conradkleinespel_rooster,e29108504478d33b89865801ffe78c3cfdfb1270,1505336305,"30DaysOfTests: delete command
+",6b1205282967490d24ad7306d12cbffbf6a05466,1,0,0,0,1,"10,21,17,0,0,0,0,0,0,0",3,48,0.0,0
+16328,conradkleinespel_rooster,6aeb1e74990af61589807d272eb2a917040c98b1,1505336633,"30DaysOfTests: regenerate command
+",e29108504478d33b89865801ffe78c3cfdfb1270,1,0,0,0,1,"10,22,17,0,0,0,0,0,0,0",3,49,0.0,0
+16329,conradkleinespel_rooster,f359eb875036a6492c2f71fc0b586ad8500fa5c8,1505336761,"30DaysOfTests: generate command
+",6aeb1e74990af61589807d272eb2a917040c98b1,1,0,0,0,1,"10,23,17,0,0,0,0,0,0,0",3,50,0.0,0
+16330,conradkleinespel_rooster,2ac9ea780ebc81d5e1b039b9088a5efd9ac96749,1505337080,"30DaysOfTests: get command
+",f359eb875036a6492c2f71fc0b586ad8500fa5c8,1,0,0,0,1,"10,24,17,0,0,0,0,0,0,0",3,51,0.0,0
+16331,conradkleinespel_rooster,b69856095c52f6a58bb0aa9ec6defb5ae7c767c7,1505337325,"30DaysOfTests: rename command
+",2ac9ea780ebc81d5e1b039b9088a5efd9ac96749,1,0,0,0,1,"10,25,17,0,0,0,0,0,0,0",3,52,0.0,0
+16332,conradkleinespel_rooster,d172719105175bc142de9d49d737bb2da653b1e5,1505337448,"30DaysOfTests: transfer command
+",b69856095c52f6a58bb0aa9ec6defb5ae7c767c7,1,0,0,0,1,"10,26,17,0,0,0,0,0,0,0",3,53,0.0,0
+16333,conradkleinespel_rooster,3bcec92e995512e8d4670a9e4081986bc5f2740a,1505338029,"adds docs on how to run tests
+",d172719105175bc142de9d49d737bb2da653b1e5,1,0,0,0,1,"11,26,17,0,0,0,0,0,0,0",3,54,0.0,0
+16334,conradkleinespel_rooster,7085e44f0763ed1df40b8c35f554da38397aa0b9,1505664483,"tests: adds integration test for rooster change
+",7184dada160e644a97c381a5a50af7bfd3ad53a8,1,0,0,0,1,"11,27,17,0,0,0,0,0,0,0",3,55,0.0,0
+16335,conradkleinespel_rooster,d373ff2d1798238db34ceeeca67be120f9966fbc,1505664488,"tests: adds integration test for rooster add
+",7085e44f0763ed1df40b8c35f554da38397aa0b9,1,0,0,0,1,"11,28,17,0,0,0,0,0,0,0",3,56,0.0,0
+16336,conradkleinespel_rooster,87bd90aa20a0220e4674b8743fa31f992985b734,1505664977,"fixes ""rooster uninstall"" & adds integration test
+",d373ff2d1798238db34ceeeca67be120f9966fbc,1,0,0,0,1,"11,29,17,0,0,0,0,0,0,0",3,57,0.0,0
+16337,conradkleinespel_rooster,42169cfc14f1f7cfbd91cf06830ed014a1a1be15,1505666434,"adds integration test for ""rooster export""
+",87bd90aa20a0220e4674b8743fa31f992985b734,1,0,0,0,1,"11,30,17,0,0,0,0,0,0,0",3,58,0.0,0
+16338,conradkleinespel_rooster,9f8cea8befbd2e1bf8e68cbadaade1de86e4ce19,1506027551,"adds ""init"" command that helps creating a new password file
+",42169cfc14f1f7cfbd91cf06830ed014a1a1be15,1,0,0,0,1,"11,30,18,0,0,0,0,0,0,0",3,59,0.0,0
+16339,conradkleinespel_rooster,93aaf71421370164c9b3ef0e0c4ad129446198f5,1506030408,"updates integration tests
+",9f8cea8befbd2e1bf8e68cbadaade1de86e4ce19,0,3,0,0,3,"11,27,18,0,0,0,0,0,0,0",3,56,0.0,0
+16340,conradkleinespel_rooster,f1e11db0aae252d7b517801816ce8f379e91b0ca,1509203646,"Vendoring (#41)
+
+",7fc3211d28f82104e7def418612b6d64cf11ba4d,987,0,0,0,987,"11,28,284,510,121,32,14,20,19,4",10,1043,7.0,0
+16341,conradkleinespel_rooster,c10b02fef782641239bddd89d1d05d9ee12b818f,1509205227,"fix xcb and dependency update (rpassword 2.0)
+",f1e11db0aae252d7b517801816ce8f379e91b0ca,52,0,0,0,52,"11,37,324,513,121,32,14,20,19,4",10,1095,0.0,0
+16342,conradkleinespel_rooster,2e07766a5d249ec5f335068472fc88d5039404b7,1509220573,"adds weak command
+",c10b02fef782641239bddd89d1d05d9ee12b818f,356,0,0,0,356,"12,37,454,708,151,32,14,20,19,4",10,1451,0.0,0
+16343,conradkleinespel_rooster,85543bfc70313cb6fdae893aefb89324717b86f5,1509270231,"removes audit warning, new crates have been checked
+",50a4229dda3c7c828cdd10e59394a7cce58be5b9,0,1,0,0,1,"11,37,454,708,151,32,14,20,19,4",10,1450,0.0,0
+16344,conradkleinespel_rooster,6de0676fb4ff8c1ca217c6b2c5014dfd07314589,1509271659,"adds tests following addition of ""rooster weak""
+",85543bfc70313cb6fdae893aefb89324717b86f5,1,0,0,0,1,"11,38,454,708,151,32,14,20,19,4",10,1451,0.0,0
+16345,conradkleinespel_rooster,2cf545198c314491346e9160db211fa3ec8b09cf,1509297190,"updates hash in install.sh file for 2.7.1
+",acd8a4a558fc75320c5d2db9f3cf39f3cdbf28c7,62,0,0,0,62,"11,38,454,739,182,32,14,20,19,4",10,1513,0.0,0
+16346,conradkleinespel_rooster,8dea242ee5b70dfe67c596b8a6831590f0a7182e,1519484944,"Updates dependencies (#46)
+
+",e3db93515af49abb15a250f9de0b827ac1196d12,3216,62,169,1,3448,"11,38,496,3565,466,34,14,20,19,4",10,4667,0.0,0
+16347,conradkleinespel_rooster,db75244dcc1d38306c1c70f33b744585671cf0f8,1538843854,"updates dependencies
+",23edd08cad364de163f6bfb4dd81b20781e1ce92,792,208,108,0,1108,"11,29,597,3786,679,85,16,18,28,2",10,5251,0.0,0
+16351,conradkleinespel_rooster,bd373fcf85691efa314457de2b7c2fa00841b6a9,1554657875,"adds set-scrypt-params command
+",28e40de0febf5d8b73859172033acc3e2a5cb6b3,1,0,0,0,1,"11,29,598,3786,679,85,16,18,28,2",3,66,0.0,0
+16350,conradkleinespel_rooster,a1f0c167863465a8adcbe9074c88c092683f6394,1554657875,"replaces rust-crypto with openssl/libsodium
+",a9628b1a451244342d100ef668b6198aa34a69c0,6,2,0,0,8,"15,29,598,3786,679,85,16,18,28,2",3,65,0.0,0
+16348,conradkleinespel_rooster,28e40de0febf5d8b73859172033acc3e2a5cb6b3,1554657875,"updates installation & test instructions
+",a1f0c167863465a8adcbe9074c88c092683f6394,1,0,0,1,2,"16,29,598,3786,679,85,16,18,28,2",3,60,-7.0,0
+16349,conradkleinespel_rooster,a9628b1a451244342d100ef668b6198aa34a69c0,1554657875,"removes dependencies on xcb/quale/shell_escape, unvendor
+",db75244dcc1d38306c1c70f33b744585671cf0f8,1,5192,1,0,5194,"16,30,20,0,0,0,0,0,0,0",3,64,0.0,0
+16352,conradkleinespel_rooster,0f49f29224d0be0a6b2aeb5204c536e3feba326d,1560810083,"i've heard the logo sucks multiple times now, so there it goes :wave:  :rooster: 
+
+:wave:",01f3ae079e63043a68ab132baddac71954f4a2b8,0,1,0,0,1,"15,30,20,0,0,0,0,0,0,0",3,65,0.0,0
+16353,conradkleinespel_rooster,2165c79ca75e62dc06f092e9e690a2cae0429df1,1575321046,"simplifies init script
+",473a068f44e87e01ea97b8370f220a27beeb3414,0,1,0,0,1,"15,29,20,0,0,0,0,0,0,0",3,64,0.0,0
+16354,conradkleinespel_rooster,1f83c25c153d98706b4b06fb9535fbe8022c5a78,1575567321,"adds automated travis build
+",9de4a35c85d2e44769b5391235ee275464cbbce2,2,2,18,0,22,"15,29,20,0,0,0,0,0,0,0",3,64,0.0,0
+16355,conradkleinespel_rooster,955671f86841a6a03ba8071b41d273f02d066bb3,1579546209,"removes idea file
+",760662c9be34f52d73b311e651689c35b721757f,0,1,0,0,1,"14,29,20,0,0,0,0,0,0,0",3,63,0.0,0
+16356,conradkleinespel_rooster,96f6d05d9256f562fbd0e72c4a8b80b5ad52e705,1604773125,"Update funding information
+",236ffa21028e5ec4ae2f06c5d9c9078531929296,1,0,0,0,1,"14,30,20,0,0,0,0,0,0,0",3,64,0.0,0
+16357,conradkleinespel_rooster,d884865b4791cf11102743ca098b0f4112da6eff,1605042003,"Moves arg parsing to clap
+
+- The custom getopts code was a bit difficult to work with, especially
+when working on multi-level subcommands, which is needed for
+multi-vendor export functionnality. Using clap will make this easy.
+
+- Because Travis no longer processes open source CI for free, Rooster's
+CI was no longer working. Moving to Github Actions seems easiest.
+
+- The weak command was unusable in practice because some websites
+require weak passwords for whatever reason.
+
+- The uninstall command was out of date. When installing Rooster with a
+package manager, it was suggesting bad uninstall commands.
+",96f6d05d9256f562fbd0e72c4a8b80b5ad52e705,1,5,0,0,6,"13,28,19,0,0,0,0,0,0,0",3,60,0.0,0
+16358,conradkleinespel_rooster,4168b434c5765055bdb3712522c4bba4e67048aa,1605558973,"Adds 1password export/import (#56)
+
+",e931ef0a46adc51f2b5cecabb4393f3d37384e9b,1,0,0,0,1,"13,29,19,0,0,0,0,0,0,0",3,61,0.0,0
+16359,conradkleinespel_rooster,d5d9450993f335e2c6f55c8f9f4a52d17be74464,1611009874,"Merge pull request #58 from conradkleinespel/testable
+
+Makes Rooster easier to test in pure Rust","6a2d8f2c350b11871c1c4c37c9f4e25ca95c7239,7602a465c33d482dea8e9996418189ada0a07648",18,18,0,0,36,"13,28,20,0,0,0,0,0,0,0",3,61,0.0,0
+16360,conradkleinespel_rooster,666421b61f8740090945dbdf044ea17b4f0be449,1611426258,"Merge pull request #59 from conradkleinespel/add-scrypt-test
+
+Adds tests for set-scrypt-params","d5d9450993f335e2c6f55c8f9f4a52d17be74464,00aca52f13f7363cd0e62e3d912a4a3d33c98cba",1,0,0,0,1,"13,29,20,0,0,0,0,0,0,0",3,62,0.0,0
+16361,conradkleinespel_rooster,53e03787430b7f135bb86bc495fe712f776f7d32,1612731371,Delete Cargo.lock,e7a6369826868554aef21561d69f35a6978d166e,0,1,0,0,1,"12,29,20,0,0,0,0,0,0,0",3,61,0.0,0
+16362,conradkleinespel_rooster,3f12c511db10118d5c320e5af7b0bb0941048ba2,1618435360,"Allow testing Rust packages using `cross`
+",cbf0680a48986857a97424b6b0f49ae02fcdf147,0,10,0,1,11,"12,29,17,-7,0,0,0,0,0,0",4,51,1.0,0
+16363,conradkleinespel_rooster,a609af1b46368a3facedf7781876c8feeb0de9d1,1618435360,"Replay monorepo history onto multirepo
+",3f12c511db10118d5c320e5af7b0bb0941048ba2,4,0,0,0,4,"12,31,19,-7,0,0,0,0,0,0",3,64,-1.0,0
+16364,conradkleinespel_rooster,84c3aa2b3542cc6dbf6521bc780c2b1e71f6072f,1618435360,"Add funding information to projects
+",a609af1b46368a3facedf7781876c8feeb0de9d1,1,0,0,0,1,"12,32,19,-7,0,0,0,0,0,0",3,65,0.0,0
+16365,conradkleinespel_rooster,1e600e8ab476e97e032ef1e27e8547d7fbeeb629,1618435360,"Add tests to multirepos
+",84c3aa2b3542cc6dbf6521bc780c2b1e71f6072f,1,0,0,0,1,"12,32,20,-7,0,0,0,0,0,0",3,66,0.0,0
+16366,conradkleinespel_rooster,cbf0680a48986857a97424b6b0f49ae02fcdf147,1618435360,"removes duck-tools
+",53e03787430b7f135bb86bc495fe712f776f7d32,17,4,2,0,23,"12,30,28,0,0,0,0,0,0,0",3,70,0.0,0
+16367,conradkleinespel_rooster,0df355372a01b1afcd94152373c9f4f86dd12fc3,1669500651,"Add contributing guidelines
+",80b1a76e049cc07d5768f7d62925cd356f867e4e,1,0,0,0,1,"13,30,28,0,0,0,0,0,0,0",3,57,0.0,0
+16368,conradkleinespel_rooster,9e0fc3cc68c698f1513d7f6163747a260526f235,1669500651,"Handle Ctrl-U in rpassword
+",84f993da24126b507c72da28509ce03b55d76259,0,0,0,1,1,"13,30,28,0,0,0,0,0,0,0",3,56,0.0,0
+16369,conradkleinespel_rooster,3000b5f51d3eaef3d2a3b76cc393963cbbdcd442,1669500651,"Use Cargo workspaces instead of symlinks
+",9e0fc3cc68c698f1513d7f6163747a260526f235,0,13,0,0,13,"13,26,19,0,0,0,0,0,0,0",3,57,0.0,0
+16370,conradkleinespel_rooster,c7db93f5d801226205350d4dc1fba8bf8965a350,1669500651,"Remove tests of individual crates
+",88399324652086f3449bbfa131bfaf1689afd5d4,0,1,0,0,1,"13,26,18,0,0,0,0,0,0,0",3,57,0.0,0
+16371,conradkleinespel_rooster,bdf5fbd0ecf03e8366091467e746e92f10c89e5b,1699917364,"Update Rooster documentation
+",212756b92c0a1d10df99ba86d3aa8a4a3f6d7d09,1,0,0,0,1,"14,26,18,0,0,0,0,0,0,0",3,58,0.0,0
+16372,conradkleinespel_rooster,15d279ff839754aff96867102589fc957c129e10,1700807521,"Removes libsodium in favor of pure rust libs
+",79a90b3bb8d7c18016376bc548b3debdb56300e5,0,1,0,0,1,"13,26,18,0,0,0,0,0,0,0",3,57,0.0,0
